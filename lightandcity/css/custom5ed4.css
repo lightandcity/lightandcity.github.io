@@ -547,7 +547,7 @@
 	}
 	.doz_sys a, .doz_sys a:hover {
 	;
-		color: #430000;
+		color: #000000;
 	}
 	.doz_sys a.cart-ctn, .doz_sys a.cart-ctn:hover{
 	;
@@ -2447,7 +2447,7 @@
         .mypage-coupon-wrap .sale-coupon-name-text {
             font-weight: 400;
             font-size: 12px;
-            color: #15181E;
+            color: #000000;
         }
         .mypage-coupon-wrap .coupon-desc {
             padding: 4px 0px;
@@ -2589,7 +2589,7 @@
 		.prod-detail-coupon-container .price-sub-title {
 			font-size: 16px;
 			font-weight: 400;
-			color: #430000;
+			color: #000000;
 			line-height: 150%;
             margin-bottom: 4px;
 			text-align: left;
