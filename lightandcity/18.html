@@ -4187,71 +4187,205 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
 	
 			
 		<main> 		 	 			 		 		 	 			 		 		 	 			 		 		 	 			 		<div doz_type="row" doz_grid="12" class="doz_row"><div doz_type="grid" doz_grid="12" class="col-dz col-dz-12"><div doz_type="widget" id="w202408220db48e31d81b2"><div class="_widget_data " data-widget-name="메뉴/카테고리" data-widget-type="sub_menu" data-widget-anim="none" data-widget-anim-duration="0.7" data-widget-anim-delay="0" data-widget-parent-is-mobile="N"><div class="widget">
-	<div class="nav sub-menu sub_menu_hide  h-menu-type1 menu-horizontal row-cnt-3 row-cnt-mobile-3">
-		<ul class="">
 	
-	<li style="" class="depth-01    " data-code="m20221209690efd15e7457">
-		<a href="23.html" data-url="23" data-has_child="N" data-is_folder_menu="N" class=" _fade_link   ">
-			<span class="plain_name" data-hover="">기술평가</span>
-		</a>
-		
-	</li>
-	
-	<li style="" class="depth-01    " data-code="m2022120939401292beeda">
-		<a href="24.html" data-url="24" data-has_child="N" data-is_folder_menu="N" class=" _fade_link   ">
-			<span class="plain_name" data-hover="">기술자문</span>
-		</a>
-		
-	</li>
-	
-	<li style="" class="depth-01    " data-code="m202212092369e6a80aa00">
-		<a href="25.html" data-url="25" data-has_child="N" data-is_folder_menu="N" class=" _fade_link   ">
-			<span class="plain_name" data-hover="">기술감정</span>
-		</a>
-		
-	</li>
-	
-	<li style="" class="depth-01    " data-code="m2022120979e7714f01387">
-		<a href="26.html" data-url="26" data-has_child="N" data-is_folder_menu="N" class=" _fade_link   ">
-			<span class="plain_name" data-hover="">기술서비스</span>
-		</a>
-		
-	</li>
-	
-	<li style="" class="depth-01    " data-code="m20221209c0d5ee1bec975">
-		<a href="27.html" data-url="27" data-has_child="N" data-is_folder_menu="N" class=" _fade_link   ">
-			<span class="plain_name" data-hover="">안전진단</span>
-		</a>
-		
-	</li>
-	
-	<li style="" class="depth-01    " data-code="m202212095fe0f37fc553b">
-		<a href="28.html" data-url="28" data-has_child="N" data-is_folder_menu="N" class=" _fade_link   ">
-			<span class="plain_name" data-hover="">건설엔지니어링</span>
-		</a>
-		
-	</li>
-	
-	<li style="" class="depth-01    " data-code="m202408261636542ff0989">
-		<a href="44.html" data-url="44" data-has_child="N" data-is_folder_menu="N" class=" _fade_link   ">
-			<span class="plain_name" data-hover="">소음·진동 측정</span>
-		</a>
-		
-	</li>
-	
-	<li style="" class="depth-01    " data-code="m2024082287bfd2a5a8ae8">
-		<a href="43.html" data-url="43" data-has_child="N" data-is_folder_menu="N" class=" _fade_link   ">
-			<span class="plain_name" data-hover="">건축물 해체계획서(건축물관리법)</span>
-		</a>
-		
-	</li>
-	
-	</ul>	</div>
 </div>
 
 
 
-</div></div></div></div><div doz_type="row" doz_grid="12" class="doz_row"><div doz_type="grid" doz_grid="12" class="col-dz col-dz-12"><div doz_type="widget" id="w20240822dab3ec8af5686"><div class="_widget_data " data-widget-name="메뉴 타이틀" data-widget-type="menu_title" data-widget-anim="none" data-widget-anim-duration="0.7" data-widget-anim-delay="0" data-widget-parent-is-mobile="N"><h1 class="widget_menu_title" style="color : #000;font-size : 16px;letter-spacing : px;text-align : left;font-weight : normal;font-style : normal;">서비스</h1>
+</div></div></div></div>
+
+<div doz_type="row" doz_grid="12" class="doz_row"><div doz_type="grid" doz_grid="12" class="col-dz col-dz-12"><div doz_type="widget" id="w20240822dab3ec8af5686">
+	
+				
+<!-- 기존 HTML 코드 중간에 삽입 -->
+<div class="pdf-slideshow-container">
+    <div class="pdf-viewer">
+        <iframe id="pdf-viewer" 
+                src="common\img\주식회사 빛과도시 홍보자료.pdf" 
+                width="150%" 
+                height="650px"
+                style="border: none;">
+        </iframe>
+    </div>
+
+</div>
+
+<script>
+// PDF.js를 사용한 슬라이드쇼
+class PDFSlideshow {
+    constructor() {
+        this.pdfDoc = null;
+        this.pageNum = 1;
+        this.pageRendering = false;
+        this.pageNumPending = null;
+        this.canvas = document.createElement('canvas');
+        this.ctx = this.canvas.getContext('2d');
+        
+        this.init();
+    }
+    
+    async init() {
+        // PDF.js 스크립트 동적 로드
+        if (typeof pdfjsLib === 'undefined') {
+            await this.loadPDFJS();
+        }
+        
+        // PDF 로드
+        await this.loadPDF('YOUR_PDF_URL');
+    }
+    
+    loadPDFJS() {
+        return new Promise((resolve) => {
+            const script = document.createElement('script');
+            script.src = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js';
+            script.onload = resolve;
+            document.head.appendChild(script);
+        });
+    }
+    
+    async loadPDF(url) {
+        const loadingTask = pdfjsLib.getDocument(url);
+        this.pdfDoc = await loadingTask.promise;
+        
+        // 총 페이지 수 표시
+        document.getElementById('total-pages').textContent = this.pdfDoc.numPages;
+        
+        // 첫 페이지 렌더링
+        this.renderPage(this.pageNum);
+    }
+    
+    async renderPage(num) {
+        this.pageRendering = true;
+        
+        const page = await this.pdfDoc.getPage(num);
+        const viewport = page.getViewport({ scale: 1.5 });
+        
+        this.canvas.height = viewport.height;
+        this.canvas.width = viewport.width;
+        
+        const renderContext = {
+            canvasContext: this.ctx,
+            viewport: viewport
+        };
+        
+        await page.render(renderContext).promise;
+        
+        // 캔버스를 화면에 표시
+        const container = document.querySelector('.pdf-viewer');
+        container.innerHTML = '';
+        container.appendChild(this.canvas);
+        
+        // 페이지 정보 업데이트
+        document.getElementById('current-page').textContent = this.pageNum;
+        
+        this.pageRendering = false;
+        
+        if (this.pageNumPending !== null) {
+            this.renderPage(this.pageNumPending);
+            this.pageNumPending = null;
+        }
+    }
+    
+    queueRenderPage(num) {
+        if (this.pageRendering) {
+            this.pageNumPending = num;
+        } else {
+            this.renderPage(num);
+        }
+    }
+    
+    prevPage() {
+        if (this.pageNum <= 1) return;
+        this.pageNum--;
+        this.queueRenderPage(this.pageNum);
+    }
+    
+    nextPage() {
+        if (this.pageNum >= this.pdfDoc.numPages) return;
+        this.pageNum++;
+        this.queueRenderPage(this.pageNum);
+    }
+}
+
+// 슬라이드쇼 초기화
+document.addEventListener('DOMContentLoaded', () => {
+    const slideshow = new PDFSlideshow();
+    
+    // 버튼 이벤트 연결
+    document.querySelector('.prev-btn').addEventListener('click', () => slideshow.prevPage());
+    document.querySelector('.next-btn').addEventListener('click', () => slideshow.nextPage());
+    
+    // 키보드 이벤트
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowLeft') slideshow.prevPage();
+        if (e.key === 'ArrowRight') slideshow.nextPage();
+    });
+});
+</script>
+
+<style>
+.pdf-slideshow-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.pdf-viewer {
+    width: 100%;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #430000;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.slideshow-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 15px;
+}
+
+.prev-btn, .next-btn {
+    padding: 10px 25px;
+    background-color: #430000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.prev-btn:hover, .next-btn:hover {
+    background-color: #5a0000;
+}
+
+.page-info {
+    font-size: 16px;
+    font-weight: bold;
+    color: #430000;
+}
+
+@media (max-width: 100%) {
+    .pdf-viewer {
+        min-height: 400px;
+    }
+    
+    .pdf-viewer iframe {
+        height: 100%;
+    }
+}
+</style>
+			
+			
 
 
 </div></div></div></div></main></div><footer id="doz_footer_wrap"><div id="doz_footer"> 	
