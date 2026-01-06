@@ -4633,129 +4633,30 @@ IP주소, 쿠키, MAC주소, 서비스 이용기록, 방문기록, 불량 이용
 </div>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
   const form = document.querySelector('form[action="https://formspree.io/f/mvzgjygo"]');
-  const privacyCheckbox = document.getElementById('privacyAgreement');
-  const submitBtn = form.querySelector('button[type="submit"]');
-  
-  // 폼 제출 이벤트
-  if (form) {
-    form.addEventListener('submit', function(e) {
-      // 필수 입력 확인
-      const requiredFields = form.querySelectorAll('[required]');
-      let isValid = true;
-      let missingFields = [];
-      
-      requiredFields.forEach(function(field) {
-        if (!field.value.trim()) {
-          isValid = false;
-          field.style.borderColor = '#e53935';
-          field.style.boxShadow = '0 0 0 3px rgba(229, 57, 53, 0.1)';
-          
-          // 필드명 찾기
-          const label = form.querySelector(`label[for="${field.id}"]`) || 
-                       field.previousElementSibling;
-          if (label && label.textContent) {
-            const fieldName = label.textContent.replace(/●/g, '').trim();
-            missingFields.push(fieldName);
-          }
-        } else {
-          field.style.borderColor = '#e8e8e8';
-          field.style.boxShadow = 'none';
-        }
-      });
-      
-      // 개인정보 동의 확인
-      if (privacyCheckbox && !privacyCheckbox.checked) {
-        isValid = false;
-        privacyCheckbox.parentElement.style.backgroundColor = 'rgba(229, 57, 53, 0.1)';
-        missingFields.push('개인정보 동의');
-      } else if (privacyCheckbox) {
-        privacyCheckbox.parentElement.style.backgroundColor = '';
-      }
-      
-      if (!isValid) {
-        e.preventDefault();
-        
-        let errorMessage = '다음 항목을 확인해주세요:\n\n';
-        missingFields.forEach(field => {
-          errorMessage += `• ${field}\n`;
-        });
-        
-        alert(errorMessage);
-        
-        // 버튼 흔들기 효과
-        if (submitBtn) {
-          submitBtn.style.animation = 'shake 0.5s ease-in-out';
-          setTimeout(() => {
-            submitBtn.style.animation = '';
-          }, 500);
-        }
-        
-        return false;
-      }
-      
-      // 버튼 상태 변경
-      if (submitBtn) {
-        submitBtn.innerHTML = '<span style="display: inline-block; vertical-align: middle;">전송 중...</span>';
-        submitBtn.style.background = 'linear-gradient(135deg, #666 0%, #888 100%)';
-        submitBtn.disabled = true;
-        submitBtn.style.cursor = 'not-allowed';
-      }
-      
-      // 성공 메시지 (Formspree 리디렉션 대신)
-      setTimeout(function() {
-        alert('신청서가 접수되었습니다.\n빠른 시일 내로 담당자가 연락드리겠습니다.');
-        
-        if (submitBtn) {
-          submitBtn.innerHTML = '<span style="display: inline-block; vertical-align: middle;">제출완료 ✓</span>';
-          setTimeout(() => {
-            submitBtn.innerHTML = '<span style="display: inline-block; vertical-align: middle;">제출하기</span>';
-            submitBtn.style.background = 'linear-gradient(135deg, #430000 0%, #5a0000 100%)';
-            submitBtn.disabled = false;
-            submitBtn.style.cursor = 'pointer';
-            form.reset();
-          }, 2000);
-        }
-      }, 1500);
-      
-      return true;
-    });
-  }
-  
-  // 입력 필드 포커스 시 개인정보 동의 체크박스 강조 해제
-  const inputs = form.querySelectorAll('input, textarea');
-  inputs.forEach(input => {
-    input.addEventListener('focus', function() {
-      if (privacyCheckbox && !privacyCheckbox.checked) {
-        privacyCheckbox.parentElement.style.backgroundColor = '';
-      }
-    });
-  });
-  
-  // 체크박스 스타일링
-  const checkboxes = form.querySelectorAll('input[type="checkbox"]');
-  checkboxes.forEach(checkbox => {
-    checkbox.addEventListener('change', function() {
-      if (this.checked) {
-        this.parentElement.style.backgroundColor = 'rgba(67, 0, 0, 0.05)';
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault(); // 리디렉션 차단
+
+    const formData = new FormData(form);
+
+    fetch(form.action, {
+      method: 'POST',
+      body: formData,
+      headers: { 'Accept': 'application/json' }
+    }).then(response => {
+      if (response.ok) {
+        alert('신청서가 접수되었습니다.\n빠른 시일 내로 연락드리겠습니다.');
+        form.reset();
       } else {
-        this.parentElement.style.backgroundColor = '';
+        alert('전송 중 오류가 발생했습니다.');
       }
+    }).catch(() => {
+      alert('네트워크 오류가 발생했습니다.');
     });
   });
 });
-
-// 흔들기 애니메이션 추가
-const style = document.createElement('style');
-style.textContent = `
-  @keyframes shake {
-    0%, 100% { transform: translateX(0); }
-    10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
-    20%, 40%, 60%, 80% { transform: translateX(5px); }
-  }
-`;
-document.head.appendChild(style);
 </script>
 
 			
