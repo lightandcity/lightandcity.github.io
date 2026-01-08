@@ -1552,6 +1552,14 @@
 		border-width: 0 0 1px 0;
 	}
 	.board_view .grid_ignore header a,
+.normal-list {
+  padding-left: 3em;   
+}
+
+.normal-list li::marker {
+  content: "•    ";
+  
+}
 	.widget.board .grid_ignore a.board,
 	.editor_box .add_map .info > div.phone,
 	.content-tit .board,
