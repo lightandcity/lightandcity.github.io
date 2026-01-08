@@ -4922,3 +4922,9 @@
             font-size: 32px;
         }
 	}
+@media (max-width: 991px) {
+  #padding_w202303236ef22367ea53a {
+    height: 30px !important;
+    min-height: 30px !important;
+  }
+}
