@@ -7,17 +7,17 @@
   <meta content="#430000" name="theme-color">
    <meta content="#430000" name="msapplication-navbutton-color"/>
    <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/>
-   <meta content="38.html" property="og:url">
+   <meta content="18.html" property="og:url">
     <title>
-     주식회사 빛과 도시
+     주식회사 빛과도시
     </title>
-    <meta content="주식회사 빛과 도시" name="application-name">
-     <meta content="주식회사 빛과 도시" name="msapplication-tooltip">
-      <meta content="주식회사 빛과 도시" id="meta_og_title" property="og:title"/>
-      <meta content="주식회사 빛과 도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." name="description"/>
-      <meta content="주식회사 빛과 도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." property="og:description"/>
+    <meta content="주식회사 빛과도시" name="application-name">
+     <meta content="주식회사 빛과도시" name="msapplication-tooltip">
+      <meta content="주식회사 빛과도시" id="meta_og_title" property="og:title"/>
+      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." name="description"/>
+      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." property="og:description"/>
       <meta content="빛과도시, 기술평가, 기술자문, 기술컨설팅, 건설감정, 법원감정, 건축감정 하자감정 공사비감정 토목감정 특수감정인 안전진단, 안전점검, 건축물관리점검, 준공도서검토, 소음진동, 해체계획서,기술법인,빛과도시" name="keywords"/>
-      <link href="38.html" rel="canonical"/>
+      <link href="18.html" rel="canonical"/>
       <meta content="website" property="og:type"/>
       <meta content="width=device-width,viewport-fit=cover,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
       <meta content="54785077e40988970c94e3b651beb1383359a24f" name="naver-site-verification"/>
@@ -1196,45 +1196,45 @@
 		}
 	}
 	
-			.shop_view .s20230316124662fd09cb1.xzoom-preview {
+			.shop_view .s202408225048d536a6665.xzoom-preview {
 				;
-				background: #ffffff;
+				background: ;
 			}
-			.shop_view #s20230316124662fd09cb1 select.form-control option {
-				color: #430000 !important;
-				background: #ffffff;
+			.shop_view #s202408225048d536a6665 select.form-control option {
+				color:  !important;
+				background: ;
 			}
-			.is-ie .shop_view #s20230316124662fd09cb1 select.form-control option {
+			.is-ie .shop_view #s202408225048d536a6665 select.form-control option {
 				color: #000 !important;
 			}
-			.admin #s20230316124662fd09cb1 .widget.padding > div {
-				border-color:rgb(25,34,59) !important;border-color:rgba(25,34,59,0.3) !important;;
+			.admin #s202408225048d536a6665 .widget.padding > div {
+				;
 			}
-			.admin #s20230316124662fd09cb1 .ibg-bg {
+			.admin #s202408225048d536a6665 .ibg-bg {
 				height: 100% !important;
 			}
-			.admin #s20230316124662fd09cb1 .widget_drag_bar,
-			.admin .doz_sys #s20230316124662fd09cb1 .ui-resizable-handle.ui-resizable-e:hover:after,
-			.admin .doz_sys #s20230316124662fd09cb1 .ui-resizable-handle.ui-resizable-w:hover:after,
-			.admin .doz_sys #s20230316124662fd09cb1 .ui-resizable-handle.ui-resizable-e.active:after,
-			.admin .doz_sys #s20230316124662fd09cb1 .ui-resizable-handle.ui-resizable-w.active:after,
-			.admin .doz_sys #s20230316124662fd09cb1 .drop_line {
-				background-color: #430000;
+			.admin #s202408225048d536a6665 .widget_drag_bar,
+			.admin .doz_sys #s202408225048d536a6665 .ui-resizable-handle.ui-resizable-e:hover:after,
+			.admin .doz_sys #s202408225048d536a6665 .ui-resizable-handle.ui-resizable-w:hover:after,
+			.admin .doz_sys #s202408225048d536a6665 .ui-resizable-handle.ui-resizable-e.active:after,
+			.admin .doz_sys #s202408225048d536a6665 .ui-resizable-handle.ui-resizable-w.active:after,
+			.admin .doz_sys #s202408225048d536a6665 .drop_line {
+				background-color: ;
 			}
-			.admin .doz_sys #s20230316124662fd09cb1 .ui-resizable-handle.ui-resizable-n:hover:after,
-			.admin .doz_sys #s20230316124662fd09cb1 .ui-resizable-handle.ui-resizable-s:hover:after {
-				border-bottom:2px solid #430000 ;
+			.admin .doz_sys #s202408225048d536a6665 .ui-resizable-handle.ui-resizable-n:hover:after,
+			.admin .doz_sys #s202408225048d536a6665 .ui-resizable-handle.ui-resizable-s:hover:after {
+				border-bottom:2px solid  ;
 			}
-			#s20230316124662fd09cb1 {
-				color: #430000;
+			#s202408225048d536a6665 {
+				color: ;
 			}
-			#s20230316124662fd09cb1.side_basic main .inside,
-			#s20230316124662fd09cb1 .site_prod_nav_wrap.scroll-to-fixed-fixed ul.site_prod_nav,
-			.doz_sys #s20230316124662fd09cb1 .col-dz-12 .extend_thumbs {
+			#s202408225048d536a6665.side_basic main .inside,
+			#s202408225048d536a6665 .site_prod_nav_wrap.scroll-to-fixed-fixed ul.site_prod_nav,
+			.doz_sys #s202408225048d536a6665 .col-dz-12 .extend_thumbs {
 				max-width: 1200px;
 			}
-			.modal_site_modal_menu #s20230316124662fd09cb1.side_basic main .inside,
-			.menu_type_modal #s20230316124662fd09cb1.side_basic main .inside {
+			.modal_site_modal_menu #s202408225048d536a6665.side_basic main .inside,
+			.menu_type_modal #s202408225048d536a6665.side_basic main .inside {
 				max-width: 550px;
 			}
 			.doz_sys .modal_site_modal_menu .modal-header,
@@ -1243,7 +1243,7 @@
 				border-style: solid;
 				;
 			}
-			.menu_type_modal #s20230316124662fd09cb1,
+			.menu_type_modal #s202408225048d536a6665,
 			.menu_type_modal .doz_modal_header {
 			;
 				background: ;
@@ -1254,481 +1254,481 @@
 			;
 				color:  ;
 			}
-			.doz_sys #s20230316124662fd09cb1 .col-dz-12 .inside .extend_thumbs {
+			.doz_sys #s202408225048d536a6665 .col-dz-12 .inside .extend_thumbs {
 				max-width: inherit;
 			}
-			#s20230316124662fd09cb1.extend_section main {
+			#s202408225048d536a6665.extend_section main {
 				padding-left: 0px;
 				padding-right: 0px;
 			}
-			#s20230316124662fd09cb1.section_wrap.extend_section main .widget.board .grid_ignore.bg_on {
+			#s202408225048d536a6665.section_wrap.extend_section main .widget.board .grid_ignore.bg_on {
 				margin-left: -0px;
 				margin-right: -0px;
 				width: calc(100% + 0px + 0px);
 			}
-			#s20230316124662fd09cb1 .booking_day .body_font_color_20,
-			#s20230316124662fd09cb1 .booking_list.waiting .title {
-				color:rgb(25,34,59);color:rgba(25,34,59,0.4);; 
+			#s202408225048d536a6665 .booking_day .body_font_color_20,
+			#s202408225048d536a6665 .booking_list.waiting .title {
+				; 
 			}
 		
-			#s20230316124662fd09cb1.extend_section main > .inside {
+			#s202408225048d536a6665.extend_section main > .inside {
 				max-width: 100% !important;
 			}
-			#s20230316124662fd09cb1 .li_table ul:nth-of-type(2),
-			#s20230316124662fd09cb1 .li_board ul li,
-			#s20230316124662fd09cb1 .radio-styled:not(ie8).radio_color_option.small input ~ span span {
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.15) ;;
+			#s202408225048d536a6665 .li_table ul:nth-of-type(2),
+			#s202408225048d536a6665 .li_board ul li,
+			#s202408225048d536a6665 .radio-styled:not(ie8).radio_color_option.small input ~ span span {
+				;
 			}
-			#s20230316124662fd09cb1 .checkbox-styled:not(ie8) input ~ span:before,
-			#s20230316124662fd09cb1 .radio-styled:not(ie8) input ~ span:before {
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.4) ;
+			#s202408225048d536a6665 .checkbox-styled:not(ie8) input ~ span:before,
+			#s202408225048d536a6665 .radio-styled:not(ie8) input ~ span:before {
+				
 			}
-			#s20230316124662fd09cb1 .board_view .grid_ignore header a, #s20230316124662fd09cb1 .widget.board .grid_ignore .author .date, #s20230316124662fd09cb1 .widget.board .grid_ignore a.board, #s20230316124662fd09cb1 .widget.board .grid_ignore .author .write, .editor_box .add_map .info > div.phone, #s20230316124662fd09cb1 .content-tit .board {
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.3) ;;
+			#s202408225048d536a6665 .board_view .grid_ignore header a, #s202408225048d536a6665 .widget.board .grid_ignore .author .date, #s202408225048d536a6665 .widget.board .grid_ignore a.board, #s202408225048d536a6665 .widget.board .grid_ignore .author .write, .editor_box .add_map .info > div.phone, #s202408225048d536a6665 .content-tit .board {
+				;
 			}
-			#s20230316124662fd09cb1 select.form-control,
-			#s20230316124662fd09cb1 input.form-control,
-			#s20230316124662fd09cb1 textarea.form-control {
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.3) ;;
+			#s202408225048d536a6665 select.form-control,
+			#s202408225048d536a6665 input.form-control,
+			#s202408225048d536a6665 textarea.form-control {
+				;
 				color: #212121;
 				background: #ffffff;
 			}
-			#s20230316124662fd09cb1 .input_block .select-block .selectbox select {
+			#s202408225048d536a6665 .input_block .select-block .selectbox select {
 				border: none;
 				background: none;
 				color: #212121;
 			}
-			#s20230316124662fd09cb1 .phonenumber_wrap .line {
-				color:rgb(25,34,59);color:rgba(25,34,59,0.3);
+			#s202408225048d536a6665 .phonenumber_wrap .line {
+				
 			}
-			#s20230316124662fd09cb1 .shop-content.shop-style-b.open .opt-group .btn_clse > span {
-				color:rgb(25,34,59);color:rgba(25,34,59,0.6);
+			#s202408225048d536a6665 .shop-content.shop-style-b.open .opt-group .btn_clse > span {
+				
 			}
-			.shop_view #s20230316124662fd09cb1 .shop-content select.form-control,
-			.shop_view #s20230316124662fd09cb1 .shop-content input.form-control,
-			.shop_view #s20230316124662fd09cb1 .shop-content textarea.form-control,
-			.booking_view #s20230316124662fd09cb1 .booking_opt select.form-control,
-			.shop_view #s20230316124662fd09cb1 .form-select-wrap .dropdown-menu,
-			.shop_view #s20230316124662fd09cb1 .form-select-wrap .dropdown-menu .dropdown-item {
+			.shop_view #s202408225048d536a6665 .shop-content select.form-control,
+			.shop_view #s202408225048d536a6665 .shop-content input.form-control,
+			.shop_view #s202408225048d536a6665 .shop-content textarea.form-control,
+			.booking_view #s202408225048d536a6665 .booking_opt select.form-control,
+			.shop_view #s202408225048d536a6665 .form-select-wrap .dropdown-menu,
+			.shop_view #s202408225048d536a6665 .form-select-wrap .dropdown-menu .dropdown-item {
 				;
-				background: #ffffff;
+				background: ;
 			}
-			#s20230316124662fd09cb1 .seemore_wrap .open:before {
-				background-image: linear-gradient(to bottom, rgba(255,255,255,0.01), rgba(255,255,255,0.8) 66%, rgba(255,255,255,0.9) 83%, rgba(255,255,255,0.98) 98%, #ffffff);
+			#s202408225048d536a6665 .seemore_wrap .open:before {
+				background-image: linear-gradient(to bottom, ,  66%,  83%,  98%, );
 			}
-			#s20230316124662fd09cb1 .item_detail select.form-control,
-			#s20230316124662fd09cb1 .item_detail input.form-control,
-			#s20230316124662fd09cb1 .item_detail textarea.form-control,
-			#s20230316124662fd09cb1 .booking_opt select.form-control,
-			#s20230316124662fd09cb1 .goods_select textarea.form-control,
-			#s20230316124662fd09cb1 .goods_select select.form-control,
-			#s20230316124662fd09cb1 .goods_select input.form-control,
-			#s20230316124662fd09cb1 .form-select-wrap:before {
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.3) ; !important;
-				color: #430000;
+			#s202408225048d536a6665 .item_detail select.form-control,
+			#s202408225048d536a6665 .item_detail input.form-control,
+			#s202408225048d536a6665 .item_detail textarea.form-control,
+			#s202408225048d536a6665 .booking_opt select.form-control,
+			#s202408225048d536a6665 .goods_select textarea.form-control,
+			#s202408225048d536a6665 .goods_select select.form-control,
+			#s202408225048d536a6665 .goods_select input.form-control,
+			#s202408225048d536a6665 .form-select-wrap:before {
+				 !important;
+				color: ;
 			}
-			#s20230316124662fd09cb1 .form-select-wrap .dropdown-menu .dropdown-item:hover {
-				background-color:rgba(25,34,59,0.05);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#0c253459,endColorstr=#0c253459);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#0c253459,endColorstr=#0c253459);	zoom: 1;;
-			}
-			#s20230316124662fd09cb1 .board_summary .write, #s20230316124662fd09cb1 .board_view .grid_ignore .author .date, #s20230316124662fd09cb1 .board_view .grid_ignore .author .hit-count, .doz_sys #s20230316124662fd09cb1 label, .doz_sys #s20230316124662fd09cb1 label.control-label, #s20230316124662fd09cb1 .shop-table > tbody > tr.payment-info > td.pay-txt, #s20230316124662fd09cb1 .nick.text-default-dark, #s20230316124662fd09cb1 .text-default-dark, #s20230316124662fd09cb1 .shop_mypage .mypage .my-box a, #s20230316124662fd09cb1 .shop_mypage .item-detail a, #s20230316124662fd09cb1 .shop_mypage .item-detail p, #s20230316124662fd09cb1 .shop_mypage h6, #s20230316124662fd09cb1 .shop_mypage .table-wrap p, #s20230316124662fd09cb1 .shop_payment h1, #s20230316124662fd09cb1 .shop_payment h6, #s20230316124662fd09cb1 .shop-content p, #s20230316124662fd09cb1 .shop_payment, #s20230316124662fd09cb1 .shop-content span, #s20230316124662fd09cb1 .shop-content .shop-item .item-icon .im-icon.im-ico-liked, #s20230316124662fd09cb1 .shop-content .price, #s20230316124662fd09cb1,#s20230316124662fd09cb1 .shop-tit,#s20230316124662fd09cb1 .board_view .board_txt_area,#s20230316124662fd09cb1 .board.widget .grid_ignore .view_tit,.doz_sys #s20230316124662fd09cb1 .shop-content input.form-control, .doz_sys #s20230316124662fd09cb1 .shop-content select.form-control, #s20230316124662fd09cb1 .widget_menu_title,#s20230316124662fd09cb1 .comment_area,body.shop_mypage #s20230316124662fd09cb1 .comment_area,
-			#s20230316124662fd09cb1 .list_review_inner .use_summary, #s20230316124662fd09cb1 .list_review_inner .use_summary a, #s20230316124662fd09cb1 .list_review_inner .fold, #s20230316124662fd09cb1 .list_review_inner .comment_area, #s20230316124662fd09cb1 .booking_nav_tools span {
+			#s202408225048d536a6665 .form-select-wrap .dropdown-menu .dropdown-item:hover {
 				;
-				color: #430000 ;
 			}
-			#s20230316124662fd09cb1 .shop-content span.sale-price-text {
+			#s202408225048d536a6665 .board_summary .write, #s202408225048d536a6665 .board_view .grid_ignore .author .date, #s202408225048d536a6665 .board_view .grid_ignore .author .hit-count, .doz_sys #s202408225048d536a6665 label, .doz_sys #s202408225048d536a6665 label.control-label, #s202408225048d536a6665 .shop-table > tbody > tr.payment-info > td.pay-txt, #s202408225048d536a6665 .nick.text-default-dark, #s202408225048d536a6665 .text-default-dark, #s202408225048d536a6665 .shop_mypage .mypage .my-box a, #s202408225048d536a6665 .shop_mypage .item-detail a, #s202408225048d536a6665 .shop_mypage .item-detail p, #s202408225048d536a6665 .shop_mypage h6, #s202408225048d536a6665 .shop_mypage .table-wrap p, #s202408225048d536a6665 .shop_payment h1, #s202408225048d536a6665 .shop_payment h6, #s202408225048d536a6665 .shop-content p, #s202408225048d536a6665 .shop_payment, #s202408225048d536a6665 .shop-content span, #s202408225048d536a6665 .shop-content .shop-item .item-icon .im-icon.im-ico-liked, #s202408225048d536a6665 .shop-content .price, #s202408225048d536a6665,#s202408225048d536a6665 .shop-tit,#s202408225048d536a6665 .board_view .board_txt_area,#s202408225048d536a6665 .board.widget .grid_ignore .view_tit,.doz_sys #s202408225048d536a6665 .shop-content input.form-control, .doz_sys #s202408225048d536a6665 .shop-content select.form-control, #s202408225048d536a6665 .widget_menu_title,#s202408225048d536a6665 .comment_area,body.shop_mypage #s202408225048d536a6665 .comment_area,
+			#s202408225048d536a6665 .list_review_inner .use_summary, #s202408225048d536a6665 .list_review_inner .use_summary a, #s202408225048d536a6665 .list_review_inner .fold, #s202408225048d536a6665 .list_review_inner .comment_area, #s202408225048d536a6665 .booking_nav_tools span {
+				;
+				color:  ;
+			}
+			#s202408225048d536a6665 .shop-content span.sale-price-text {
 			    color : #212121 !important;
 			}
-			.doz_sys #s20230316124662fd09cb1 a.use-info {
+			.doz_sys #s202408225048d536a6665 a.use-info {
 			    color : #430000;
 			}
-			#s20230316124662fd09cb1 .shop-content span.sale-price-text-done, 
-			.doz_sys #s20230316124662fd09cb1 a.use-info-download-done {
+			#s202408225048d536a6665 .shop-content span.sale-price-text-done, 
+			.doz_sys #s202408225048d536a6665 a.use-info-download-done {
 			    color: #999999 !important;
 			}
-			.doz_sys #s20230316124662fd09cb1 .shop-content .down-btn select.form-control {
+			.doz_sys #s202408225048d536a6665 .shop-content .down-btn select.form-control {
 				;
-				color: #430000 !important;
+				color:  !important;
 			}
-			#s20230316124662fd09cb1 .shop-content.mypage .bg-bright a, #s20230316124662fd09cb1 .shop-content.mypage .bg-bright p, #s20230316124662fd09cb1 .shop-content.mypage .bg-bright span, #s20230316124662fd09cb1 .shop-content.mypage .bg-bright div {
+			#s202408225048d536a6665 .shop-content.mypage .bg-bright a, #s202408225048d536a6665 .shop-content.mypage .bg-bright p, #s202408225048d536a6665 .shop-content.mypage .bg-bright span, #s202408225048d536a6665 .shop-content.mypage .bg-bright div {
 				color: #212121;
 			}
-			#s20230316124662fd09cb1 .shop-content.mypage .bg-bright .use_grade .ug_btn .btn,
-			#s20230316124662fd09cb1 .shop-content span.ug_name .btn {
+			#s202408225048d536a6665 .shop-content.mypage .bg-bright .use_grade .ug_btn .btn,
+			#s202408225048d536a6665 .shop-content span.ug_name .btn {
 				border-color: #D5D5D5;
 			}
-			#s20230316124662fd09cb1 .shop-content h6 span {
+			#s202408225048d536a6665 .shop-content h6 span {
 			;
-				color: #430000;
+				color: ;
 			}
-			#s20230316124662fd09cb1 .left-menu ul li.on a,
-			.doz_sys #s20230316124662fd09cb1 .paging_type_count .owl-dots .owl-dot span:before,
-			.menu_type_modal #s20230316124662fd09cb1,
-			#s20230316124662fd09cb1 .list_review_inner .comment .tools .text-gray-bright {
+			#s202408225048d536a6665 .left-menu ul li.on a,
+			.doz_sys #s202408225048d536a6665 .paging_type_count .owl-dots .owl-dot span:before,
+			.menu_type_modal #s202408225048d536a6665,
+			#s202408225048d536a6665 .list_review_inner .comment .tools .text-gray-bright {
 				;
-				color: #430000 !important;
+				color:  !important;
 			}
-			.doz_sys #s20230316124662fd09cb1 .paging_type_count.slide_02 .owl-dots .owl-dot.active span:before {
+			.doz_sys #s202408225048d536a6665 .paging_type_count.slide_02 .owl-dots .owl-dot.active span:before {
 				color: #fff !important;
 			}
-			.doz_sys #s20230316124662fd09cb1 .paging_type_dot .owl-dots .owl-dot span,
-			.doz_sys #s20230316124662fd09cb1 .paging_type_big_dot .owl-dots .owl-dot span,
-			.doz_sys #s20230316124662fd09cb1 .paging_type_line .owl-dots .owl-dot span,
-			.doz_sys #s20230316124662fd09cb1 .paging_type_count.paging_type_count02 .owl-dots .owl-dot.active span:before,
-			#s20230316124662fd09cb1 .list_review_inner, 
-			#s20230316124662fd09cb1 .list_review_inner .fold.cmt,
-			#s20230316124662fd09cb1 .list_review_wrap,
-			#s20230316124662fd09cb1 .list_review_inner .textarea_block,
-			#s20230316124662fd09cb1 .list_review_inner .comment .main_comment,
-			#s20230316124662fd09cb1 .list_review_inner .txt_delete:before,
-			#s20230316124662fd09cb1 .form-select-wrap.open .dropdown-toggle, 
-			#s20230316124662fd09cb1 .form-select-wrap.open .dropdown-menu,
-			#s20230316124662fd09cb1 .form-select-wrap.open .dropdown-menu .dropdown-item {
-				border-color: #430000;
+			.doz_sys #s202408225048d536a6665 .paging_type_dot .owl-dots .owl-dot span,
+			.doz_sys #s202408225048d536a6665 .paging_type_big_dot .owl-dots .owl-dot span,
+			.doz_sys #s202408225048d536a6665 .paging_type_line .owl-dots .owl-dot span,
+			.doz_sys #s202408225048d536a6665 .paging_type_count.paging_type_count02 .owl-dots .owl-dot.active span:before,
+			#s202408225048d536a6665 .list_review_inner, 
+			#s202408225048d536a6665 .list_review_inner .fold.cmt,
+			#s202408225048d536a6665 .list_review_wrap,
+			#s202408225048d536a6665 .list_review_inner .textarea_block,
+			#s202408225048d536a6665 .list_review_inner .comment .main_comment,
+			#s202408225048d536a6665 .list_review_inner .txt_delete:before,
+			#s202408225048d536a6665 .form-select-wrap.open .dropdown-toggle, 
+			#s202408225048d536a6665 .form-select-wrap.open .dropdown-menu,
+			#s202408225048d536a6665 .form-select-wrap.open .dropdown-menu .dropdown-item {
+				border-color: ;
 			}
-			.doz_sys #s20230316124662fd09cb1 .paging_type_dot02 .owl-dots .owl-dot span,
-			.doz_sys #s20230316124662fd09cb1 .paging_type_dot .owl-dots .owl-dot.active span,
-			.doz_sys #s20230316124662fd09cb1 .paging_type_line .owl-dots .owl-dot.active span,
-			.doz_sys #s20230316124662fd09cb1 .paging_type_big_dot .owl-dots .owl-dot span,
-			.doz_sys #s20230316124662fd09cb1 .paging_type_line .owl-dots .owl-dot span {
-				background: #430000;
+			.doz_sys #s202408225048d536a6665 .paging_type_dot02 .owl-dots .owl-dot span,
+			.doz_sys #s202408225048d536a6665 .paging_type_dot .owl-dots .owl-dot.active span,
+			.doz_sys #s202408225048d536a6665 .paging_type_line .owl-dots .owl-dot.active span,
+			.doz_sys #s202408225048d536a6665 .paging_type_big_dot .owl-dots .owl-dot span,
+			.doz_sys #s202408225048d536a6665 .paging_type_line .owl-dots .owl-dot span {
+				background: ;
 			}
-			#s20230316124662fd09cb1 .form-control:focus {
+			#s202408225048d536a6665 .form-control:focus {
 				border-color:#430000;
 			}
-			#s20230316124662fd09cb1 .sub_depth li a, #s20230316124662fd09cb1 .sub_depth li span {
-				color:rgb(25,34,59);color:rgba(25,34,59,0.3);;
-			}
-			#s20230316124662fd09cb1 .slide_03.owl-theme .owl-dots .owl-dot span {
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.3) ;;
-			} 
-			#s20230316124662fd09cb1 .pagination > li > a,
-			#s20230316124662fd09cb1 .pagination > li > span,
-			#s20230316124662fd09cb1 .pagination > li > a:focus,
-			#s20230316124662fd09cb1 .pagination > li > span:focus,
-			#s20230316124662fd09cb1 .map-inner .pagination li.active a,
-			#s20230316124662fd09cb1 .pagination li > a.disabled:hover,
-			#s20230316124662fd09cb1 .pagination li > a.disabled:focus {
-				color:rgb(25,34,59);color:rgba(25,34,59,0.4);;
-			}
-			#s20230316124662fd09cb1 .form-select-wrap.open .dropdown-menu .dropdown-item {
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.2) ;;
-			}
-			#s20230316124662fd09cb1 .pagination > .active > a,
-			#s20230316124662fd09cb1 .pagination > .active > span,
-			#s20230316124662fd09cb1 .pagination > .active > a:hover,
-			#s20230316124662fd09cb1 .pagination > .active > span:hover,
-			#s20230316124662fd09cb1 .pagination > .active > a:focus,
-			#s20230316124662fd09cb1 .pagination > .active > span:focus,
-			#s20230316124662fd09cb1 .pagination > li > a:hover,
-			#s20230316124662fd09cb1 .pagination > li > span:hover,
-			#s20230316124662fd09cb1 .sub_depth li a.active,
-			.doz_sys #s20230316124662fd09cb1 a, #s20230316124662fd09cb1 .li_table ul li,
-			#s20230316124662fd09cb1 .list-style .list.line > small,
-			.doz_sys #s20230316124662fd09cb1 div[data-widget-type="board"] .title.title-block a{
+			#s202408225048d536a6665 .sub_depth li a, #s202408225048d536a6665 .sub_depth li span {
 				;
+			}
+			#s202408225048d536a6665 .slide_03.owl-theme .owl-dots .owl-dot span {
+				;
+			} 
+			#s202408225048d536a6665 .pagination > li > a,
+			#s202408225048d536a6665 .pagination > li > span,
+			#s202408225048d536a6665 .pagination > li > a:focus,
+			#s202408225048d536a6665 .pagination > li > span:focus,
+			#s202408225048d536a6665 .map-inner .pagination li.active a,
+			#s202408225048d536a6665 .pagination li > a.disabled:hover,
+			#s202408225048d536a6665 .pagination li > a.disabled:focus {
+				;
+			}
+			#s202408225048d536a6665 .form-select-wrap.open .dropdown-menu .dropdown-item {
+				;
+			}
+			#s202408225048d536a6665 .pagination > .active > a,
+			#s202408225048d536a6665 .pagination > .active > span,
+			#s202408225048d536a6665 .pagination > .active > a:hover,
+			#s202408225048d536a6665 .pagination > .active > span:hover,
+			#s202408225048d536a6665 .pagination > .active > a:focus,
+			#s202408225048d536a6665 .pagination > .active > span:focus,
+			#s202408225048d536a6665 .pagination > li > a:hover,
+			#s202408225048d536a6665 .pagination > li > span:hover,
+			#s202408225048d536a6665 .sub_depth li a.active,
+			.doz_sys #s202408225048d536a6665 a, #s202408225048d536a6665 .li_table ul li,
+			#s202408225048d536a6665 .list-style .list.line > small,
+			.doz_sys #s202408225048d536a6665 div[data-widget-type="board"] .title.title-block a{
+				;
+				color: ;
+			}
+			.doz_sys #s202408225048d536a6665 .board_contents a:not(.btn),
+			.doz_sys #s202408225048d536a6665 .board_contents a:not(.btn):hover,
+			#s202408225048d536a6665 .board_txt_area a,
+			#s202408225048d536a6665 .board_txt_area a:hover,
+			#s202408225048d536a6665 .board_txt_area a:active,
+			#s202408225048d536a6665 .board_txt_area a:focus,
+			#s202408225048d536a6665 .editor_box .fr-view a {
 				color: #430000;
 			}
-			.doz_sys #s20230316124662fd09cb1 .board_contents a:not(.btn),
-			.doz_sys #s20230316124662fd09cb1 .board_contents a:not(.btn):hover,
-			#s20230316124662fd09cb1 .board_txt_area a,
-			#s20230316124662fd09cb1 .board_txt_area a:hover,
-			#s20230316124662fd09cb1 .board_txt_area a:active,
-			#s20230316124662fd09cb1 .board_txt_area a:focus,
-			#s20230316124662fd09cb1 .editor_box .fr-view a {
-				color: #430000;
+			#s202408225048d536a6665 div[data-widget-type="icon"] i {
+				color: ;
 			}
-			#s20230316124662fd09cb1 div[data-widget-type="icon"] i {
-				color: #430000;
+			.doz_sys #s202408225048d536a6665 a.body_font_color_30:not(.active) {
+				;
 			}
-			.doz_sys #s20230316124662fd09cb1 a.body_font_color_30:not(.active) {
-				color:rgb(25,34,59);color:rgba(25,34,59,0.3);;
-			}
-		   #s20230316124662fd09cb1 .text_tab .after_line:not(:last-child):after {
-		        background-color:rgba(25,34,59,0.3);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4c253459,endColorstr=#4c253459);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4c253459,endColorstr=#4c253459);	zoom: 1;;
+		   #s202408225048d536a6665 .text_tab .after_line:not(:last-child):after {
+		        ;
 		   }
-		   #s20230316124662fd09cb1 .text_tab ul.site_prod_nav > li a.active {
+		   #s202408225048d536a6665 .text_tab ul.site_prod_nav > li a.active {
 		    background: none;
 		   }
-			#s20230316124662fd09cb1 .map-toolbar select.form-control {
+			#s202408225048d536a6665 .map-toolbar select.form-control {
 				;
-				color: #430000 !important;
+				color:  !important;
 				font-size: 14px;
 			}
-			.doz_sys #s20230316124662fd09cb1 .body_font_color_40,
-			#s20230316124662fd09cb1 .li_board ul.li_body li.name, 
-			#s20230316124662fd09cb1 .li_board ul.li_body li.time, 
-			#s20230316124662fd09cb1 .li_board ul.li_body li.like,
-			#s20230316124662fd09cb1 .li_board ul.li_body li.read {
-				color:rgb(25,34,59);color:rgba(25,34,59,0.4);;
+			.doz_sys #s202408225048d536a6665 .body_font_color_40,
+			#s202408225048d536a6665 .li_board ul.li_body li.name, 
+			#s202408225048d536a6665 .li_board ul.li_body li.time, 
+			#s202408225048d536a6665 .li_board ul.li_body li.like,
+			#s202408225048d536a6665 .li_board ul.li_body li.read {
+				;
 			}
-			#s20230316124662fd09cb1 .review_table .summary,
-			#s20230316124662fd09cb1 .review_table.li_board ul.li_body li,
-			#s20230316124662fd09cb1 .review_table .list_text_title.lock_on {
-				color:rgb(25,34,59);color:rgba(25,34,59,0.7);;
+			#s202408225048d536a6665 .review_table .summary,
+			#s202408225048d536a6665 .review_table.li_board ul.li_body li,
+			#s202408225048d536a6665 .review_table .list_text_title.lock_on {
+				;
 			}
 
-			.doz_sys #s20230316124662fd09cb1 .body_font_color_50 {
-				color:rgb(25,34,59);color:rgba(25,34,59,0.5);;
-			}
-			#s20230316124662fd09cb1 .li_board,
-			#s20230316124662fd09cb1 .acd_row:first-child,
-			#s20230316124662fd09cb1 .acd_row {
-				border-color: #430000;
-			}
-			#s20230316124662fd09cb1 .list-style .list-header,
-			#s20230316124662fd09cb1 .list-style .list,
-			#s20230316124662fd09cb1 .list-style .list.line, 
-			#s20230316124662fd09cb1 .list-style .list.line > .table-cell,
-			#s20230316124662fd09cb1 .li_table.row_04 .acd_collapse[aria-expanded="true"], .li_table.row_04 .acd_collapse.in {
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.1) ;;
-			}
-			#s20230316124662fd09cb1 .btn, #s20230316124662fd09cb1 .visual_section a, #s20230316124662fd09cb1 a.select-star, #s20230316124662fd09cb1 .star-pointer .dropdown-menu a.dropdown-item {
-			;
-				background-color: #ffffff;
+			.doz_sys #s202408225048d536a6665 .body_font_color_50 {
 				;
-				color:#430000;
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.2) ;;
 			}
-			#s20230316124662fd09cb1 .star-pointer .dropdown-menu {
-			    background-color: #ffffff;
+			#s202408225048d536a6665 .li_board,
+			#s202408225048d536a6665 .acd_row:first-child,
+			#s202408225048d536a6665 .acd_row {
+				border-color: ;
 			}
-			#s20230316124662fd09cb1 .btn:hover, #s20230316124662fd09cb1 .visual_section a:hover {
-				border-color:#430000;
+			#s202408225048d536a6665 .list-style .list-header,
+			#s202408225048d536a6665 .list-style .list,
+			#s202408225048d536a6665 .list-style .list.line, 
+			#s202408225048d536a6665 .list-style .list.line > .table-cell,
+			#s202408225048d536a6665 .li_table.row_04 .acd_collapse[aria-expanded="true"], .li_table.row_04 .acd_collapse.in {
+				;
 			}
-			#s20230316124662fd09cb1 a.select-star:hover {
-				background-color: #ffffff;
+			#s202408225048d536a6665 .btn, #s202408225048d536a6665 .visual_section a, #s202408225048d536a6665 a.select-star, #s202408225048d536a6665 .star-pointer .dropdown-menu a.dropdown-item {
+			;
+				background-color: ;
+				;
+				color:;
+				;
 			}
-			#s20230316124662fd09cb1 .star-pointer .dropdown-menu a.dropdown-item:hover {
-			    background-color: rgba(25,34,59,0.1) !important;
+			#s202408225048d536a6665 .star-pointer .dropdown-menu {
+			    background-color: ;
 			}
-			#s20230316124662fd09cb1 .widget_text_wrap .btn {
+			#s202408225048d536a6665 .btn:hover, #s202408225048d536a6665 .visual_section a:hover {
+				border-color:;
+			}
+			#s202408225048d536a6665 a.select-star:hover {
+				background-color: ;
+			}
+			#s202408225048d536a6665 .star-pointer .dropdown-menu a.dropdown-item:hover {
+			    background-color:  !important;
+			}
+			#s202408225048d536a6665 .widget_text_wrap .btn {
 				background-color:rgba(0,210,85,1);
 				border-color:rgba(0,210,85,1);
 				color:#ffffff;
 				border-width:1px;
 			}
-			.doz_sys #s20230316124662fd09cb1 .btn-primary{
+			.doz_sys #s202408225048d536a6665 .btn-primary{
 			background-color : #0d255;;
 				background-color:rgba(0,210,85,1);
 				border-color:rgba(0,210,85,1);
 				color:#ffffff;
 				border-width:1px;
 			}
-			.doz_sys.shop_view #s20230316124662fd09cb1 .btn-primary span,
-			.doz_sys.booking_view #s20230316124662fd09cb1 .btn-primary span,
-			.doz_sys.shop_mypage #s20230316124662fd09cb1 .btn-primary span  {
+			.doz_sys.shop_view #s202408225048d536a6665 .btn-primary span,
+			.doz_sys.booking_view #s202408225048d536a6665 .btn-primary span,
+			.doz_sys.shop_mypage #s202408225048d536a6665 .btn-primary span  {
 				color:#ffffff;
 			}
-			#s20230316124662fd09cb1 .coupon-wrap:after,
-			#s20230316124662fd09cb1 .board_view .file_area ul li {
-				background: #ffffff;
+			#s202408225048d536a6665 .coupon-wrap:after,
+			#s202408225048d536a6665 .board_view .file_area ul li {
+				background: ;
 			}
-			#s20230316124662fd09cb1 .text-gray-dark, #s20230316124662fd09cb1 .shop-table > thead > tr > th, #s20230316124662fd09cb1 .shop_mypage .left-menu ul li a, #s20230316124662fd09cb1 .shop_mypage .item-detail p.sale_pay,.doz_sys #s20230316124662fd09cb1 .product-notify-group .product-notify-label {
-				color:rgb(25,34,59);color:rgba(25,34,59,0.5);;
+			#s202408225048d536a6665 .text-gray-dark, #s202408225048d536a6665 .shop-table > thead > tr > th, #s202408225048d536a6665 .shop_mypage .left-menu ul li a, #s202408225048d536a6665 .shop_mypage .item-detail p.sale_pay,.doz_sys #s202408225048d536a6665 .product-notify-group .product-notify-label {
+				;
 			}
-			#s20230316124662fd09cb1 .mypage .my-box a, #s20230316124662fd09cb1 .mypage .shop-table > tbody > tr,
-			#s20230316124662fd09cb1 .mypage .tip-off,
-	        #s20230316124662fd09cb1 .im-order-detail-table,
-	        #s20230316124662fd09cb1 .im-order-price {
-				background-color:rgba(255,255,255,1);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff255255255,endColorstr=#ff255255255);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff255255255,endColorstr=#ff255255255);	zoom: 1;;
+			#s202408225048d536a6665 .mypage .my-box a, #s202408225048d536a6665 .mypage .shop-table > tbody > tr,
+			#s202408225048d536a6665 .mypage .tip-off,
+	        #s202408225048d536a6665 .im-order-detail-table,
+	        #s202408225048d536a6665 .im-order-price {
+				;
 			}
-			#s20230316124662fd09cb1 .mypage .my-box.on a {
+			#s202408225048d536a6665 .mypage .my-box.on a {
 				background-color:#430000;
 				;
 				color:#fff;
 			}
-			#s20230316124662fd09cb1 .mypage .my-box.on a p {
+			#s202408225048d536a6665 .mypage .my-box.on a p {
 				color:#fff;
 			}
-			#s20230316124662fd09cb1 .option_btn_tools a, #s20230316124662fd09cb1 .map-inner .pagination li a {
+			#s202408225048d536a6665 .option_btn_tools a, #s202408225048d536a6665 .map-inner .pagination li a {
 				color:#212121;
 			}
-			.doz_sys #s20230316124662fd09cb1 .list-style-card .card-body .text a {
+			.doz_sys #s202408225048d536a6665 .list-style-card .card-body .text a {
 				color:#757575;
 			}
-			#s20230316124662fd09cb1 .card .title a {
+			#s202408225048d536a6665 .card .title a {
 				color: #212121;
 			}
-			#s20230316124662fd09cb1 .section_bg.fixed_bg.fixed_bg_none {
+			#s202408225048d536a6665 .section_bg.fixed_bg.fixed_bg_none {
 					background-attachment : inherit;
 				}
-			#s20230316124662fd09cb1 ul.site_prod_nav > li,
-			#s20230316124662fd09cb1 .prod_detail_badge {
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.1) ;;
+			#s202408225048d536a6665 ul.site_prod_nav > li,
+			#s202408225048d536a6665 .prod_detail_badge {
+				;
 			}
-			#s20230316124662fd09cb1 .site_prod_nav_wrap.scroll-to-fixed-fixed {
-				background: #ffffff;
-				box-shadow: inset 0 -1px 0 0 rgba(25,34,59,0.1);
+			#s202408225048d536a6665 .site_prod_nav_wrap.scroll-to-fixed-fixed {
+				background: ;
+				box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1);
 			}
-			#s20230316124662fd09cb1 .buy_footer_fixed {
-				background: #ffffff;
+			#s202408225048d536a6665 .buy_footer_fixed {
+				background: ;
 				border-width: 1px 0 0 0;
 				border-style: solid;
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.3) ;;
+				;
 			}
-			#s20230316124662fd09cb1 .opt-group {
-				background: #ffffff;
+			#s202408225048d536a6665 .opt-group {
+				background: ;
 			}
-			#s20230316124662fd09cb1 ul.site_prod_nav > li a.active {
-				background-color:rgba(25,34,59,0.02);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#05253459,endColorstr=#05253459);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#05253459,endColorstr=#05253459);	zoom: 1;;
+			#s202408225048d536a6665 ul.site_prod_nav > li a.active {
+				;
 			}
 			
-			#s20230316124662fd09cb1 .background_tab ul.site_prod_nav > li a.active >  span.braket-badge {
+			#s202408225048d536a6665 .background_tab ul.site_prod_nav > li a.active >  span.braket-badge {
 				background-color: none;
 				;
-				color:#ffffff;
+				color:;
 			}
 	
-			#s20230316124662fd09cb1 .input-block .checkbox-styled:not(ie8) input ~ span {
+			#s202408225048d536a6665 .input-block .checkbox-styled:not(ie8) input ~ span {
 				;
-				color:#430000;
+				color:;
 			}
-			.section_fixed_disable #s20230316124662fd09cb1[class*="section_first"],
-			.section_fixed_disable #s20230316124662fd09cb1[class*="section_first"] .doz_aside {
+			.section_fixed_disable #s202408225048d536a6665[class*="section_first"],
+			.section_fixed_disable #s202408225048d536a6665[class*="section_first"] .doz_aside {
 				position: relative !important;
 				top: 0 !important;
 				left: 0 !important;
 				z-index: auto !important;
 			}
-			.section_fixed_disable #s20230316124662fd09cb1 .doz_aside.scroll-to-fixed-fixed ~ .spacer,
-			.section_fixed_disable #s20230316124662fd09cb1.scroll-to-fixed-fixed ~ .spacer {
+			.section_fixed_disable #s202408225048d536a6665 .doz_aside.scroll-to-fixed-fixed ~ .spacer,
+			.section_fixed_disable #s202408225048d536a6665.scroll-to-fixed-fixed ~ .spacer {
 				height: 0 !important;
 				display: none !important;
 			}
-			#s20230316124662fd09cb1.scroll-to-fixed-fixed {
+			#s202408225048d536a6665.scroll-to-fixed-fixed {
 				width: 100% !important;
 			}
-			#s20230316124662fd09cb1 .doz_aside.scroll-to-fixed-fixed-end {
+			#s202408225048d536a6665 .doz_aside.scroll-to-fixed-fixed-end {
 				bottom: 0 !important;
 				top: auto !important;
 			}
-			.device_type_m #s20230316124662fd09cb1.mobile_section main .inside {
+			.device_type_m #s202408225048d536a6665.mobile_section main .inside {
 					padding-left: 0px;
 					padding-right: 0px;
 			}
-			.device_type_m #s20230316124662fd09cb1 .mypage .left-menu ul li a,
-			.device_type_m #s20230316124662fd09cb1 .cart .left-menu ul li a {
-				background-color:rgba(255,255,255,1);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff255255255,endColorstr=#ff255255255);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff255255255,endColorstr=#ff255255255);	zoom: 1;;
+			.device_type_m #s202408225048d536a6665 .mypage .left-menu ul li a,
+			.device_type_m #s202408225048d536a6665 .cart .left-menu ul li a {
+				;
 			}
-            #s20230316124662fd09cb1 .im-cart-result-table {
-                border-top: 1px solid #000000;
-                border-bottom: 1px solid #430000;
+            #s202408225048d536a6665 .im-cart-result-table {
+                border-top: 1px solid ;
+                border-bottom: 1px solid ;
             }
-            #s20230316124662fd09cb1 .shop-table > tbody > tr > td.img .opt .more {
-                background-color:rgba(25,34,59,0.03);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#07253459,endColorstr=#07253459);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#07253459,endColorstr=#07253459);	zoom: 1;;
+            #s202408225048d536a6665 .shop-table > tbody > tr > td.img .opt .more {
+                ;
             }
-            #s20230316124662fd09cb1 .im-cart-info {
-                border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.08) ;;
+            #s202408225048d536a6665 .im-cart-info {
+                ;
             }
-            #s20230316124662fd09cb1 .shop-table > thead > tr > th,
-            #s20230316124662fd09cb1 .shop-table > tbody > tr > td,
-            #s20230316124662fd09cb1 .mypage .shop-table > tbody > tr,
-            #s20230316124662fd09cb1 .shop-table > tbody > tr > td.img img,
-            #s20230316124662fd09cb1 .shop-table > tbody > tr > td + td,
-            #s20230316124662fd09cb1 .mypage .tip-off,
-            #s20230316124662fd09cb1 .mypage .shop-table img,
-	        #s20230316124662fd09cb1 .im-order-detail-table,
-	        #s20230316124662fd09cb1 .im-order-price,
-	        #s20230316124662fd09cb1 .im-order-detail-table thead tr,
-	        #s20230316124662fd09cb1 .im-order-detail-table tr + tr,
-	        #s20230316124662fd09cb1 .im-order-detail-table img,
-	        #s20230316124662fd09cb1 .im-order-detail-table .im-deliv-price,
-	        #s20230316124662fd09cb1 .im-order-price-header,
-	        #s20230316124662fd09cb1 .im-order-price-body {
-                border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.1) ;;
+            #s202408225048d536a6665 .shop-table > thead > tr > th,
+            #s202408225048d536a6665 .shop-table > tbody > tr > td,
+            #s202408225048d536a6665 .mypage .shop-table > tbody > tr,
+            #s202408225048d536a6665 .shop-table > tbody > tr > td.img img,
+            #s202408225048d536a6665 .shop-table > tbody > tr > td + td,
+            #s202408225048d536a6665 .mypage .tip-off,
+            #s202408225048d536a6665 .mypage .shop-table img,
+	        #s202408225048d536a6665 .im-order-detail-table,
+	        #s202408225048d536a6665 .im-order-price,
+	        #s202408225048d536a6665 .im-order-detail-table thead tr,
+	        #s202408225048d536a6665 .im-order-detail-table tr + tr,
+	        #s202408225048d536a6665 .im-order-detail-table img,
+	        #s202408225048d536a6665 .im-order-detail-table .im-deliv-price,
+	        #s202408225048d536a6665 .im-order-price-header,
+	        #s202408225048d536a6665 .im-order-price-body {
+                ;
             }
-            #s20230316124662fd09cb1 .shop-table .list_badge {
-				border-color: #430000;
+            #s202408225048d536a6665 .shop-table .list_badge {
+				border-color: ;
             }
-            #s20230316124662fd09cb1 .im-cart-result-table thead>tr>th,
-            #s20230316124662fd09cb1 #shop_cart_list .shop-table > colgroup + thead > tr:first-child > th,
-            #s20230316124662fd09cb1 #shop_cart_list .shop-table > tbody > tr > td + td,
-            #s20230316124662fd09cb1 #shop_cart_list .shop-table > thead > tr > th,
-            #s20230316124662fd09cb1 #shop_cart_list .shop-table > tbody > tr > td {
-                border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.15) ;;
+            #s202408225048d536a6665 .im-cart-result-table thead>tr>th,
+            #s202408225048d536a6665 #shop_cart_list .shop-table > colgroup + thead > tr:first-child > th,
+            #s202408225048d536a6665 #shop_cart_list .shop-table > tbody > tr > td + td,
+            #s202408225048d536a6665 #shop_cart_list .shop-table > thead > tr > th,
+            #s202408225048d536a6665 #shop_cart_list .shop-table > tbody > tr > td {
+                ;
             }
-            #s20230316124662fd09cb1 .shop-content.mypage .shop-item .item-icon .im-icon.im-ico-liked{
+            #s202408225048d536a6665 .shop-content.mypage .shop-item .item-icon .im-icon.im-ico-liked{
                 color: #430000
             }
 			@media (min-width: 991px) {
-				.doz_sys #s20230316124662fd09cb1 .btn-primary:hover, #s20230316124662fd09cb1 .widget_text_wrap .btn:hover {
+				.doz_sys #s202408225048d536a6665 .btn-primary:hover, #s202408225048d536a6665 .widget_text_wrap .btn:hover {
 				;
 					background-color:#ffffff;
 					border-color:rgba(0,210,85,1);
 					color:rgba(0,210,85,1);
 					border-width:1px;
 				}
-				.doz_sys.shop_view #s20230316124662fd09cb1 .btn-primary:hover span,
-				.doz_sys.booking_view #s20230316124662fd09cb1 .btn-primary:hover span,
-				.doz_sys.shop_mypage #s20230316124662fd09cb1 .btn-primary:hover span  {
+				.doz_sys.shop_view #s202408225048d536a6665 .btn-primary:hover span,
+				.doz_sys.booking_view #s202408225048d536a6665 .btn-primary:hover span,
+				.doz_sys.shop_mypage #s202408225048d536a6665 .btn-primary:hover span  {
 					color:rgba(0,210,85,1);
 				}
 			}
 			@media all and (max-width : 768px) {
-				.doz_sys #s20230316124662fd09cb1 .fixed_view a,
-				.doz_sys #s20230316124662fd09cb1 .fixed_view select.form-control,
-				.doz_sys #s20230316124662fd09cb1 .fixed_view .form-select-wrap:before {
+				.doz_sys #s202408225048d536a6665 .fixed_view a,
+				.doz_sys #s202408225048d536a6665 .fixed_view select.form-control,
+				.doz_sys #s202408225048d536a6665 .fixed_view .form-select-wrap:before {
 					color: #212121;
 				}
-				.doz_sys #s20230316124662fd09cb1 .fixed_view .body_font_color_50 {
+				.doz_sys #s202408225048d536a6665 .fixed_view .body_font_color_50 {
 					color: rgba(33, 33, 33, 0.5);
 				}
-				.doz_sys #s20230316124662fd09cb1 .fixed_view .body_font_color_20 {
+				.doz_sys #s202408225048d536a6665 .fixed_view .body_font_color_20 {
 					color: rgba(33, 33, 33, 0.2);
 				}
-				.booking_view #s20230316124662fd09cb1 .fixed_view .booking_opt select.form-control {
+				.booking_view #s202408225048d536a6665 .fixed_view .booking_opt select.form-control {
 					background-color: #fff;
 				}
-				#s20230316124662fd09cb1 #shop_cart_list .shop-tit,
-                #s20230316124662fd09cb1 #shop_cart_list .shop-table > thead > tr,
-                #s20230316124662fd09cb1 #shop_cart_list .shop-table > tfoot .payment-info,
-                #s20230316124662fd09cb1 .im-price-result {
-				    border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.15) ;;
+				#s202408225048d536a6665 #shop_cart_list .shop-tit,
+                #s202408225048d536a6665 #shop_cart_list .shop-table > thead > tr,
+                #s202408225048d536a6665 #shop_cart_list .shop-table > tfoot .payment-info,
+                #s202408225048d536a6665 .im-price-result {
+				    ;
 				}
-                #s20230316124662fd09cb1 .shop-table > tbody > tr > td.img .opt .more + .more,
-                #s20230316124662fd09cb1 .im-order-row + .im-order-row {
-                    border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.1) ;;
+                #s202408225048d536a6665 .shop-table > tbody > tr > td.img .opt .more + .more,
+                #s202408225048d536a6665 .im-order-row + .im-order-row {
+                    ;
                 }
-                #s20230316124662fd09cb1 #shop_cart_list .shop-table,
-                #s20230316124662fd09cb1 #shop_cart_list .shop-table > tbody > tr.im-tr-shipping + tr,
-                #s20230316124662fd09cb1 #shop_cart_list .shop-table > tfoot,
-                #s20230316124662fd09cb1 #shop_cart_list .shop-table > tfoot .payment-info {
-                    border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.08) ;;
+                #s202408225048d536a6665 #shop_cart_list .shop-table,
+                #s202408225048d536a6665 #shop_cart_list .shop-table > tbody > tr.im-tr-shipping + tr,
+                #s202408225048d536a6665 #shop_cart_list .shop-table > tfoot,
+                #s202408225048d536a6665 #shop_cart_list .shop-table > tfoot .payment-info {
+                    ;
                 }
-                #s20230316124662fd09cb1 #shop_cart_list .shop-table > thead > tr,
-                #s20230316124662fd09cb1 .im-order-detail-table .im-space {
-                    background-color: #ffffff;
+                #s202408225048d536a6665 #shop_cart_list .shop-table > thead > tr,
+                #s202408225048d536a6665 .im-order-detail-table .im-space {
+                    background-color: ;
                 }
-                #s20230316124662fd09cb1 #shop_cart_list .shop-table > thead > tr.scroll-to-fixed-fixed-end {
+                #s202408225048d536a6665 #shop_cart_list .shop-table > thead > tr.scroll-to-fixed-fixed-end {
                     top: auto !important;
                     bottom: 0;
                 }
 			}
-			.device_type_m #s20230316124662fd09cb1 .section_bg.fixed_bg_wrap { 
+			.device_type_m #s202408225048d536a6665 .section_bg.fixed_bg_wrap { 
                  background-attachment: fixed;
             }
             
-            .device_type_m #s20230316124662fd09cb1 .section_bg.fixed_bg_wrap .fixed_bg {
+            .device_type_m #s202408225048d536a6665 .section_bg.fixed_bg_wrap .fixed_bg {
               display: none;
             }
-            #s20230316124662fd09cb1 .section_bg.fixed_bg_wrap .fixed_bg {
+            #s202408225048d536a6665 .section_bg.fixed_bg_wrap .fixed_bg {
                  display: none;
                 }
 			@media (max-width: 991px) {
-			    #s20230316124662fd09cb1 .section_bg {
+			    #s202408225048d536a6665 .section_bg {
                     background-attachment : inherit;
                 }
                 
-                #s20230316124662fd09cb1 .section_bg .ibg-bg {
+                #s202408225048d536a6665 .section_bg .ibg-bg {
                     display: none;
                 }
                 
-                #s20230316124662fd09cb1 .section_bg.fixed_bg_wrap { 
+                #s202408225048d536a6665 .section_bg.fixed_bg_wrap { 
                     background-image : none !important;
                     clip-path: inset(0);
                     overflow: hidden;
                 }
-                #s20230316124662fd09cb1 .section_bg.fixed_bg_wrap .fixed_bg {
+                #s202408225048d536a6665 .section_bg.fixed_bg_wrap .fixed_bg {
                   display: block;
                   object-fit: cover;
                   position: fixed;
@@ -1737,213 +1737,190 @@
                   width: 100%; 
                   height: 100vh;
                 }
-				#s20230316124662fd09cb1 .buy_btns .social_btn, #s20230316124662fd09cb1 .buy_btns .cart_btn, #s20230316124662fd09cb1 .layer_pop .bottom-btn, #s20230316124662fd09cb1 .shop-table > thead, #s20230316124662fd09cb1 .left-menu, #s20230316124662fd09cb1 .shop-table > tbody > tr, {
-				border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.3) ;;
+				#s202408225048d536a6665 .buy_btns .social_btn, #s202408225048d536a6665 .buy_btns .cart_btn, #s202408225048d536a6665 .layer_pop .bottom-btn, #s202408225048d536a6665 .shop-table > thead, #s202408225048d536a6665 .left-menu, #s202408225048d536a6665 .shop-table > tbody > tr, {
+				;
 				}
-				#s20230316124662fd09cb1 main, #s20230316124662fd09cb1 .section_wrap.extend_section main, #s20230316124662fd09cb1 .doz_sys.shop_payment .inside, .doz_sys.shop_payment .inside .col-dz, {
+				#s202408225048d536a6665 main, #s202408225048d536a6665 .section_wrap.extend_section main, #s202408225048d536a6665 .doz_sys.shop_payment .inside, .doz_sys.shop_payment .inside .col-dz, {
 					padding-left:0;
 					padding-right:0;
 				}
-				#s20230316124662fd09cb1.mobile_section main .inside {
+				#s202408225048d536a6665.mobile_section main .inside {
 					padding-left: 0px;
 					padding-right: 0px;
 				}
-				#s20230316124662fd09cb1.section_wrap.extend_section main .widget.board .grid_ignore.bg_on {
+				#s202408225048d536a6665.section_wrap.extend_section main .widget.board .grid_ignore.bg_on {
 					margin-left: -15px;
 					margin-right: -15px;
 					width: calc(100% + 30px);
 				}
-				#s20230316124662fd09cb1 .mypage .left-menu ul li a,
-				#s20230316124662fd09cb1 .cart .left-menu ul li a,
-				#s20230316124662fd09cb1 .mypage .left-menu .cart-menu-slide  {
-					background-color:rgba(255,255,255,1);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff255255255,endColorstr=#ff255255255);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff255255255,endColorstr=#ff255255255);	zoom: 1;;
+				#s202408225048d536a6665 .mypage .left-menu ul li a,
+				#s202408225048d536a6665 .cart .left-menu ul li a,
+				#s202408225048d536a6665 .mypage .left-menu .cart-menu-slide  {
+					;
 				}
 				.section_wrap .side_gutter {
 					display:none !important;
 				}
-				#s20230316124662fd09cb1 .coupon-wrap:after {
-					background: #ffffff !important;
+				#s202408225048d536a6665 .coupon-wrap:after {
+					background:  !important;
 				}
 			}
 			@media (max-width: 767px) {
-				#s20230316124662fd09cb1 .nav_gradient.slide_left {
-					background: linear-gradient(to left, rgba(255, 255, 255, 0), #ffffff);
+				#s202408225048d536a6665 .nav_gradient.slide_left {
+					background: linear-gradient(to left, rgba(255, 255, 255, 0), #fff);
 				}
-				#s20230316124662fd09cb1 .nav_gradient.slide_right {
-					background: linear-gradient(to right, rgba(255, 255, 255, 0), #ffffff);
+				#s202408225048d536a6665 .nav_gradient.slide_right {
+					background: linear-gradient(to right, rgba(255, 255, 255, 0), #fff);
 				}
-				#s20230316124662fd09cb1 .button_tab .scroll-to-fixed-fixed ul.site_prod_nav > li {
+				#s202408225048d536a6665 .button_tab .scroll-to-fixed-fixed ul.site_prod_nav > li {
 					border-top: 0;
 					border-bottom: 0;
 				}
-				#s20230316124662fd09cb1 .background_tab .scroll-to-fixed-fixed ul.site_prod_nav > li a.active {
-					box-shadow: inset 0 -1px 0 0 rgba(25,34,59,0.1);
+				#s202408225048d536a6665 .background_tab .scroll-to-fixed-fixed ul.site_prod_nav > li a.active {
+					box-shadow: inset 0 -1px 0 0 rgba(0, 0, 0, 0.1);
 				}
 			}
 			@media (min-width: 768px) {
-				#s20230316124662fd09cb1 .opt-group .btn_clse {
-					background-color: #ffffff;
+				#s202408225048d536a6665 .opt-group .btn_clse {
+					background-color: ;
 				}
-				#s20230316124662fd09cb1 .opt-group .btn_clse:after {
-					box-shadow: 0 10px 0 0 #ffffff;
+				#s202408225048d536a6665 .opt-group .btn_clse:after {
+					;
 				}
 			}
 		
-        .doz_sys #s20230316124662fd09cb1 .underline_tab ul.site_prod_nav > li a.active {
-				background: none;
-				border-bottom: 1px solid #430000;
-				color : #430000 
-			}
-		 #s20230316124662fd09cb1	ul.site_prod_nav > li, 
-		 #s20230316124662fd09cb1 .text_tab .site_prod_nav_wrap,
-		 .doz_sys #s20230316124662fd09cb1 .underline_tab ul.site_prod_nav > li a
-		  {
-		    border-color: border-color:rgb(25,34,59) ;border-color:rgba(25,34,59,0.1) ;;
-		 }
-		  #s20230316124662fd09cb1 .background_tab ul.site_prod_nav > li a.active {
-            background-color: #430000;
-            color : #ffffff
-		}
-		  #s20230316124662fd09cb1 .background_tab ul.site_prod_nav > li a.active .braket-badge,
-		  #s20230316124662fd09cb1 .background_tab ul.site_prod_nav > li a.active .braket-badge > span {
-            color : #ffffff
-		}
-        
-            #s20230316124662fd09cb1 .background_tab ul.site_prod_nav > li a.active {
-            background-color: #430000;
-				;
-				color : #ffffff
-			}
-			#s20230316124662fd09cb1 .background_tab ul.site_prod_nav > li a.active .braket-badge,
-            #s20230316124662fd09cb1 .background_tab ul.site_prod_nav > li a.active .braket-badge > span{
-				;
-				color : #ffffff
-			} 
-			
-				.doz_sys #s20230316124662fd09cb1 .bg-brand,
-				.doz_sys #s20230316124662fd09cb1 .bg-brand span,
-				.doz_sys #s20230316124662fd09cb1 .btn-brand {
+				.doz_sys #s202408225048d536a6665 .bg-brand,
+				.doz_sys #s202408225048d536a6665 .bg-brand span,
+				.doz_sys #s202408225048d536a6665 .btn-brand {
 				;
 					background-color:#430000;
 					border-color:#430000;
 					border-width: 1px;
 					color:#fff;
 				}
-				.doz_sys #s20230316124662fd09cb1 .bg-brand:hover {
+				.doz_sys #s202408225048d536a6665 .bg-brand:hover {
 					background-color:rgba(10,13,23,1);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff101323,endColorstr=#ff101323);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff101323,endColorstr=#ff101323);	zoom: 1;;
 					border-color:rgb(10,13,23) ;border-color:rgba(10,13,23,1) ;;
 				}
 			
-	.device_type_m .pc_section #padding_w2023031604aa301e9d168 {
-		height: 30px !important;
+	/* 공통 적용 */
+	#w202408220db48e31d81b2 .nav li a {
+		font-size  : 13px;
+		color : rgba(25,34,59,0.7);
+		letter-spacing:px ;
 	}
-	@media all and (max-width:768px) {
-		.pc_section #padding_w2023031604aa301e9d168 {
-			height: 30px !important;
-		}
+	#w202408220db48e31d81b2 .h-menu-type1 .use_sub_name:hover>a>.plain_name:before,
+    #w202408220db48e31d81b2 .h-menu-type2 .use_sub_name:hover>a>.plain_name:before {
+	   display: inline-flex;
+   }
+	#w202408220db48e31d81b2 .nav li.use_sub_name:hover>a>.plain_name:before {
+						   color : #430000;
+					   }
+	#w202408220db48e31d81b2 .nav li li a {
+						   font-size : 10.4px;
+					   }
+  	@media (min-width: 991px) {
+	#w202408220db48e31d81b2 .nav li a:hover {
+		color : #430000	}
 	}
+		/* 타입 별 적용 */
+	 /* h 타입*/
 
-	.device_type_m .pc_section #padding_w20230320b758dc2f9321b {
-		height: 15px !important;
-	}
-	@media all and (max-width:768px) {
-		.pc_section #padding_w20230320b758dc2f9321b {
-			height: 15px !important;
-		}
-	}
+	#w202408220db48e31d81b2 li.active > ul > li {
+						   display: block;
+					   }
+	#w202408220db48e31d81b2 .nav {
+						   width 	  : 100%;
+						   text-align : center					   }
 
-			#addFormw202303163a9079477a520 .form-control {
-				background-color : rgba(0, 0, 0, 0) !important;
-				color            : #430000 !important;
-				border-color     : #e1e1e1 !important;
-			}
-		
-		#addFormw202303163a9079477a520 .form-control ~ .form-control {
-			margin-top : 5px;
-		}
+	#w202408220db48e31d81b2 .nav li a {
+						   display: inline-block;
+					   						   margin-left: 12.5px;
+						   margin-right: 12.5px;
+					   					   }
 
-		#addFormw202303163a9079477a520 .datetime_wrap .form-control {
-			width : 140px;
-		}
-
-		#addFormw202303163a9079477a520 .datetime_wrap .form-select-wrap ~ .form-select-wrap {
-			margin-left : 2%;
-			margin-top  : 0;
-		}
-		#addFormw202303163a9079477a520 .phonenumber_wrap .form-control {
-			width      : 65px;
-			text-align : center;
-			vertical-align: middle;
-		}
-		#addFormw202303163a9079477a520 .phonenumber_wrap .line {
-			margin : 0 5px;
-			color : #e1e1e1 !important;
-		}
-		#addFormw202303163a9079477a520 .phonenumber_wrap .form-control ~ .form-control {
-			margin-top : 0;
-		}
-		#addFormw202303163a9079477a520 .datetime_wrap .form-select-wrap {
-			vertical-align: middle;
-		}
-    #addFormw202303163a9079477a520 .radio-styled:not(ie8) input ~ span:before {
-        top: calc(50% - (1em * 0.5));
-    }
-    #addFormw202303163a9079477a520 .checkbox-styled:not(ie8) input ~ span:before {
-        top: calc(50% - (1.67em * 0.5));
-    }
-		@media (max-width : 991px) {
-			#addFormw202303163a9079477a520 .datetime_wrap .form-select-wrap {
-				width: 49%;
-			}
-			#addFormw202303163a9079477a520 .datetime_wrap .form-control {
-				line-height: initial !important;
-				vertical-align: middle !important;
-				width: 100% !important;
-				align-items: center;
-			}
-			#addFormw202303163a9079477a520 .datetime_wrap .form-control ~ .form-control {
-				margin-left : 0;
-				margin-top  : 5px;
-			}
-			#addFormw202303163a9079477a520 .form-select-wrap.timepic:before {
-				content: "\e081";
-				font-family: 'simple-line-icons';
-				font-size: 18px;
-				speak: none;
-				font-style: normal;
-				font-weight: normal;
-				font-variant: normal;
-				text-transform: none;
-				line-height: 1;
-				-webkit-font-smoothing: antialiased;
-				-moz-osx-font-smoothing: grayscale;
-				margin-top: -9px;
-			}
-			#addFormw202303163a9079477a520 .item_etc .form-control {
-				max-width: 60%;
-			}
-		}
-		#addFormw202303163a9079477a520 .address_wrap {
-			padding-bottom : 5px;
-		}
+	#w202408220db48e31d81b2 .nav li .active {
+						   color: #430000;
+					   }
+		#w202408220db48e31d81b2 .nav li .active {
+						   background-color: ;
+					   }
+	#w202408220db48e31d81b2 .nav a.active {
+						   border-color : #430000					   }
 	
-	.device_type_m .pc_section #padding_w20230320cb606fa79f7fe {
-		height: 15px !important;
-	}
-	@media all and (max-width:768px) {
-		.pc_section #padding_w20230320cb606fa79f7fe {
-			height: 15px !important;
-		}
-	}
+			#w202408220db48e31d81b2 ul {
+						   width: auto;
+						   display: inline-block;
+               font-size: 0;
+					   }
 
-	.device_type_m .pc_section #padding_w2023032065bc6f1d4834c {
-		height: 30px !important;
+	#w202408220db48e31d81b2 .h-menu-type3 ul li.depth-01 {
+						   width: 150px;
+						   margin-left: 0 !important;
+					   }
+		#w202408220db48e31d81b2 .h-menu-type4.row-cnt-1 ul li {
+						   width: 100%;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4.row-cnt-2 ul li {
+						   width: 50%;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4.row-cnt-3 ul li {
+						   width: 33.33333333%;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4.row-cnt-4 ul li {
+						   width: 25%;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4.row-cnt-5 ul li {
+						   width: 20%;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4 ul {
+						   display: block;
+						   table-layout: unset;
+						   border-width: 0 0 0 1px;
+						   border-style: solid;
+						   border-color:  #D0D0D0;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4 ul li {
+						   display: inline-block;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4 ul li.depth-01 {
+						   display: inline-block;
+						   height: 40px;
+						   float: left;
+						   border-width: 0 1px 1px 0;
+					   }
+ 	#w202408220db48e31d81b2 .h-menu-type4 ul li.depth-01 > a {
+						   padding: 0;
+						   display: table;
+						   width: 100%;
+						   height: 100%;
+						   font-size: 13px;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4 ul li.depth-01 > a .plain_name {
+						   display: table-cell;
+						   vertical-align: middle;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4 ul li.depth-01 + li.depth-01 {
+						   margin-left: 0;
+					   }
+		@media all and (max-width: 767px) {
+	#w202408220db48e31d81b2 .h-menu-type4.row-cnt-mobile-1 ul li {
+		width: 100% !important;
 	}
-	@media all and (max-width:768px) {
-		.pc_section #padding_w2023032065bc6f1d4834c {
-			height: 30px !important;
-		}
+	#w202408220db48e31d81b2 .h-menu-type4.row-cnt-mobile-2 ul li {
+						   width: 50% !important;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4.row-cnt-mobile-3 ul li {
+						   width: 33.3333% !important;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4.row-cnt-mobile-4 ul li {
+						   width: 25% !important;
+					   }
+	#w202408220db48e31d81b2 .h-menu-type4.row-cnt-mobile-5 ul li {
+						   width: 20% !important;
+					   }
 	}
+		
 
 	.footer-section {
 	;
@@ -2148,7 +2125,7 @@
       </script>
       <script>
        (function(){
-	var _d = JSON.parse(atob('eyJJU19JQURNSU4iOmZhbHNlLCJDVVNUT01fSU1BR0VfV0lEVEgiOjE2MDAsIklTX01PQklMRSI6ZmFsc2UsIklTX0lFIjpmYWxzZSwiSVNfU1VQUE9SVF9DU1MzIjp0cnVlLCJVUExPQURfVVJMIjoiXC91cGxvYWRcLyIsIkNETl9VUExPQURfVVJMIjoiaHR0cHM6XC9cL2Nkbi5pbXdlYi5tZVwvdXBsb2FkXC8iLCJDRE5fT1BUSU1JWkVEX1VSTCI6Imh0dHBzOlwvXC9jZG4tb3B0aW1pemVkLmltd2ViLm1lXC91cGxvYWRcLyIsIklTX01BSU4iOmZhbHNlLCJDVVJSRU5UX1VSTCI6Ikx6TTQiLCJDVVJSRU5UX0RPTUFJTiI6InRlY2hqcC5jby5rciIsIlRIVU1CTkFJTF9VUkwiOiJcL3RodW1ibmFpbFwvIiwiQ0ROX1RIVU1CTkFJTF9VUkwiOiJodHRwczpcL1wvY2RuLmltd2ViLm1lXC90aHVtYm5haWxcLyIsIlNJVEVfQ09ERSI6IlMyMDIyMDcwNTliYzM0MDExZjFkNDYiLCJVTklUX0NPREUiOiJ1MjAyMjA3MDU2MmMzYjFhMjM0MDJmIiwiTUFJTl9ET01BSU4iOiJ0ZWNoanAuY28ua3IiLCJWRU5ET1JfRE9NQUlOIjoiaHR0cHM6XC9cL3ZlbmRvci1jZG4uaW13ZWIubWUiLCJHT09HTEVfQVBJX0tFWSI6IkFJemFTeUE4Q0NleGY5WFRKY0gwOW1TdHItSFJXNG5pbjRrOEo3dyIsIkZST0FMQV9WRVJTSU9OIjozMTEsIkZST0FMQV9LRVkiOiI2TEY1ZzFCM0QzRjNDNkMzRTJGLTExU0xKQ0tIWE9TTE1jMVlHU0diMVpYSFNlMUNnQjVBNEQ0QzNFM0MyQTEzQTE5QjdCMj09IiwiSVNfQU5EUk9JRF9BUFAiOiJOIiwiSVNfSU9TX0FQUCI6Ik4iLCJBUFBfVkVSU0lPTiI6IjAiLCJJRV9WRVJTSU9OIjoxMSwiVEVTVF9TRVJWRVIiOmZhbHNlLCJNRU5VX1NOU19JTklUX0RBVEEiOnsiX21haW5fdXJsIjoiaHR0cHM6XC9cL3RlY2hqcC5jby5rciIsIl9zaXRlX25hbWUiOiJcdWFlMzBcdWMyMjBcdWJjOTVcdWM3NzggXHVjODE1XHVkM2M5IiwiX3N1YmplY3QiOiJcdWFlMzBcdWMyMjBcdWJjOTVcdWM3NzggXHVjODE1XHVkM2M5IiwiX2JvZHkiOiJcdWFlMzBcdWMyMjBcdWJjOTVcdWM3NzggXHVjODE1XHVkM2M5XHVjNzQwIFx1YWUzMFx1YzIyMFx1ZDNjOVx1YWMwMCwgXHVhZTMwXHVjMjIwXHVjNzkwXHViYjM4LCBcdWFjNzRcdWMxMjRcdWFjMTBcdWM4MTUsIFx1YWUzMFx1YzIyMFx1YzExY1x1YmU0NFx1YzJhNCwgXHVjNTQ4XHVjODA0XHVjOWM0XHViMmU4LCBcdWFjNzRcdWMxMjRcdWM1ZDRcdWM5YzBcdWIyYzhcdWM1YjRcdWI5YzEgXHViNGYxIFx1YWUzMFx1YzIyMFx1YzBhYyBcdWM4ODVcdWQ1NjlcdWMxMWNcdWJlNDRcdWMyYTRcdWI5N2MgXHVjODFjXHVhY2Y1XHVkNTY5XHViMmM4XHViMmU0LiIsIl9wb3N0X3VybCI6Imh0dHBzOlwvXC90ZWNoanAuY28ua3JcLzM4IiwiX2ltZyI6IiIsIl9zZWN1cml0eV9wb3N0X3VybCI6ImFIUjBjSE02THk5MFpXTm9hbkF1WTI4dWEzSXZNemc9In0sIkxJTUlUX0FQSV9MSVNUIjpbImtha2FvX2xpbmsiLCJrYWthb3N0b3J5X2xpbmsiXSwiTk9fSU1BR0VfVVJMIjoiXC9pbWdcL3RyYW5zcGFyZW5jeS5wbmciLCJTSVRFX0NPVU5UUllfQ09ERSI6ImtyIiwiS09SRUFfQ09VTlRSWV9DT0RFIjoia3IiLCJMQU5HX0NPREUiOiJLUiIsIklTX0dVRVNUIjp0cnVlLCJNRU1CRVJfVUlEIjoiIiwiTUVNQkVSX0hBU0giOiIiLCJVU0VfU0hPUF9JTl9TSE9QIjpmYWxzZSwiQ0hFQ0tfT0ZGSUNFIjpmYWxzZSwiU0RLX0pXVCI6ImV5SmhiR2NpT2lKRlV6STFOaUlzSW10cFpDSTZiblZzYkgwLmV5SnpkV0lpT201MWJHd3NJbk5wZEdWRGIyUmxJam9pVXpJd01qSXdOekExT1dKak16UXdNVEZtTVdRME5pSXNJblZ1YVhSRGIyUmxJam9pZFRJd01qSXdOekExTmpKak0ySXhZVEl6TkRBeVppSXNJbU5vWldOclQyWm1hV05sSWpwbVlXeHpaU3dpYVdGMElqb3hOelkxTURZME1EYzJMQ0psZUhBaU9qRTNOalV3TmpRMk56WjkuR2VFRVNYaW9sWWdFOGNJX25GamM1OFM0MTVBMlhnOUlxc2RSX3BSVDhSMCJ9'));
+	var _d = JSON.parse(atob('eyJJU19JQURNSU4iOmZhbHNlLCJDVVNUT01fSU1BR0VfV0lEVEgiOjE2MDAsIklTX01PQklMRSI6ZmFsc2UsIklTX0lFIjpmYWxzZSwiSVNfU1VQUE9SVF9DU1MzIjp0cnVlLCJVUExPQURfVVJMIjoiXC91cGxvYWRcLyIsIkNETl9VUExPQURfVVJMIjoiaHR0cHM6XC9cL2Nkbi5pbXdlYi5tZVwvdXBsb2FkXC8iLCJDRE5fT1BUSU1JWkVEX1VSTCI6Imh0dHBzOlwvXC9jZG4tb3B0aW1pemVkLmltd2ViLm1lXC91cGxvYWRcLyIsIklTX01BSU4iOmZhbHNlLCJDVVJSRU5UX1VSTCI6Ikx6RTQiLCJDVVJSRU5UX0RPTUFJTiI6InRlY2hqcC5jby5rciIsIlRIVU1CTkFJTF9VUkwiOiJcL3RodW1ibmFpbFwvIiwiQ0ROX1RIVU1CTkFJTF9VUkwiOiJodHRwczpcL1wvY2RuLmltd2ViLm1lXC90aHVtYm5haWxcLyIsIlNJVEVfQ09ERSI6IlMyMDIyMDcwNTliYzM0MDExZjFkNDYiLCJVTklUX0NPREUiOiJ1MjAyMjA3MDU2MmMzYjFhMjM0MDJmIiwiTUFJTl9ET01BSU4iOiJ0ZWNoanAuY28ua3IiLCJWRU5ET1JfRE9NQUlOIjoiaHR0cHM6XC9cL3ZlbmRvci1jZG4uaW13ZWIubWUiLCJHT09HTEVfQVBJX0tFWSI6IkFJemFTeUE4Q0NleGY5WFRKY0gwOW1TdHItSFJXNG5pbjRrOEo3dyIsIkZST0FMQV9WRVJTSU9OIjozMTEsIkZST0FMQV9LRVkiOiI2TEY1ZzFCM0QzRjNDNkMzRTJGLTExU0xKQ0tIWE9TTE1jMVlHU0diMVpYSFNlMUNnQjVBNEQ0QzNFM0MyQTEzQTE5QjdCMj09IiwiSVNfQU5EUk9JRF9BUFAiOiJOIiwiSVNfSU9TX0FQUCI6Ik4iLCJBUFBfVkVSU0lPTiI6IjAiLCJJRV9WRVJTSU9OIjoxMSwiVEVTVF9TRVJWRVIiOmZhbHNlLCJNRU5VX1NOU19JTklUX0RBVEEiOnsiX21haW5fdXJsIjoiaHR0cHM6XC9cL3RlY2hqcC5jby5rciIsIl9zaXRlX25hbWUiOiJcdWFlMzBcdWMyMjBcdWJjOTVcdWM3NzggXHVjODE1XHVkM2M5IiwiX3N1YmplY3QiOiJcdWFlMzBcdWMyMjBcdWJjOTVcdWM3NzggXHVjODE1XHVkM2M5IiwiX2JvZHkiOiJcdWFlMzBcdWMyMjBcdWJjOTVcdWM3NzggXHVjODE1XHVkM2M5XHVjNzQwIFx1YWUzMFx1YzIyMFx1ZDNjOVx1YWMwMCwgXHVhZTMwXHVjMjIwXHVjNzkwXHViYjM4LCBcdWFjNzRcdWMxMjRcdWFjMTBcdWM4MTUsIFx1YWUzMFx1YzIyMFx1YzExY1x1YmU0NFx1YzJhNCwgXHVjNTQ4XHVjODA0XHVjOWM0XHViMmU4LCBcdWFjNzRcdWMxMjRcdWM1ZDRcdWM5YzBcdWIyYzhcdWM1YjRcdWI5YzEgXHViNGYxIFx1YWUzMFx1YzIyMFx1YzBhYyBcdWM4ODVcdWQ1NjlcdWMxMWNcdWJlNDRcdWMyYTRcdWI5N2MgXHVjODFjXHVhY2Y1XHVkNTY5XHViMmM4XHViMmU0LiIsIl9wb3N0X3VybCI6Imh0dHBzOlwvXC90ZWNoanAuY28ua3JcLzE4IiwiX2ltZyI6IiIsIl9zZWN1cml0eV9wb3N0X3VybCI6ImFIUjBjSE02THk5MFpXTm9hbkF1WTI4dWEzSXZNVGc9In0sIkxJTUlUX0FQSV9MSVNUIjpbImtha2FvX2xpbmsiLCJrYWthb3N0b3J5X2xpbmsiXSwiTk9fSU1BR0VfVVJMIjoiXC9pbWdcL3RyYW5zcGFyZW5jeS5wbmciLCJTSVRFX0NPVU5UUllfQ09ERSI6ImtyIiwiS09SRUFfQ09VTlRSWV9DT0RFIjoia3IiLCJMQU5HX0NPREUiOiJLUiIsIklTX0dVRVNUIjp0cnVlLCJNRU1CRVJfVUlEIjoiIiwiTUVNQkVSX0hBU0giOiIiLCJVU0VfU0hPUF9JTl9TSE9QIjpmYWxzZSwiQ0hFQ0tfT0ZGSUNFIjpmYWxzZSwiU0RLX0pXVCI6ImV5SmhiR2NpT2lKRlV6STFOaUlzSW10cFpDSTZiblZzYkgwLmV5SnpkV0lpT201MWJHd3NJbk5wZEdWRGIyUmxJam9pVXpJd01qSXdOekExT1dKak16UXdNVEZtTVdRME5pSXNJblZ1YVhSRGIyUmxJam9pZFRJd01qSXdOekExTmpKak0ySXhZVEl6TkRBeVppSXNJbU5vWldOclQyWm1hV05sSWpwbVlXeHpaU3dpYVdGMElqb3hOelkxTURZME1EY3dMQ0psZUhBaU9qRTNOalV3TmpRMk56QjkubjlwcE5la0xGMlFZN2VtQ3JSZlZENWJuc1NTeWgyQmtpNmJOQTJha2FjayJ9'));
 	for (var k in _d) {
 		window[k] = _d[k];
 	}
@@ -3342,7 +3319,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        {
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": "주식회사 빛과 도시",
+    "name": "주식회사 빛과도시",
     "url": "https://lightandcity.github.io",
     "logo": "https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png",
     "address": {
@@ -3356,7 +3333,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
    </meta>
   </meta>
  </head>
- <body class="page_ready doz_sys _body_menu_m202303160c80d2783d540 page fixed-menu-on new_fixed_menu_on new_header_site" id="doz_body" style=";">
+ <body class="page_ready doz_sys _body_menu_m202212081efd34ea40b2c page fixed-menu-on new_fixed_menu_on new_header_site" id="doz_body" style=";">
   <div class="notification-canvas-container" id="site_alarm_slidemenu_container">
    <div class="notification-canvas-backdrop" id="site_alarm_slidemenu_backdrop" style="display: none">
    </div>
@@ -3478,7 +3455,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     <a class="btn btn-flat" href="javascript:;" onclick="SITE_MEMBER.openLogin('L3Nob3BfbXlwYWdl','mypage');">
      마이페이지
     </a>
-    <a class="btn btn-flat right" href="logout83a7.html?back_url=LzM4">
+    <a class="btn btn-flat right" href="logout9748.html?back_url=LzE4">
      로그아웃
     </a>
    </li>
@@ -3488,7 +3465,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     <ul class="nav navbar-nav navbar-right">
      <div class="viewport-nav mobile _menu_wrap" style="position:relative">
       <li class="depth-01" data-code="m20221201f9696fab3c649" style="">
-       <a class="" data-has_child="Y" data-is_folder_menu="N" data-url="17" href="17.html" onclick="">
+       <a class="" data-has_child="Y" data-is_folder_menu="Y" data-url="17" href="javascript:void(0)" onclick="">
         <span class="plain_name" data-hover="">
          회사소개
         </span>
@@ -3499,34 +3476,16 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
         <li class="depth-02" data-code="m20221213a16ffb6038a7b" style="">
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="34" href="34.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
-           대표이사 인사말
+           대표소장 인사말
           </span>
           <span class="_toggle_btn toggle-btn">
           </span>
          </a>
         </li>
         <li class="depth-02" data-code="m20221213bc11137d86560" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="35" href="35.html" onclick="" tabindex="-1">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="35" href="18.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
-           조직도
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m2022121320337c704a482" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="36" href="36.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           보유현황
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m202212133e4cc5cf9cc2b" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="37" href="37.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           찾아오시는 길
+           소개 자료
           </span>
           <span class="_toggle_btn toggle-btn">
           </span>
@@ -3535,9 +3494,9 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        </ul>
       </li>
       <li class="depth-01" data-code="m202212081efd34ea40b2c" style="">
-       <a class="" data-has_child="Y" data-is_folder_menu="N" data-url="18" href="18.html" onclick="">
+       <a class="" data-has_child="Y" data-is_folder_menu="Y" data-url="18" href="javascript:void(0)" onclick="">
         <span class="plain_name" data-hover="">
-         서비스
+         사업분야
         </span>
         <span class="_toggle_btn toggle-btn">
         </span>
@@ -3546,7 +3505,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
         <li class="depth-02" data-code="m20221209690efd15e7457" style="">
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="23" href="51.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
-           기술평가
+           일조·채광·조망 분석
           </span>
           <span class="_toggle_btn toggle-btn">
           </span>
@@ -3555,61 +3514,16 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
         <li class="depth-02" data-code="m2022120939401292beeda" style="">
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="24" href="52.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
-           기술자문
+           인허가·심의 대응 환경검토
           </span>
           <span class="_toggle_btn toggle-btn">
           </span>
          </a>
         </li>
         <li class="depth-02" data-code="m202212092369e6a80aa00" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="25" href="53.html" onclick="" tabindex="-1">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="25" href="25.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
-           기술감정
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m2022120979e7714f01387" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="26" href="26.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           기술서비스
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m20221209c0d5ee1bec975" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="27" href="27.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           안전진단
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m202212095fe0f37fc553b" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="28" href="28.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           건설엔지니어링
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m202408261636542ff0989" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="44" href="44.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           소음·진동 측정
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m2024082287bfd2a5a8ae8" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="43" href="43.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           건축물 해체계획서(건축물관리법)
+           법원감정·분쟁 기술자문
           </span>
           <span class="_toggle_btn toggle-btn">
           </span>
@@ -3618,9 +3532,9 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        </ul>
       </li>
       <li class="depth-01" data-code="m20221208233f5e8286bd6" style="">
-       <a class="" data-has_child="Y" data-is_folder_menu="Y" data-url="19" href="40.html" onclick="">
+       <a class="" data-has_child="Y" data-is_folder_menu="Y" data-url="19" href="javascript:void(0)" onclick="">
         <span class="plain_name" data-hover="">
-         사업소개
+         업무상세
         </span>
         <span class="_toggle_btn toggle-btn">
         </span>
@@ -3646,75 +3560,10 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
         </li>
        </ul>
       </li>
-      <li class="depth-01" data-code="m20221208931c197d1ca23" style="">
-       <a class="" data-has_child="Y" data-is_folder_menu="N" data-url="20" href="20.html" onclick="">
-        <span class="plain_name" data-hover="">
-         연구개발
-        </span>
-        <span class="_toggle_btn toggle-btn">
-        </span>
-       </a>
-       <ul>
-        <li class="depth-02" data-code="m202212131bef3b675a3e7" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="29" href="29.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           건축주택연구
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m202212135511c166dba27" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="30" href="30.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           스마트건설
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m202212135d3b9c03651b7" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="31" href="javascript:void(0);" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           층간소음
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m2022121376e679bec36a9" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="32" href="javascript:void(0);" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           건설안전
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-        <li class="depth-02" data-code="m2022121326b5fdea252a4" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="33" href="javascript:void(0);" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           분쟁조정연구
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-       </ul>
-      </li>
       <li class="depth-01" data-code="m202303160c80d2783d540" style="">
-       <a class="active active-real" data-has_child="N" data-is_folder_menu="N" data-url="38" href="38.html" onclick="">
+       <a class="" data-has_child="N" data-is_folder_menu="N" data-url="38" href="38.html" onclick="">
         <span class="plain_name" data-hover="">
-         온라인문의
-        </span>
-        <span class="_toggle_btn toggle-btn">
-        </span>
-       </a>
-      </li>
-      <li class="depth-01" data-code="m20230316e19923af12450" style="">
-       <a class="" data-has_child="N" data-is_folder_menu="N" data-url="39" href="39.html" onclick="">
-        <span class="plain_name" data-hover="">
-         인재채용
+         상담문의
         </span>
         <span class="_toggle_btn toggle-btn">
         </span>
@@ -3781,7 +3630,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
 		}
 		.mobile_slide_menu_container .viewport-nav.mobile li a.active-real span,
 		.mobile_slide_menu_container .viewport-nav.mobile li a.has_child.open.active-real span {
-			color: #ffffff;
+			color: #430000;
 		}
 		.mobile_slide_menu_container .viewport-nav.mobile li.depth-01 {
 			border-top: 1px solid #f3f3f3;
@@ -3868,10 +3717,10 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               <div class="img_box _img_box" style="position: relative;">
                <a class="_fade_link" href="21.html">
                 <span class="sr-only">
-                 주식회사 빛과 도시
+                 주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과 도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667"/>
-                <img alt="주식회사 빛과 도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667"/>
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667"/>
                </a>
               </div>
              </div>
@@ -3879,14 +3728,14 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
            </div>
           </div>
          </div>
-         <div class="inline-col-group inline-col-group-right" data-col-group="right" data-type="col-group" style="width:1025px;">
+         <div class="inline-col-group inline-col-group-right" data-col-group="right" data-type="col-group" style="width: 1025px; visibility: visible;">
           <div class="inline-col" data-type="grid">
            <div class="inline-widget" data-type="widget" id="w20221209f6e56a9081615">
             <div class="_widget_data" data-widget-type="inline_menu">
-             <ul class="nav navbar-nav _inline_menu_container" style="visibility: hidden">
+             <ul class="nav navbar-nav _inline_menu_container" style="visibility: visible;">
               <div class="viewport-nav desktop _main_menu">
                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="17.html">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
                   회사소개
                  </span>
@@ -3895,102 +3744,53 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
                   <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    대표이사 인사말
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m20221213bc11137d86560" data-code="m20221213bc11137d86560" style="">
-                  <a class="_txt_m20221213bc11137d86560 _fade_link" data-url="35" href="35.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    조직도
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m2022121320337c704a482" data-code="m2022121320337c704a482" style="">
-                  <a class="_txt_m2022121320337c704a482 _fade_link" data-url="36" href="36.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    보유현황
+                    대표소장 인사말
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
-                  <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="37.html" tabindex="-1">
+                  <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    찾아오시는 길
+                    소개 자료
                    </span>
                   </a>
                  </li>
                 </ul>
                </li>
                <li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="18.html">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
                  <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
-                  서비스
+                  사업분야
                  </span>
                 </a>
                 <ul class="dropdown-menu" role="menu">
                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    기술평가
+                    일조·채광·조망 분석
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    기술자문
+                    인허가·심의 대응 환경검토
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    기술감정
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m2022120979e7714f01387" data-code="m2022120979e7714f01387" style="">
-                  <a class="_txt_m2022120979e7714f01387 _fade_link" data-url="26" href="26.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    기술서비스
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m20221209c0d5ee1bec975" data-code="m20221209c0d5ee1bec975" style="">
-                  <a class="_txt_m20221209c0d5ee1bec975 _fade_link" data-url="27" href="27.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    안전진단
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m202212095fe0f37fc553b" data-code="m202212095fe0f37fc553b" style="">
-                  <a class="_txt_m202212095fe0f37fc553b _fade_link" data-url="28" href="28.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    건설엔지니어링
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m202408261636542ff0989" data-code="m202408261636542ff0989" style="">
-                  <a class="_txt_m202408261636542ff0989 _fade_link" data-url="44" href="44.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    소음·진동 측정
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m2024082287bfd2a5a8ae8" data-code="m2024082287bfd2a5a8ae8" style="">
-                  <a class="_txt_m2024082287bfd2a5a8ae8 _fade_link" data-url="43" href="43.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    건축물 해체계획서(건축물관리법)
+                    법원감정·분쟁 기술자문
                    </span>
                   </a>
                  </li>
                 </ul>
                </li>
                <li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="40.html">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
                  <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
-                  사업소개
+                  업무상세
                  </span>
                 </a>
                 <ul class="dropdown-menu" role="menu">
@@ -4010,64 +3810,126 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  </li>
                 </ul>
                </li>
-               <li class="dropdown _show_m20221208931c197d1ca23" data-code="m20221208931c197d1ca23" id="dropdown_m20221208931c197d1ca23" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="20" href="20.html">
-                 <span class="_txt_m20221208931c197d1ca23 plain_name" data-hover="">
-                  연구개발
-                 </span>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                 <li class="dropdown-submenu _show_m202212131bef3b675a3e7" data-code="m202212131bef3b675a3e7" style="">
-                  <a class="_txt_m202212131bef3b675a3e7 _fade_link" data-url="29" href="29.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    건축주택연구
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m202212135511c166dba27" data-code="m202212135511c166dba27" style="">
-                  <a class="_txt_m202212135511c166dba27 _fade_link" data-url="30" href="30.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    스마트건설
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m202212135d3b9c03651b7" data-code="m202212135d3b9c03651b7" style="">
-                  <a class="_txt_m202212135d3b9c03651b7" data-url="31" href="javascript:void(0);" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    층간소음
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m2022121376e679bec36a9" data-code="m2022121376e679bec36a9" style="">
-                  <a class="_txt_m2022121376e679bec36a9" data-url="32" href="javascript:void(0);" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    건설안전
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m2022121326b5fdea252a4" data-code="m2022121326b5fdea252a4" style="">
-                  <a class="_txt_m2022121326b5fdea252a4" data-url="33" href="javascript:void(0);" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    분쟁조정연구
-                   </span>
-                  </a>
-                 </li>
-                </ul>
-               </li>
                <li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown active _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
                  <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
-                  온라인문의
+                  상담문의
                  </span>
                 </a>
                </li>
-               <li class="dropdown _show_m20230316e19923af12450" data-code="m20230316e19923af12450" id="dropdown_m20230316e19923af12450" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="39" href="39.html">
-                 <span class="_txt_m20230316e19923af12450 plain_name" data-hover="">
-                  인재채용
-                 </span>
-                </a>
-               </li>
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px; display: none;">
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop _main_clone_menu main_clone_menu">
+                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
+                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
+                   회사소개
+                  </span>
+                 </a>
+                 <ul class="dropdown-menu" role="menu">
+                  <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
+                   <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     대표소장 인사말
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
+                   <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     소개 자료
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
+                  <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
+                   사업분야
+                  </span>
+                 </a>
+                 <ul class="dropdown-menu" role="menu">
+                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
+                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     일조·채광·조망 분석
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
+                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     인허가·심의 대응 환경검토
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
+                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     법원감정·분쟁 기술자문
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
+                  <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
+                   업무상세
+                  </span>
+                 </a>
+                 <ul class="dropdown-menu" role="menu">
+                  <li class="dropdown-submenu _show_m20230323185825dbb4178" data-code="m20230323185825dbb4178" style="">
+                   <a class="_txt_m20230323185825dbb4178 _fade_link" data-url="40" href="40.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     업무절차
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
+                   <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="41" href="41.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     업무실적
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
+                  <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
+                   상담문의
+                  </span>
+                 </a>
+                </li>
+               </div>
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
               </div>
              </ul>
             </div>
@@ -4084,7 +3946,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
       <div class="inline-section-wrap fixed_transform" data-type="section-wrap" id="s202212090e52d0cf2598b">
        <div class="section_bg _section_bg fixed_transform _interactive_bg">
        </div>
-       <div class="section_bg_color _section_bg_color fixed_transform" style="background-color:#430000;  position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
+       <div class="section_bg_color _section_bg_color fixed_transform" style="background-color:#430000; -ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#00ffffff,endColorstr=#00ffffff);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#00ffffff,endColorstr=#00ffffff);	zoom: 1; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
        </div>
        <div class="inline-inside _inline-inside" data-type="inside">
         <div class="inline-section" data-type="section" section-code="s202212090e52d0cf2598b">
@@ -4096,10 +3958,10 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               <div class="img_box _img_box" style="position: relative;">
                <a class="_fade_link" href="21.html">
                 <span class="sr-only">
-                 주식회사 빛과 도시
+                 주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과 도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="204.166666667"/>
-                <img alt="주식회사 빛과 도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="204.166666667"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="204.166666667"/>
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="204.166666667"/>
                </a>
               </div>
              </div>
@@ -4107,14 +3969,14 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
            </div>
           </div>
          </div>
-         <div class="inline-col-group inline-col-group-right" data-col-group="right" data-type="col-group" style="width:1025px;">
+         <div class="inline-col-group inline-col-group-right" data-col-group="right" data-type="col-group" style="width: 1025px; visibility: visible;">
           <div class="inline-col" data-type="grid">
            <div class="inline-widget" data-type="widget" id="w20221209f0e5de754997c">
             <div class="_widget_data" data-widget-type="inline_menu">
-             <ul class="nav navbar-nav _inline_menu_container" style="visibility: hidden">
+             <ul class="nav navbar-nav _inline_menu_container" style="visibility: visible;">
               <div class="viewport-nav desktop _main_menu">
                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="17.html">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
                   회사소개
                  </span>
@@ -4123,102 +3985,53 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
                   <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    대표이사 인사말
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m20221213bc11137d86560" data-code="m20221213bc11137d86560" style="">
-                  <a class="_txt_m20221213bc11137d86560 _fade_link" data-url="35" href="35.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    조직도
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m2022121320337c704a482" data-code="m2022121320337c704a482" style="">
-                  <a class="_txt_m2022121320337c704a482 _fade_link" data-url="36" href="36.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    보유현황
+                    대표소장 인사말
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
-                  <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="37.html" tabindex="-1">
+                  <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    찾아오시는 길
+                    소개 자료
                    </span>
                   </a>
                  </li>
                 </ul>
                </li>
                <li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="18.html">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
                  <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
-                  서비스
+                  사업분야
                  </span>
                 </a>
                 <ul class="dropdown-menu" role="menu">
                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    기술평가
+                    일조·채광·조망 분석
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    기술자문
+                    인허가·심의 대응 환경검토
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    기술감정
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m2022120979e7714f01387" data-code="m2022120979e7714f01387" style="">
-                  <a class="_txt_m2022120979e7714f01387 _fade_link" data-url="26" href="26.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    기술서비스
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m20221209c0d5ee1bec975" data-code="m20221209c0d5ee1bec975" style="">
-                  <a class="_txt_m20221209c0d5ee1bec975 _fade_link" data-url="27" href="27.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    안전진단
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m202212095fe0f37fc553b" data-code="m202212095fe0f37fc553b" style="">
-                  <a class="_txt_m202212095fe0f37fc553b _fade_link" data-url="28" href="28.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    건설엔지니어링
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m202408261636542ff0989" data-code="m202408261636542ff0989" style="">
-                  <a class="_txt_m202408261636542ff0989 _fade_link" data-url="44" href="44.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    소음·진동 측정
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m2024082287bfd2a5a8ae8" data-code="m2024082287bfd2a5a8ae8" style="">
-                  <a class="_txt_m2024082287bfd2a5a8ae8 _fade_link" data-url="43" href="43.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    건축물 해체계획서(건축물관리법)
+                    법원감정·분쟁 기술자문
                    </span>
                   </a>
                  </li>
                 </ul>
                </li>
                <li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="40.html">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
                  <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
-                  사업소개
+                  업무상세
                  </span>
                 </a>
                 <ul class="dropdown-menu" role="menu">
@@ -4238,64 +4051,177 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  </li>
                 </ul>
                </li>
-               <li class="dropdown _show_m20221208931c197d1ca23" data-code="m20221208931c197d1ca23" id="dropdown_m20221208931c197d1ca23" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="20" href="20.html">
-                 <span class="_txt_m20221208931c197d1ca23 plain_name" data-hover="">
-                  연구개발
-                 </span>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                 <li class="dropdown-submenu _show_m202212131bef3b675a3e7" data-code="m202212131bef3b675a3e7" style="">
-                  <a class="_txt_m202212131bef3b675a3e7 _fade_link" data-url="29" href="29.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    건축주택연구
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m202212135511c166dba27" data-code="m202212135511c166dba27" style="">
-                  <a class="_txt_m202212135511c166dba27 _fade_link" data-url="30" href="30.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    스마트건설
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m202212135d3b9c03651b7" data-code="m202212135d3b9c03651b7" style="">
-                  <a class="_txt_m202212135d3b9c03651b7" data-url="31" href="javascript:void(0);" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    층간소음
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m2022121376e679bec36a9" data-code="m2022121376e679bec36a9" style="">
-                  <a class="_txt_m2022121376e679bec36a9" data-url="32" href="javascript:void(0);" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    건설안전
-                   </span>
-                  </a>
-                 </li>
-                 <li class="dropdown-submenu _show_m2022121326b5fdea252a4" data-code="m2022121326b5fdea252a4" style="">
-                  <a class="_txt_m2022121326b5fdea252a4" data-url="33" href="javascript:void(0);" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    분쟁조정연구
-                   </span>
-                  </a>
-                 </li>
-                </ul>
-               </li>
                <li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown active _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
                  <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
-                  온라인문의
+                  상담문의
                  </span>
                 </a>
                </li>
-               <li class="dropdown _show_m20230316e19923af12450" data-code="m20230316e19923af12450" id="dropdown_m20230316e19923af12450" style="">
-                <a class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="39" href="39.html">
-                 <span class="_txt_m20230316e19923af12450 plain_name" data-hover="">
-                  인재채용
-                 </span>
-                </a>
-               </li>
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px; display: none;">
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop _main_clone_menu main_clone_menu">
+                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
+                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
+                   회사소개
+                  </span>
+                 </a>
+                 <ul class="dropdown-menu" role="menu">
+                  <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
+                   <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     대표소장 인사말
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
+                   <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     소개 자료
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
+                  <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
+                   사업분야
+                  </span>
+                 </a>
+                 <ul class="dropdown-menu" role="menu">
+                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
+                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     일조·채광·조망 분석
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
+                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     인허가·심의 대응 환경검토
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
+                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     법원감정·분쟁 기술자문
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
+                  <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
+                   업무상세
+                  </span>
+                 </a>
+                 <ul class="dropdown-menu" role="menu">
+                  <li class="dropdown-submenu _show_m20230323185825dbb4178" data-code="m20230323185825dbb4178" style="">
+                   <a class="_txt_m20230323185825dbb4178 _fade_link" data-url="40" href="40.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     업무절차
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
+                   <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="41" href="41.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     업무실적
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="dropdown _show_m20221208931c197d1ca23" data-code="m20221208931c197d1ca23" id="dropdown_m20221208931c197d1ca23" style="">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="20" href="-.html">
+                  <span class="_txt_m20221208931c197d1ca23 plain_name" data-hover="">
+                   연구개발
+                  </span>
+                 </a>
+                 <ul class="dropdown-menu" role="menu">
+                  <li class="dropdown-submenu _show_m202212131bef3b675a3e7" data-code="m202212131bef3b675a3e7" style="">
+                   <a class="_txt_m202212131bef3b675a3e7 _fade_link" data-url="29" href="-.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     건축주택연구
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m202212135511c166dba27" data-code="m202212135511c166dba27" style="">
+                   <a class="_txt_m202212135511c166dba27 _fade_link" data-url="30" href="-.html" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     스마트건설
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m202212135d3b9c03651b7" data-code="m202212135d3b9c03651b7" style="">
+                   <a class="_txt_m202212135d3b9c03651b7" data-url="31" href="javascript:void(0);" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     층간소음
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m2022121376e679bec36a9" data-code="m2022121376e679bec36a9" style="">
+                   <a class="_txt_m2022121376e679bec36a9" data-url="32" href="javascript:void(0);" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     건설안전
+                    </span>
+                   </a>
+                  </li>
+                  <li class="dropdown-submenu _show_m2022121326b5fdea252a4" data-code="m2022121326b5fdea252a4" style="">
+                   <a class="_txt_m2022121326b5fdea252a4" data-url="33" href="javascript:void(0);" tabindex="-1">
+                    <span class="plain_name" data-hover="">
+                     분쟁조정연구
+                    </span>
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
+                  <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
+                   상담문의
+                  </span>
+                 </a>
+                </li>
+                <li class="dropdown _show_m20230316e19923af12450" data-code="m20230316e19923af12450" id="dropdown_m20230316e19923af12450" style="">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="39" href="-.html">
+                  <span class="_txt_m20230316e19923af12450 plain_name" data-hover="">
+                   인재채용
+                  </span>
+                 </a>
+                </li>
+               </div>
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
               </div>
              </ul>
             </div>
@@ -4306,8 +4232,8 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        </div>
       </div>
      </div>
-     <div class="first_scroll_fixed" id="inline_header_mobile" style="min-height: 30px;">
-      <div class="inline-section-wrap fixed_transform" data-type="section-wrap" id="s20221209c44c8a792eb7c">
+     <div class="tansparent_bg first_scroll_fixed" id="inline_header_mobile" style="min-height: 30px;">
+      <div class="inline-section-wrap fixed_transform _fixed_header_section scroll-to-fixed-fixed2" data-type="section-wrap" id="s20221209c44c8a792eb7c" style="z-index: 999; position: fixed; top: 0px; margin-left: 0px; width: 754px; left: 0px;">
        <div class="section_bg _section_bg fixed_transform _interactive_bg">
        </div>
        <div class="section_bg_color _section_bg_color fixed_transform" style="background-color:#430000;  position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
@@ -4322,10 +4248,10 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               <div class="img_box _img_box" style="position: relative;">
                <a class="" href="index.html">
                 <span class="sr-only">
-                 주식회사 빛과 도시
+                 주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과 도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; " width="179.166666667"/>
-                <img alt="주식회사 빛과 도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; " width="179.166666667"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white.png" style="max-width: 100%;height: auto; " width="179.166666667"/>
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white.png" style="max-width: 100%;height: auto; " width="179.166666667"/>
                </a>
               </div>
              </div>
@@ -4357,484 +4283,28 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     </div>
    </div>
   </header>
-  <div class="section_wrap pc_section section_first _section_first mobile_section_first side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s20230316124662fd09cb1" style="; ; background-color:#ffffff;;">
+  <div class="section_wrap pc_section section_first _section_first mobile_section_first side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s2023032326318c3c9c474" style="background-color: #430000;">
    <div class="section_bg _section_bg _interactive_bg" style="   background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
    </div>
-   <div class="section_bg_color _section_bg_color" style="background-color:#ffffff;  position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
+   <div class="section_bg_color _section_bg_color" style="background-color:#430000;  position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
+   </div>
+
+
+
+  </header>
+  <div class="section_wrap pc_section section_first _section_first mobile_section_first side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s20221212104763a45cc27" style="; ; background-color:#430000;;">
+   <div class="section_bg _section_bg _interactive_bg" style="   background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
+   </div>
+   <div class="section_bg_color _section_bg_color" style="background-color:#430000;  position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
    </div>
    <main>
     <div class="inside" doz_type="inside">
      <div class="doz_row" doz_grid="12" doz_type="row">
       <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
-       <div doz_type="widget" id="w2023031604aa301e9d168">
+       <div doz_type="widget" id="w20221212db80ec76799c2">
         <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
          <div class="widget padding" data-height="60" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w2023031604aa301e9d168" style="width:100%; min-height:1px; height:60px; ">
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="doz_row" doz_grid="12" doz_type="row">
-      <div class="col-dz col-dz-4 col-xdz-clear" doz_clear="Y" doz_grid="4" doz_type="grid">
-       <div doz_type="widget" id="w20230320b758dc2f9321b">
-        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
-         <div class="widget padding" data-height="30" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w20230320b758dc2f9321b" style="width:100%; min-height:1px; height:30px; ">
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-      <div class="col-dz col-dz-4 col-xdz-clear" doz_clear="Y" doz_grid="4" doz_type="grid">
-       <div doz_type="widget" id="w202303163a9079477a520">
-        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="입력폼" data-widget-parent-is-mobile="N" data-widget-type="form">
-         <div class="form-widget widget _form-widget">
-          <div class="deadline-opacity">
-           <form id="addFormw202303163a9079477a520" method="POST" target="hidden_frame">
-            <input name="board_code" type="hidden" value="b20230316fa40b1df17aa0"/>
-            <input name="unit_code" type="hidden" value="u2022070562c3b1a23402f"/>
-            <input name="widget_code" type="hidden" value="w202303163a9079477a520"/>
-            <input name="board_name" type="hidden" value="온라인문의"/>
-            <div id="input_form_token_obj">
-             <input class="_tk_obj" name="write_token" type="hidden"/>
-             <input class="_tk_key_obj" name="write_token_key" type="hidden"/>
-            </div>
-            <div class="form-group" id="input_2978c9a618531">
-             <label class="control-label" for="input_txt_2978c9a618531">
-              글 제목
-              <i aria-hidden="true" class="icon-required">
-              </i>
-             </label>
-             <input class="form-control" id="input_txt_2978c9a618531" name="input_2978c9a618531" placeholder="" type="text" value=""/>
-            </div>
-            <div class="form-group" id="input_663Sgi512T">
-             <label class="control-label" for="input_txt_663Sgi512T">
-              의뢰자 성함
-              <i aria-hidden="true" class="icon-required">
-              </i>
-             </label>
-             <input class="form-control" id="input_txt_663Sgi512T" name="input_663Sgi512T" placeholder="" type="text" value=""/>
-            </div>
-            <div class="form-group" id="input_463gTWp03s">
-             <label class="control-label" for="input_txt_463gTWp03s">
-              의뢰자 회사명/직책
-             </label>
-             <input class="form-control" id="input_txt_463gTWp03s" name="input_463gTWp03s" placeholder="" type="text" value=""/>
-            </div>
-            <div class="form-group" id="phonenumber_y151UL720Q">
-             <label class="control-label" for="input_num_y151UL720Q">
-              전화번호
-              <i aria-hidden="true" class="icon-required">
-              </i>
-             </label>
-             <div class="phonenumber_wrap">
-              <input class="_only_number form-control inline-blocked _only_number_y151UL720Q" id="input_num_y151UL720Q" maxlength="4" name="phonenumber1_y151UL720Q" placeholder="" type="tel" value=""/>
-              <span class="inline-blocked line">
-               -
-              </span>
-              <input class="_only_number form-control inline-blocked _only_number_y151UL720Q" id="input_num_y151UL720Q" maxlength="4" name="phonenumber2_y151UL720Q" placeholder="" type="tel" value=""/>
-              <span class="inline-blocked line">
-               -
-              </span>
-              <input class="_only_number form-control inline-blocked _only_number_y151UL720Q" id="input_num_y151UL720Q" maxlength="4" name="phonenumber3_y151UL720Q" placeholder="" type="tel" value=""/>
-             </div>
-            </div>
-            <div class="form-group" id="input_2U0k87c7O7">
-             <label class="control-label" for="input_txt_2U0k87c7O7">
-              이메일
-             </label>
-             <input class="form-control" id="input_txt_2U0k87c7O7" name="input_2U0k87c7O7" placeholder="" type="text" value=""/>
-            </div>
-            <div class="form-group" id="input_J1SF1GOk71">
-             <label class="control-label" for="input_txt_J1SF1GOk71">
-              대상건물 주소
-             </label>
-             <input class="form-control" id="input_txt_J1SF1GOk71" name="input_J1SF1GOk71" placeholder="" type="text" value=""/>
-            </div>
-            <div class="form-group" id="input_2r5R66u1K4">
-             <label class="control-label" for="input_txt_2r5R66u1K4">
-              대상건물 규모
-             </label>
-             <input class="form-control" id="input_txt_2r5R66u1K4" name="input_2r5R66u1K4" placeholder="" type="text" value=""/>
-            </div>
-            <div class="form-group" id="radio_6A686IW0iL">
-             <label class="control-label" for="input_radio_6A686IW0iL">
-              설계도면 보존여부
-             </label>
-             <div class="radio radio-styled">
-              <label>
-               <input class="_radio" id="input_radio_6A686IW0iL" name="radio_6A686IW0iL" type="radio" value="예"/>
-               <span>
-                예
-               </span>
-              </label>
-             </div>
-             <div class="radio radio-styled">
-              <label>
-               <input class="_radio" id="input_radio_6A686IW0iL" name="radio_6A686IW0iL" type="radio" value="아니오"/>
-               <span>
-                아니오
-               </span>
-              </label>
-             </div>
-            </div>
-            <div class="form-group" id="datetime_813I7uHL72">
-             <label class="control-label" for="input_time_813I7uHL72">
-              대상건물 준공년도
-             </label>
-             <div class="datetime_wrap">
-              <div class="form-select-wrap inline-blocked">
-               <input class="form-control datepicker _datepicker" id="input_time_813I7uHL72" name="date_813I7uHL72" placeholder="년/월/일" type="text" value=""/>
-              </div>
-             </div>
-            </div>
-            <div class="form-group" id="textarea_lV3wn5D417">
-             <label class="control-label" for="input_text_area_lV3wn5D417">
-              상담 및 질의내용
-             </label>
-             <textarea class="form-control" id="input_text_area_lV3wn5D417" name="textarea_lV3wn5D417" placeholder="" rows="3"></textarea>
-            </div>
-            <div class="form-group" id="file_V4108NT153_w202303163a9079477a520">
-             <label class="control-label" for="input_file_V4108NT153">
-              파일1
-             </label>
-             <div class="holder _holder">
-              <a class="btn btn-default form_widget_btn">
-               <i aria-hidden="true" class="btl bt-upload" style="margin-right:4px">
-               </i>
-               파일 올리기
-               <input class="_file" id="input_file_V4108NT153" name="form_file_V4108NT153" style="position: absolute; border:1px solid red; top:0;left:0; width: 100%; height:100%; opacity: 0;" type="file"/>
-               <span class="sr-only">
-                file upload button
-               </span>
-              </a>
-             </div>
-             <div class="_form_file_list" style="border:1px solid #ccc; display:inline-block; padding:6px 12px; border-radius: 3px; display: none">
-              <span class="_filename">
-              </span>
-              <small class="text-gray _filesize">
-               ()
-              </small>
-              <a href="javascript:;" style="color:#999; font-size:11px; margin-left:12px">
-               <i aria-hidden="true" class="btm bt-times _fileremove">
-               </i>
-               <span class="sr-only">
-                file remove button
-               </span>
-              </a>
-              <input class="_temp_file" name="temp_files_V4108NT153" type="hidden" value=""/>
-              <input class="_upload_file" name="upload_files_V4108NT153" type="hidden" value=""/>
-             </div>
-            </div>
-            <div class="form-group" id="file_4Js81d24P2_w202303163a9079477a520">
-             <label class="control-label" for="input_file_4Js81d24P2">
-              파일2
-             </label>
-             <div class="holder _holder">
-              <a class="btn btn-default form_widget_btn">
-               <i aria-hidden="true" class="btl bt-upload" style="margin-right:4px">
-               </i>
-               파일 올리기
-               <input class="_file" id="input_file_4Js81d24P2" name="form_file_4Js81d24P2" style="position: absolute; border:1px solid red; top:0;left:0; width: 100%; height:100%; opacity: 0;" type="file"/>
-               <span class="sr-only">
-                file upload button
-               </span>
-              </a>
-             </div>
-             <div class="_form_file_list" style="border:1px solid #ccc; display:inline-block; padding:6px 12px; border-radius: 3px; display: none">
-              <span class="_filename">
-              </span>
-              <small class="text-gray _filesize">
-               ()
-              </small>
-              <a href="javascript:;" style="color:#999; font-size:11px; margin-left:12px">
-               <i aria-hidden="true" class="btm bt-times _fileremove">
-               </i>
-               <span class="sr-only">
-                file remove button
-               </span>
-              </a>
-              <input class="_temp_file" name="temp_files_4Js81d24P2" type="hidden" value=""/>
-              <input class="_upload_file" name="upload_files_4Js81d24P2" type="hidden" value=""/>
-             </div>
-            </div>
-            <div class="form-group privacy" id="privacy">
-             <label class="control-label" for="">
-              개인정보 수집 및 이용 동의
-              <i aria-hidden="true" class="icon-required">
-              </i>
-             </label>
-             <div class="form-control">
-              주식회사 기술법인빛과도시(이하 ‘회사’라 한다)는 개인정보 보호법 제30조에 따라 정보 주체의 개인정보를 보호하고 이와 관련한 고충을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리지침을 수립, 공개합니다.
-              <br/>
-              <br/>
-              <strong>
-               제1조 (개인정보의 처리목적)
-              </strong>
-              <br/>
-              회사는 다음의 목적을 위하여 개인정보를 처리합니다. 처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며, 이용 목적이 변경되는 경우에는 개인정보보호법 제18조에 따라 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.
-              <br/>
-              <br/>
-              1. 홈페이지 회원 가입 및 관리
-              <br/>
-              회원 가입 의사 확인, 회원제 서비스 제공에 따른 본인 식별․인증, 회원자격 유지․관리, 제한적 본인확인제 시행에 따른 본인확인, 서비스 부정 이용 방지, 만 14세 미만 아동의 개인정보처리 시 법정대리인의 동의 여부 확인, 각종 고지․통지, 고충 처리 등을 목적으로 개인정보를 처리합니다.
-              <br/>
-              <br/>
-              2. 재화 또는 서비스 제공
-              <br/>
-              물품 배송, 서비스 제공, 계약서 및 청구서 발송, 콘텐츠 제공, 맞춤서비스 제공, 본인인증, 연령인증, 요금 결제 및 정산, 채권추심 등을 목적으로 개인정보를 처리합니다.
-              <br/>
-              <br/>
-              3. 고충 처리
-              <br/>
-              민원인의 신원 확인, 민원사항 확인, 사실조사를 위한 연락․통지, 처리 결과 통보 등의 목적으로 개인정보를 처리합니다.
-              <br/>
-              <br/>
-              <strong>
-               제2조 (개인정보의 처리 및 보유기간)
-              </strong>
-              <br/>
-              ① 회사는 법령에 따른 개인정보 보유, 이용 기간 또는 정보주체로부터 개인정보를 수집 시에 동의 받은 개인정보 보유, 이용 기간 내에서 개인정보를 처리, 보유합니다.
-              <br/>
-              ② 각각의 개인정보 처리 및 보유 기간은 다음과 같습니다.
-              <br/>
-              <br/>
-              1. 홈페이지 회원 가입 및 관리 : 사업자/단체 홈페이지 탈퇴 시까지
-              <br/>
-              다만, 다음의 사유에 해당하는 경우에는 해당 사유 종료 시까지
-              <br/>
-              1) 관계 법령 위반에 따른 수사, 조사 등이 진행 중인 경우에는 해당 수사, 조사 종료 시까지
-              <br/>
-              2) 홈페이지 이용에 따른 채권 및 채무관계 잔존 시에는 해당 채권, 채무 관계 정산 시까지
-              <br/>
-              <br/>
-              <strong>
-               제5조(이용자 및 법정대리인의 권리와 그 행사 방법)
-              </strong>
-              <br/>
-              <br/>
-              ① 정보주체는 회사에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
-              <br/>
-              1. 개인정보 열람 요구
-              <br/>
-              2. 오류 등이 있을 경우 정정 요구
-              <br/>
-              3. 삭제요구
-              <br/>
-              4. 처리정지 요구
-              <br/>
-              ② 제1항에 따른 권리 행사는 회사에 대해 서면, 전화, 전자우편, 모사전송(FAX) 등을 통하여 하실 수 있으며 회사는 이에 대해 지체없이 조치하겠습니다.
-              <br/>
-              ③ 정보주체가 개인정보의 오류 등에 대한 정정 또는 삭제를 요구한 경우에는 회사는 정정 또는 삭제를 완료할 때까지 당해 개인정보를 이용하거나 제공하지 않습니다.
-              <br/>
-              ④ 제1항에 따른 권리 행사는 정보주체의 법정대리인이나 위임을 받은 자 등 대리인을 통하여 하실 수 있습니다. 이 경우 개인정보 보호법 시행규칙 별지 제11호 서식에 따른 위임장을 제출하셔야 합니다.
-              <br/>
-              ⑤ 정보주체는 개인정보 보호법 등 관계 법령을 위반하여 회사가 처리하고 있는 정보주체 본인이나 타인의 개인정보 및 사생활을 침해하여서는 아니 됩니다.
-              <br/>
-              <br/>
-              <br/>
-              <strong>
-               제6조(처리하는 개인정보 항목)
-              </strong>
-              <br/>
-              회사는 다음의 개인정보 항목을 처리하고 있습니다.
-              <br/>
-              <br/>
-              1. 홈페이지 회원 가입 및 관리
-              <br/>
-              필수항목 : &lt;예) 성명, 생년월일, 아이디, 비밀번호, 주소, 전화번호, 성별, 이메일주소, 아이핀번호&gt;
-              <br/>
-              선택항목 : &lt;예) 결혼 여부, 관심 분야&gt;
-              <br/>
-              <br/>
-              2. 재화 또는 서비스 제공
-              <br/>
-              필수항목 : &lt;예) 성명, 생년월일, 아이디, 비밀번호, 주소, 전화번호, 이메일주소, 아이핀번호, 신용카드번호, 은행계좌정보 등 결제정보&gt;
-              <br/>
-              선택항목 : &lt;관심분야, 과거 구매내역&gt;
-              <br/>
-              <br/>
-              3. 인터넷 서비스 이용과정에서 아래 개인정보 항목이 자동으로 생성되어 수집될 수 있습니다.
-              <br/>
-              IP주소, 쿠키, MAC주소, 서비스 이용기록, 방문기록, 불량 이용기록 등
-              <br/>
-              <br/>
-              <strong>
-               제7조(개인정보의 파기)
-              </strong>
-              <br/>
-              ① 회사는 개인정보 보유 기간의 경과, 처리목적 달성 등 개인정보가 불필요하게 되었을 때에는 지체없이 해당 개인정보를 파기합니다.
-              <br/>
-              ② 정보주체로부터 동의받은 개인정보 보유 기간이 경과하거나 처리목적이 달성되었음에도 불구하고 다른 법령에 따라 개인정보를 계속 보존하여야 하는 경우에는, 해당 개인정보를 별도의 데이터베이스(DB)로 옮기거나 보관장소를 달리하여 보존합니다.
-              <br/>
-              ③ 개인정보 파기의 절차 및 방법은 다음과 같습니다.
-              <br/>
-              1. 파기 절차
-              <br/>
-              회사는 파기 사유가 발생한 개인정보를 선정하고, 회사의 개인정보 보호책임자의 승인을 받아 개인정보를 파기합니다.
-              <br/>
-              2. 파기 방법
-              <br/>
-              회사는 전자적 파일 형태로 기록․저장된 개인정보는 기록을 재생할 수 없도록 로우레밸포멧(Low Level Format) 등의 방법을 이용하여 파기하며, 종이 문서에 기록․저장된 개인정보는 분쇄기로 분쇄하거나 소각하여 파기합니다.
-              <br/>
-              <br/>
-              <strong>
-               제8조(개인정보의 안전성 확보조치)
-              </strong>
-              <br/>
-              회사는 개인정보의 안전성 확보를 위해 다음과 같은 조치를 하고 있습니다.
-              <br/>
-              1. 관리적 조치 : 내부관리계획 수립 및 시행, 정기적 직원 교육 등
-              <br/>
-              2. 기술적 조치 : 개인정보처리시스템 등의 접근 권한 관리, 접근통제시스템 설치, 고유 식별정보
-              <br/>
-              등의 암호화, 보안프로그램 설치
-              <br/>
-              3. 물리적 조치 : 전산실, 자료보관실 등의 접근통제
-              <br/>
-              <br/>
-              <strong>
-               제9조(개인정보 자동 수집 장치의 설치∙운영 및 거부에 관한 사항)
-              </strong>
-              <br/>
-              ① 회사는 이용자에게 개별적인 맞춤 서비스를 제공하기 위해 이용정보를 저장하고 수시로 불러오는 ‘쿠키(cookie)’를 사용합니다.
-              <br/>
-              ② 쿠키는 웹사이트를 운영하는데 이용되는 서버(http)가 이용자의 컴퓨터 브라우저에 보내는 소량의 정보이며 이용자들의 컴퓨터 내의 하드디스크에 저장되기도 합니다.
-              <br/>
-              가. 쿠키의 사용 목적: 이용자가 방문한 각 서비스와 웹 사이트들에 대한 방문 및 이용형태, 인기 검색어, 보안접속 여부, 등을 파악하여 이용자에게 최적화된 정보 제공을 위해 사용됩니다.
-              <br/>
-              나. 쿠키의 설치∙운영 및 거부 : 웹브라우저 상단의 도구&gt;인터넷 옵션&gt;개인정보 메뉴의 옵션 설정을 통해 쿠키 저장을 거부 할 수 있습니다.
-              <br/>
-              다. 쿠키 저장을 거부할 경우 맞춤형 서비스 이용에 어려움이 발생할 수 있습니다.
-              <br/>
-              <br/>
-              <br/>
-              <strong>
-               제10조(개인정보 보호책임자)
-              </strong>
-              <br/>
-              ① 회사는 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만 처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
-              <br/>
-              <br/>
-              <br/>
-              ② 정보주체께서는 회사의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만 처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. 회사는 정보주체의 문의에 대해 지체없이 답변 및 처리해드릴 것입니다.
-              <br/>
-              <br/>
-              <br/>
-              <strong>
-               제11조(개인정보 열람청구)
-              </strong>
-              <br/>
-              정보주체는 개인정보 보호법 제35조에 따른 개인정보의 열람 청구를 아래의 부서에 할 수 있습니다. 회사는 정보주체의 개인정보 열람 청구가 신속하게 처리되도록 노력하겠습니다.
-              <br/>
-              <br/>
-              <br/>
-              <strong>
-               제12조(권익침해 구제 방법)
-              </strong>
-              <br/>
-              정보주체는 아래의 기관에 대해 개인정보 침해에 대한 피해구제, 상담 등을 문의하실 수 있습니다.
-              <br/>
-              <br/>
-              ▶ 개인정보 침해신고센터 (한국인터넷진흥원 운영)
-              <br/>
-              - 소관 업무 : 개인정보 침해사실 신고, 상담 신청
-              <br/>
-              - 홈페이지 : privacy.kisa.or.kr
-              <br/>
-              - 전화 : (국번없이) 118
-              <br/>
-              - 주소 : (58324) 전남 나주시 진흥길 9(빛가람동 301-2) 3층 개인정보침해신고센터
-              <br/>
-              <br/>
-              ▶ 개인정보 분쟁조정위원회
-              <br/>
-              - 소관업무 : 개인정보 분쟁조정신청, 집단분쟁조정 (민사적 해결)
-              <br/>
-              - 홈페이지 : www.kopico.go.kr
-              <br/>
-              - 전화 : (국번없이) 1833-6972
-              <br/>
-              - 주소 : (03171)서울특별시 종로구 세종대로 209 정부서울청사 4층
-              <br/>
-              <br/>
-              ▶ 대검찰청 사이버범죄수사단 : 02-3480-3573 (www.spo.go.kr)
-              <br/>
-              ▶ 경찰청 사이버안전국 : 182 (http://cyberbureau.police.go.kr)
-              <br/>
-              <br/>
-              <br/>
-              <strong>
-               제13조(개인정보 처리방침 시행 및 변경)
-              </strong>
-              <br/>
-              이 개인정보 처리방침은 2023. 5. 1부터 적용됩니다.
-             </div>
-             <div class="checkbox checkbox-styled">
-              <label>
-               <input type="checkbox"/>
-               <span>
-                개인정보 수집 및 이용에 동의합니다.
-               </span>
-              </label>
-             </div>
-            </div>
-           </form>
-           <div class="form text-center">
-            <a class="btn btn-primary _input_form_submit" href="javascript:;" onclick="SITE_FORM.confirmInputForm('w202303163a9079477a520','Y');">
-             보내기
-            </a>
-           </div>
-          </div>
-          <div aria-hidden="false" aria-labelledby="myModalLabel" class="modal in modal_site_alert" id="input_form_complete_modal_w202303163a9079477a520" role="dialog" style="display: none;" tabindex="-1">
-           <div class="modal-dialog">
-            <div class="modal-content">
-             <div class="layer_pop">
-              <div class="container-fluid">
-               <p class="text-center" style="margin-bottom: 0;word-break: break-all;">
-                작성하신대로 접수하시겠습니까?
-               </p>
-              </div>
-              <div class="btn-group-justified">
-               <a class="btn" href="javascript:" onclick="SITE_FORM.hideModal();">
-                취소
-               </a>
-               <a class="btn right" href="javascript:" onclick="SITE_FORM.submit('w202303163a9079477a520');">
-                확인
-               </a>
-              </div>
-             </div>
-            </div>
-           </div>
-          </div>
-          <div aria-hidden="false" aria-labelledby="myModalLabel" class="modal in modal_site_alert" id="input_form_error_modal_w202303163a9079477a520" role="dialog" style="display: none;" tabindex="-1">
-           <div class="modal-dialog">
-            <div class="modal-content">
-             <div class="layer_pop">
-              <div class="container-fluid">
-               <p class="text-center" style="margin-bottom: 0;">
-               </p>
-              </div>
-              <div class="btn-group-justified">
-               <a class="btn right" href="javascript:" onclick="SITE_FORM.hideModal();">
-                확인
-               </a>
-              </div>
-             </div>
-            </div>
-           </div>
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-      <div class="col-dz col-dz-4 col-xdz-clear" doz_clear="Y" doz_grid="4" doz_type="grid">
-       <div doz_type="widget" id="w20230320cb606fa79f7fe">
-        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
-         <div class="widget padding" data-height="30" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w20230320cb606fa79f7fe" style="width:100%; min-height:1px; height:30px; ">
+          <div id="padding_w20221212db80ec76799c2" style="width:100%; min-height:1px; height:60px; ">
           </div>
          </div>
         </div>
@@ -4843,10 +4313,35 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
      </div>
      <div class="doz_row" doz_grid="12" doz_type="row">
       <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
-       <div doz_type="widget" id="w2023032065bc6f1d4834c">
+       <div doz_type="widget" id="w20221212d63b5bdf4a17b">
+        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w20221212d63b5bdf4a17b">
+          <div class="text-table">
+           <div>
+            <div style="margin: 0 25px;">
+             <p style="font-family: 'sans-serif'; font-weight: 500; font-size: 12px; color: #ffffff; margin-bottom: -15px;">
+              사업분야
+             </p>
+             <h1 style="color:#fff; font-weight: 600; font-size: 22px;">
+              인허가·심의 대응 환경검토
+             </h1>
+             <p style="color:#fff; display:inline-box; font-size: 14px;">
+              고층·고밀 개발 시 요구되는 일조·채광·조망 분석을 정확히 수행하여 <br>인허가 반려 및 사업 지연 리스크를 최소화하는 기술 자료를 제공합니다.
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="doz_row" doz_grid="12" doz_type="row">
+      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+       <div doz_type="widget" id="w20221212fe1b6d1cc0be0">
         <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
          <div class="widget padding" data-height="60" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w2023032065bc6f1d4834c" style="width:100%; min-height:1px; height:60px; ">
+          <div id="padding_w202303236ef22367ea53a" style="width:100%; min-height:1px; height:60px; ">
           </div>
          </div>
         </div>
@@ -4855,6 +4350,249 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
      </div>
     </div>
    </main>
+  </div>
+  <div class="section_wrap pc_section side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s20221212dc59913285779" style="; ; background-color:#ffffff;;">
+   <div class="section_bg _section_bg _interactive_bg" style="   background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
+   </div>
+   <div class="section_bg_color _section_bg_color" style="background-color:#ffffff;  position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
+   </div>
+   <main>
+    <div class="inside" doz_type="inside">
+     <div class="doz_row" doz_grid="12" doz_type="row">
+      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+       <div doz_type="widget" id="w202212125683569ccd1a1">
+        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+         <div class="widget padding" data-height="60" style="margin-top:px; margin-bottom:px;">
+          <div id="padding_w202212125683569ccd1a1" style="width:100%; min-height:1px; height:60px; ">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="doz_row" doz_grid="12" doz_type="row">
+      <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
+       <div doz_type="widget" id="w202212122e56aaa47ac18">
+        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w202212122e56aaa47ac18">
+          <div class="text-table">
+           <div>
+            <h2 style="font-weight: 600;
+	font-size: 16px;
+	border-top: 1px solid #000000;
+	margin: 10px 25px 10px 25px;
+	padding-top: 20px;">
+             주요 의뢰주체
+            </h2>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
+       <div doz_type="widget" id="w20221212dfc304e15eeec">
+        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w20221212dfc304e15eeec">
+          <div class="text-table">
+           <div>
+            <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
+                    [1] 건축/설계/기술사 사무소 (건축사, 기술사)
+            </p>
+            <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
+                    [2] 건설사, 부동산 개발사 (시행사)
+            </p>
+            <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
+                    [3] 재건축·재개발 조합 및 사업조합
+            </p>
+            <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
+                    [4] 공사 발주 기관 (공공기관, 지자체)
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="doz_row" doz_grid="12" doz_type="row">
+      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+       <div doz_type="widget" id="w2022121225c63db076d0e">
+        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+         <div class="widget padding" data-height="30" style="margin-top:px; margin-bottom:px;">
+          <div id="padding_w2022121225c63db076d0e" style="width:100%; min-height:1px; height:30px; ">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+
+   </main>
+    <div class="inside" doz_type="inside">
+     <div class="doz_row" doz_grid="12" doz_type="row">
+      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+       <div doz_type="widget" id="w202212125683569ccd1a1">
+        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+         <div class="widget padding" data-height="60" style="margin-top:px; margin-bottom:px;">
+          <div id="padding_w202212125683569ccd1a1" style="width:100%; min-height:1px; height:60px; ">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="doz_row" doz_grid="12" doz_type="row">
+      <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
+       <div doz_type="widget" id="w202212122e56aaa47ac18">
+        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w202212122e56aaa47ac18">
+          <div class="text-table">
+           <div>
+            <h2 style="font-weight: 600;
+	font-size: 16px;
+	border-top: 1px solid #000000;
+	margin: 10px 25px 10px 25px;
+	padding-top: 20px;">
+             분석 목적 개괄
+            </h2>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
+       <div doz_type="widget" id="w20221212dfc304e15eeec">
+        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w20221212dfc304e15eeec">
+          <div class="text-table">
+           <div>
+                <table style="margin-top:10px;
+  margin-left: 25px; border: none;">
+                    <tbody>
+                        <tr>
+                            <td style="width:20%; border: none; padding: 15px 20px; background-color: #f9f9f9;">행정 요구사항 <br> 충족여부 확인</td>
+                            <td style="width:60%; border: none; padding: 15px 20px;">건축법, 조례 및 각 지자체별 심의 기준에 맞춘 정량적 분석 자료를 제작하여 인허가·심의 과정을 원활히 진행할 수 있도록 지원합니다.</td>
+                        </tr>
+                        <tr>
+                            <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">설계안 비교 검증</td>
+                            <td style="border: none; padding: 15px 20px;">다양한 설계 대안(층수, 배치, 형상)에 대한 환경 영향을 사전 시뮬레이션하여 최적의 설계 방향을 설정하는 데 기여합니다.</td>
+                        </tr>
+                        <tr>
+                            <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">사업성 및 리스크 관리</td>
+                            <td style="border: none; padding: 15px 20px;">발생 가능한 리스크를 사전에 평가하고, 이를 완화할 수 있는 설계적, 제도적 방안에 대한 기술적 근거를 제시합니다.</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="doz_row" doz_grid="12" doz_type="row">
+      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+       <div doz_type="widget" id="w2022121225c63db076d0e">
+        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+         <div class="widget padding" data-height="30" style="margin-top:px; margin-bottom:px;">
+          <div id="padding_w2022121225c63db076d0e" style="width:100%; min-height:1px; height:30px; ">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>   
+
+
+   <main>
+  </div>
+  <div class="section_wrap pc_section side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s2023032454b7d6f3d623e" style="; ; background-color:#ffffff;;">
+   <div class="section_bg _section_bg _interactive_bg" style="   background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
+   </div>
+   <div class="section_bg_color _section_bg_color" style="background-color:#ffffff;  position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
+   </div>
+   <main>
+   <main>
+    <div class="inside" doz_type="inside">
+     <div class="doz_row" doz_grid="12" doz_type="row">
+      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+       <div doz_type="widget" id="w202212125683569ccd1a1">
+        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+         <div class="widget padding" data-height="60" style="margin-top:px; margin-bottom:px;">
+          <div id="padding_w202212125683569ccd1a1" style="width:100%; min-height:1px; height:60px; ">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="doz_row" doz_grid="12" doz_type="row">
+      <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
+       <div doz_type="widget" id="w202212122e56aaa47ac18">
+        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w202212122e56aaa47ac18">
+          <div class="text-table">
+           <div>
+            <h2 style="font-weight: 600;
+	font-size: 16px;
+	border-top: 1px solid #000000;
+	margin: 10px 25px 10px 25px;
+	padding-top: 20px;">
+             절차별 주요 대응
+            </h2>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
+       <div doz_type="widget" id="w20221212dfc304e15eeec">
+        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w20221212dfc304e15eeec">
+          <div class="text-table">
+                <table style="margin-top:10px; margin-left:25px;margin-right:25px;">
+                    <tbody>
+                        <tr>
+                            <td style="width:25%;">건축계획심의</td>
+                            <td style="width:25%;">도시·주거환경정비사업</td>
+                            <td style="width:25%;">개발행위허가</td>
+                            <td style="width:25%;">공공건축사업 협의</td>
+                        </tr>
+                        <tr>
+                            <td>지역/지구단위계획, 건축설계 심의 시 필요한 일조·조망 분석 보고서</td>
+                            <td>재건축/재개발 정비사업의 조합설립인가, 사업시행인가 관련 환경성 검토</td>
+                            <td>대규모 개발행위 허가 시 발생 가능한 환경영향 시나리오 분석 자료</td>
+                            <td>국가, 지자체 발주 사업의 타당성 검토 및 주민 협의용 자료</td>
+                        </tr>
+                    </tbody>
+                </table>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="doz_row" doz_grid="12" doz_type="row">
+      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+       <div doz_type="widget" id="w2022121225c63db076d0e">
+        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+         <div class="widget padding" data-height="30" style="margin-top:px; margin-bottom:px;">
+          <div id="padding_w2022121225c63db076d0e" style="width:100%; min-height:1px; height:100px; ">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+
   </div>
   <footer id="doz_footer_wrap">
    <div id="doz_footer">
@@ -4866,24 +4604,24 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
          <div class="custom-text _footer_text">
           <div class="custom-text-info _text_editor fr-view">
            <p style="margin: 0 25px; padding: 0 0 5px 0; text-align: left; line-height: 2;">
-            주소
+            ADDRESS
             <span style="letter-spacing: 5px;">
             </span>
             경기도 화성시 동탄중심상가1길 36, (반송동, 원영빌딩) 8층 801-J54호
             <br/>
-            전화
+            E-MAIL
             <span style="letter-spacing: 5px;">
             </span>
-            02-2135-5277
+            business@lightandcity.r-e.kr
             <br/>
-            팩스
+            FAX
             <span style="letter-spacing: 5px;">
             </span>
-            02-6455-5271
+            0504-168-6073
            </p>
            <p style="margin: 0 25px; text-align: left;">
-            <span style="color: rgb(255, 255, 255);">
-             Copyright ⓒ 2022 주식회사 빛과 도시 All rights reserved. (Since 2019)
+            <span style="color: rgb(187 145 145);">
+             Copyright ⓒ 2025 주식회사 빛과도시 All rights reserved.
             </span>
            </p>
           </div>
@@ -5657,8 +5395,6 @@ LOCALIZE.타이틀_알림설정 = function(){ return LOCALIZE.convArguments("알
   </script>
   <script src="../static-cdn.crm.imweb.me/sdk/main.min.js">
   </script>
-  <script src="js/site_form84a9.js?1744005846">
-  </script>
   <script>
   </script>
   <script>
@@ -5827,50 +5563,9 @@ $(function(){$("#s20221209c44c8a792eb7c").scrollToFixed({ marginTop: ""});$("#s2
 			var header_center_colgroup_s20221209c44c8a792eb7c = new HEADER_CENTER_COLGROUP();
 			header_center_colgroup_s20221209c44c8a792eb7c.init('s20221209c44c8a792eb7c',{"top_bottom_margin":"0","col_margin":"10","design_setting_margin":"N","border_width":"1","border_style":"solid","border_color":"#ffffff","vertical-align":"middle","scroll_fixed":"Y","overlay_type_data":{"top_bottom_margin":"0","col_margin":"10","design_setting_margin":"Y","border_width":"0","border_style":"solid","border_color":"#ffffff","vertical-align":"middle","scroll_fixed":"N","background_repeat":"","background_position":"","color":"","background_image":""},"left_width":"178","center_width":"","right_width":"177","height":"58","background_repeat":"","background_position":"","color":"","left_right_margin":"15","left_right_margin_mobile":"10","background_image":"","background_color":"#430000","extend":"N","hover_section_bg":"N"})});
 	
-
-						//강제 클릭 이벤트 발생 : 숫자만 적을 수 있게함
-						$("._only_number_y151UL720Q").trigger("click").click(function(){
-							SITE_FORM.onlyNumber();
-						});
-						
-$('._datepicker').datetimepicker({dayViewHeaderFormat: 'YYYY MMMM',locale: 'ko',icons: {time: 'zmdi zmdi-time',date: 'zmdi zmdi-calendar',up: 'zmdi zmdi-chevron-up',down: 'zmdi zmdi-chevron-down',previous: 'zmdi zmdi-chevron-left',next: 'zmdi zmdi-chevron-right',today: 'glyphicon glyphicon-screenshot',clear: 'glyphicon glyphicon-trash'},widgetPositioning: {horizontal: 'auto',vertical: 'bottom'},format : 'l'});
-SITE_FORM.itemFileUpload($('#file_V4108NT153_w202303163a9079477a520'),'V4108NT153');
-SITE_FORM.itemFileUpload($('#file_4Js81d24P2_w202303163a9079477a520'),'4Js81d24P2');
-
-		$(function(){
-			var input_width = $('#addFormw202303163a9079477a520').find('._form_input_btn').innerWidth() + 10;
-			$('#addFormw202303163a9079477a520').find('._form_one_btn').css('padding-right', input_width + 'px');
-			$(':input:not(:hidden)').attr('autocomplete','off');
-
-		});
-
-
-		function checkPermit(msg){
-			if(confirm(msg)){
-				SITE_MEMBER.openLogin('LzM4', 'null', null, 'N');			}
-		}
-
-		//크롬 주소자동완성 파싱안되도록 설정
-		$('input[type="text"]').focus(function(){
-			$(this).removeAttr("autocomplete").attr("autocomplete", "new-password");
-		});
-
-		$('input[type="tel"]').focus(function(){
-			$(this).removeAttr("autocomplete").attr("autocomplete", "new-password");
-		});
-
-
-		$('._input_form_submit').keydown(function() {
-			if (event.keyCode === 13) {
-				event.preventDefault();
-			};
-		});
-
-
-		TOKEN.makeToken(86400,'form',function(token,token_key){
-		    $("#addFormw202303163a9079477a520 #input_form_token_obj").find('._tk_obj').val(token);
-            $("#addFormw202303163a9079477a520 #input_form_token_obj").find('._tk_key_obj').val(token_key);
-        });
+$("#text_w20230323473d773a78418").find("._table_responsive").addClass("table").wrap($("<div />").addClass("table-responsive"));
+$("#text_w202303231b1ba99636ceb").find("._table_responsive").addClass("table").wrap($("<div />").addClass("table-responsive"));
+$("#text_w202303238e62e70385ade").find("._table_responsive").addClass("table").wrap($("<div />").addClass("table-responsive"));
   </script>
   <script>
    ALARM_BADGE.addBadgeArea($('#slide-alarm'),'<i aria-hidden="true" class="im-icon im-ico-bell"></i><sup class="badge style-danger _badge_cnt">{count}</sup>');
@@ -5884,13 +5579,13 @@ SITE_FORM.itemFileUpload($('#file_4Js81d24P2_w202303163a9079477a520'),'4Js81d24P
 		//방문한 메뉴 코드가 없다면 빈 배열로 초기화
 		var visited_menu_code_list = JSON.parse(visited_menu_codes) || [];
 		//현재 메뉴 코드를 처음 방문이미 로컬스토리지에 저장
-		if ( visited_menu_code_list.indexOf('m202303160c80d2783d540') === -1 ) {
-			visited_menu_code_list.push('m202303160c80d2783d540');
+		if ( visited_menu_code_list.indexOf('m20230323185825dbb4178') === -1 ) {
+			visited_menu_code_list.push('m20230323185825dbb4178');
 			localStorage.setItem('visited_menu_codes', JSON.stringify(visited_menu_code_list));
 			//최초 접속 flag 변경
 			first_visit_menu = true;
 		}
-		SITE_VISIT_LOG.addVisitLog(document.referrer,'Y9JhUoHYVmnxwRhxHXSlYLemmyw8uv/SCNB6cak+4SxtwLqtr9lQXMRByuOgt0PwMJ8VS+YE3uFRRBTccxvIIyO56EuCaFHvii4qEVCNDB86gHl1CSr3IQLyLaTWc4DZ', '5142','m202303160c80d2783d540', first_visit_menu);
+		SITE_VISIT_LOG.addVisitLog(document.referrer,'Y9JhUoHYVmnxwRhxHXSlYLemmyw8uv/SCNB6cak+4SxKW1qRa5YDhK36/z1yorKwxuDfxs2d0Ycx+xQU4Y2hTbsED8KKN2V+3Mvzesza48Z3g1cnPkNJAe6/vtWq8WDv', '5914','m20230323185825dbb4178', first_visit_menu);
 	});
   </script>
   <script>

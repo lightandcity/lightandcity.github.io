@@ -6563,7 +6563,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        </a>
        <ul>
         <li class="depth-02" data-code="m20221209690efd15e7457" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="23" href="23.html" onclick="" tabindex="-1">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="23" href="51.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
            기술평가
           </span>
@@ -6572,7 +6572,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
          </a>
         </li>
         <li class="depth-02" data-code="m2022120939401292beeda" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="24" href="24.html" onclick="" tabindex="-1">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="24" href="52.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
            기술자문
           </span>
@@ -6949,21 +6949,21 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </a>
                 <ul class="dropdown-menu" role="menu">
                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
-                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="23.html" tabindex="-1">
+                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     기술평가
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
-                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="24.html" tabindex="-1">
+                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     기술자문
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
-                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="25.html" tabindex="-1">
+                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     기술감정
                    </span>
@@ -7177,21 +7177,21 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </a>
                 <ul class="dropdown-menu" role="menu">
                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
-                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="23.html" tabindex="-1">
+                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     기술평가
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
-                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="24.html" tabindex="-1">
+                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     기술자문
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
-                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="25.html" tabindex="-1">
+                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     기술감정
                    </span>
@@ -7585,7 +7585,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                ‘건설기계관리법‘ 제3조에 따라 등록된 다음 각 목의 어느 하나에 해당하는 건설기계가 사용되는 건설 공사
                <ul>
                 <li style="margin: 10px 20px 10px 0;">
@@ -7599,7 +7599,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                가설구조물을 사용하는 건설공사
                <ul>
                 <li style="margin: 10px 20px 10px 0;">
@@ -7614,7 +7614,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 <li style="margin: 10px 20px 10px 0;">
                  터널의 (支保工) 또는 높이가 2미터 이상인 흙막이 지보공
                 </li>
-                <li style="margin-bottom: 20px;">
+                <li style="margin-bottom: 30px;">
                  동력을 이용하여 움직이는 가설구조물
                 </li>
                 <li style="margin: 10px 20px 10px 0;">
@@ -7625,7 +7625,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                건설공사로서 다음 각 목의 어느 하나에 해당하는 공사
                <ul>
                 <li style="margin: 10px 20px 10px 0;">
@@ -7639,7 +7639,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
              <h3 style="margin: 0; padding: 20px 20px 30px 20px; font-weight: 600; font-size: 15px; color:#000000;">
               정기안전점검 실시시기
              </h3>
-             <table style="margin-bottom: 20px; width:100%; display:block; padding: 0 20px; border-top: none;">
+             <table style="margin-bottom: 30px; width:100%; display:block; padding: 0 20px; border-top: none;">
               <tbody>
                <tr style="border-top: 1px solid #ececec;">
                 <td colspan="2" rowspan="2" style="width: 20%; padding: 10px 20px;">
@@ -8156,7 +8156,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
              <p style="color:#000000; display:inline-box; padding: 0 20px 25px 20px;">
               시설물의 안전 및 유지관리에 관한 특별법 시행령 」 별표 3
              </p>
-             <table style="margin-bottom: 20px; width:100%; display:block; padding: 0 20px; border-top: none;">
+             <table style="margin-bottom: 30px; width:100%; display:block; padding: 0 20px; border-top: none;">
               <tbody>
                <tr style="border-top: 1px solid #ececec;">
                 <td style="width: 25%; padding: 10px 20px;">
@@ -8408,7 +8408,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               건축물 관리계획 수립
              </h3>
              <ol>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                건축물 관리계획 수립대상
                <ul>
                 <li style="margin: 10px 20px 10px -40px;">
@@ -8486,7 +8486,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               </tbody>
              </table>
              <ol start="2">
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                건축물 관리계획 내용
                <ul>
                 <li style="margin: 10px 20px 10px -40px;">
@@ -8518,7 +8518,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                건축물관리계획 검토 주기
                <ul>
                 <li style="margin: 10px 20px 10px -40px;">
@@ -8533,14 +8533,14 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               건축물 관리점검
              </h3>
              <ol style="margin-bottom: 40px;">
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                건축물 관리점검의 종류
                <p style="margin: 10px 20px 10px 0;">
                 대지, 높이 및 형태, 구조안전, 화재안전, 건축설비, 에너지 및 친환경관리, 범죄예방, 건축물관리계획의 수립 및 이행 여부 등을 점검합니다.
                </p>
               </li>
              </ol>
-             <table style="margin-bottom: 20px; width:100%; display:block; padding: 0 20px; border-top: none;">
+             <table style="margin-bottom: 30px; width:100%; display:block; padding: 0 20px; border-top: none;">
               <tbody>
                <tr style="border-top: 1px solid #ececec;">
                 <td style="width: 30%; padding: 10px 20px;">
@@ -8585,7 +8585,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               </tbody>
              </table>
              <ol start="2">
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                정기점검 대상
                <ul>
                 <li style="margin: 10px 20px 10px -40px;">
@@ -8602,7 +8602,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                정기점검 실시 주기
                <ul>
                 <li style="margin: 10px 20px 10px -40px;">
@@ -8613,7 +8613,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                건축물 관리점검기관의 자격
                <p style="margin: 10px 20px 10px 0;">
                 건축물 관리점검은 전문성을 갖춘 기관, 관련 전문 교육을 이수한 점검자가 수행할 수 있습니다.

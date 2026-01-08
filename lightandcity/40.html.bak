@@ -3503,7 +3503,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        </a>
        <ul>
         <li class="depth-02" data-code="m20221209690efd15e7457" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="23" href="23.html" onclick="" tabindex="-1">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="23" href="51.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
            일조·채광·조망 분석
           </span>
@@ -3512,7 +3512,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
          </a>
         </li>
         <li class="depth-02" data-code="m2022120939401292beeda" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="24" href="24.html" onclick="" tabindex="-1">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="24" href="52.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
            인허가·심의 대응 환경검토
           </span>
@@ -3765,21 +3765,21 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </a>
                 <ul class="dropdown-menu" role="menu">
                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
-                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="-.html" tabindex="-1">
+                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     일조·채광·조망 분석
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
-                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="-.html" tabindex="-1">
+                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     인허가·심의 대응 환경검토
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
-                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="-.html" tabindex="-1">
+                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     법원감정·분쟁 기술자문
                    </span>
@@ -3865,21 +3865,21 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  </a>
                  <ul class="dropdown-menu" role="menu">
                   <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
-                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="-.html" tabindex="-1">
+                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
                     <span class="plain_name" data-hover="">
                      일조·채광·조망 분석
                     </span>
                    </a>
                   </li>
                   <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
-                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="-.html" tabindex="-1">
+                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
                     <span class="plain_name" data-hover="">
                      인허가·심의 대응 환경검토
                     </span>
                    </a>
                   </li>
                   <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
-                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="-.html" tabindex="-1">
+                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
                     <span class="plain_name" data-hover="">
                      법원감정·분쟁 기술자문
                     </span>
@@ -4006,21 +4006,21 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </a>
                 <ul class="dropdown-menu" role="menu">
                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
-                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="-.html" tabindex="-1">
+                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     일조·채광·조망 분석
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
-                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="-.html" tabindex="-1">
+                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     인허가·심의 대응 환경검토
                    </span>
                   </a>
                  </li>
                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
-                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="-.html" tabindex="-1">
+                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
                     법원감정·분쟁 기술자문
                    </span>
@@ -4106,21 +4106,21 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  </a>
                  <ul class="dropdown-menu" role="menu">
                   <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
-                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="-.html" tabindex="-1">
+                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
                     <span class="plain_name" data-hover="">
                      일조·채광·조망 분석
                     </span>
                    </a>
                   </li>
                   <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
-                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="-.html" tabindex="-1">
+                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
                     <span class="plain_name" data-hover="">
                      인허가·심의 대응 환경검토
                     </span>
                    </a>
                   </li>
                   <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
-                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="-.html" tabindex="-1">
+                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
                     <span class="plain_name" data-hover="">
                      법원감정·분쟁 기술자문
                     </span>
@@ -4339,7 +4339,9 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     </div>
    </main>
   </div>
+  
   <div class="section_wrap pc_section side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s202303236069d3e060eb7" style="; ; background-color:#ffffff;;">
+
    <div class="section_bg _section_bg _interactive_bg" style="   background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
    </div>
    <div class="section_bg_color _section_bg_color" style="background-color:#ffffff;  position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
@@ -4389,28 +4391,28 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               [1] 사전 협의
              </h3>
              <ol style="margin-bottom: 40px;">
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                상담 및 사업 범위 협의
-               <ul>
+                <ul class="normal-list">
                 <li style="margin: 10px 20px 10px -30px;">
-                 온라인 신청서 작성 (홈페이지 '상담문의' 게시판 이용)
+                 온라인 신청서 작성 (홈페이지 우측 상단 '상담문의' 이용)
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
-                 분석 대상지(위치, 건축물) 및 목적 확인
+                 대상(위치, 건축물) 및 목적 확인
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
-                 분석 항목(일조, 채광, 조망 등) 협의
+                 항목(일조, 채광, 조망 등) 협의
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
                  견적서 발급
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                기술용역 계약 체결
-               <ul>
+               <ul class="normal-list">
                 <li style="margin: 10px 20px 10px -30px;">
-                 계약서(사업명, 기간, 범위, 비용 등) 작성
+                 계약서(기간, 범위, 비용 등) 작성
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
                  계약 당사자(의뢰자/수행자) 서명
@@ -4420,14 +4422,11 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                분석 수행을 위한 자료 제공
-               <ul>
+               <ul class="normal-list">
                 <li style="margin: 10px 20px 10px -30px;">
-                 대상지 현황 및 계획 도면
-                </li>
-                <li style="margin: 10px 20px 10px -30px;">
-                 대상물 현황 및 계획 도면
+                 대상지/대상물 현황 및 계획 도면
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
                  관련 추가 정보 및 자료
@@ -4441,28 +4440,28 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               [2] 분석 수행
              </h3>
              <ol style="margin-bottom: 40px;">
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                공간환경 분석 수행
-               <ul>
+               <ul class="normal-list">
                 <li style="margin: 10px 20px 10px -30px;">
                  대상지 현황 조사 및 데이터 구축
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
-                 일조/일영, 채광, 조망 시뮬레이션 분석
+                 일조, 채광, 조망 분석
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
                  주변 환경 변화 비교 평가
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                보고서 작성
-               <ul>
+               <ul class="normal-list">
                 <li style="margin: 10px 20px 10px -30px;">
                  분석 결과 정리 및 기술적 해석
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
-                 시뮬레이션 이미지 및 데이터 파일 생성
+                 분석 이미지 및 데이터 파일 생성
                 </li>
                </ul>
               </li>
@@ -4473,28 +4472,28 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               [3] 결과 제출
              </h3>
              <ol style="margin-bottom: 40px;">
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                결과물 제출 및 최종 대금 정산
-               <ul>
+               <ul class="normal-list">
                 <li style="margin: 10px 20px 10px -30px;">
                  공간환경 분석 결과 상호 확인
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
-                 계약금액(부가세 포함) 중 잔금의 최종 지급
+                 계약 잔금 최종 지급
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
                  분석 결과 최종 보고서 송부
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 20px;">
+              <li style="margin-bottom: 30px;">
                사후 관리 및 계약 종료
-               <ul>
+               <ul class="normal-list">
                 <li style="margin: 10px 20px 10px -30px;">
                  의뢰자 검토 및 필요 시 추가 협의
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
-                 업무상 취득한 모든 정보에 대한 기밀 유지
+                 취득한 모든 정보에 대한 기밀 유지
                 </li>
                 <li style="margin: 10px 20px 10px -30px;">
                  계약 종료
