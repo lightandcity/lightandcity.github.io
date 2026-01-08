@@ -16,7 +16,7 @@
       <meta content="주식회사 빛과 도시" id="meta_og_title" property="og:title"/>
       <meta content="주식회사 빛과 도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." name="description"/>
       <meta content="주식회사 빛과 도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." property="og:description"/>
-      <meta content="정평, 기술평가, 기술자문, 기술컨설팅, 건설감정, 법원감정, 건축감정 하자감정 공사비감정 토목감정 특수감정인 안전진단, 안전점검, 건축물관리점검, 준공도서검토, 소음진동, 해체계획서,기술법인,정평" name="keywords"/>
+      <meta content="빛과도시, 기술평가, 기술자문, 기술컨설팅, 건설감정, 법원감정, 건축감정 하자감정 공사비감정 토목감정 특수감정인 안전진단, 안전점검, 건축물관리점검, 준공도서검토, 소음진동, 해체계획서,기술법인,빛과도시" name="keywords"/>
       <link href="40.html" rel="canonical"/>
       <meta content="website" property="og:type"/>
       <meta content="width=device-width,viewport-fit=cover,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
@@ -148,7 +148,7 @@
 		#w20221209f6e56a9081615 {
 		;
 			background: ;
-			font-family: montserrat,S-CoreDream-4Regular, sans-serif;
+			font-family: montserrat,sans-serif, sans-serif;
 			height:70px;
 			min-height: auto;
 			display: table-cell;
@@ -583,7 +583,7 @@
 		#w20221209f0e5de754997c {
 		;
 			background: ;
-			font-family: montserrat,S-CoreDream-4Regular, sans-serif;
+			font-family: montserrat,sans-serif, sans-serif;
 			height:70px;
 			min-height: auto;
 			display: table-cell;
@@ -2845,56 +2845,56 @@
       </script>
       <style>
        @font-face {
-  font-family: 'S-CoreDream';
-  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/S-CoreDream-1Thin.woff') format('woff');
+  font-family: 'sans-serif';
+  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/sans-serif-1Thin.woff') format('woff');
   font-weight: 100;
   font-style: normal;
 }
 @font-face {
-  font-family: 'S-CoreDream';
-  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/S-CoreDream-2ExtraLight.woff') format('woff');
+  font-family: 'sans-serif';
+  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/sans-serif-2ExtraLight.woff') format('woff');
   font-weight: 200;
   font-style: normal;
 }
 @font-face {
-  font-family: 'S-CoreDream';
-  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/S-CoreDream-3Light.woff') format('woff');
+  font-family: 'sans-serif';
+  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/sans-serif-3Light.woff') format('woff');
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
-  font-family: 'S-CoreDream';
-  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/S-CoreDream-4Regular.woff') format('woff');
+  font-family: 'sans-serif';
+  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/sans-serif.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: 'S-CoreDream';
-  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/S-CoreDream-5Medium.woff') format('woff');
+  font-family: 'sans-serif';
+  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/sans-serif-5Medium.woff') format('woff');
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
-  font-family: 'S-CoreDream';
-  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/S-CoreDream-6Bold.woff') format('woff');
+  font-family: 'sans-serif';
+  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/sans-serif-6Bold.woff') format('woff');
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
-  font-family: 'S-CoreDream';
-  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/S-CoreDream-7ExtraBold.woff') format('woff');
+  font-family: 'sans-serif';
+  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/sans-serif-7ExtraBold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
-  font-family: 'S-CoreDream';
-  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/S-CoreDream-8Heavy.woff') format('woff');
+  font-family: 'sans-serif';
+  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/sans-serif-8Heavy.woff') format('woff');
   font-weight: 800;
   font-style: normal;
 }
 @font-face {
-  font-family: 'S-CoreDream';
-  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/S-CoreDream-9Black.woff') format('woff');
+  font-family: 'sans-serif';
+  src: url('../cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six%401.2/sans-serif-9Black.woff') format('woff');
   font-weight: 900;
   font-style: normal;
 }
@@ -5070,7 +5070,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
           <div class="text-table">
            <div>
             <div style="margin: 0 30px;">
-             <p style="font-family: 'S-CoreDream'; font-weight: 500; font-size: 12px; color: #ffffff; margin-bottom: -15px;">
+             <p style="font-family: 'sans-serif'; font-weight: 500; font-size: 12px; color: #ffffff; margin-bottom: -15px;">
               사업소개
              </p>
              <h1 style="color:#fff; font-weight: 600; font-size: 22px;">
@@ -5144,12 +5144,12 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
          <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w202303238e62e70385ade">
           <div class="text-table">
            <div>
-            <div style="margin: 10px 25px 40px 25px; border: 1px solid #ffffff; border-radius: 5px;">
-             <h3 style="margin: 0; padding: 20px 20px 10px 20px; font-weight: 600; font-size: 15px; color:#000000;">
+            <div style="margin: 10px 25px 15px 25px; border: 1px solid #ffffff; border-radius: 5px;">
+             <h3 style="margin: 0; padding: 20px 20px 30px 20px; font-weight: 600; font-size: 15px; color:#000000;">
               준비단계
              </h3>
              <ol style="margin-bottom: 40px;">
-              <li style="margin-bottom: 10px;">
+              <li style="margin-bottom: 20px;">
                상담
                <ul>
                 <li style="margin: 10px 20px 10px -30px;">
@@ -5157,7 +5157,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 10px;">
+              <li style="margin-bottom: 20px;">
                자문(검토)의뢰
                <ul>
                 <li style="margin: 10px 20px 10px -30px;">
@@ -5168,7 +5168,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 10px;">
+              <li style="margin-bottom: 20px;">
                관련자료 제공
                <ul>
                 <li style="margin: 10px 20px 10px -30px;">
@@ -5176,7 +5176,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 10px;">
+              <li style="margin-bottom: 20px;">
                제안
                <ul>
                 <li style="margin: 10px 20px 10px -30px;">
@@ -5192,12 +5192,12 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               </li>
              </ol>
             </div>
-            <div style="margin: 10px 25px 40px 25px; border: 1px solid #ffffff; border-radius: 5px;">
-             <h3 style="margin: 0; padding: 20px 20px 10px 20px; font-weight: 600; font-size: 15px; color:#000000;">
+            <div style="margin: 10px 25px 15px 25px; border: 1px solid #ffffff; border-radius: 5px;">
+             <h3 style="margin: 0; padding: 20px 20px 30px 20px; font-weight: 600; font-size: 15px; color:#000000;">
               수행단계
              </h3>
              <ol style="margin-bottom: 40px;">
-              <li style="margin-bottom: 10px;">
+              <li style="margin-bottom: 20px;">
                착수
                <ul>
                 <li style="margin: 10px 20px 10px -30px;">
@@ -5205,7 +5205,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 10px;">
+              <li style="margin-bottom: 20px;">
                수행
                <ul>
                 <li style="margin: 10px 20px 10px -30px;">
@@ -5224,12 +5224,12 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               </li>
              </ol>
             </div>
-            <div style="margin: 10px 25px 40px 25px; border: 1px solid #ffffff; border-radius: 5px;">
-             <h3 style="margin: 0; padding: 20px 20px 10px 20px; font-weight: 600; font-size: 15px; color:#000000;">
+            <div style="margin: 10px 25px 15px 25px; border: 1px solid #ffffff; border-radius: 5px;">
+             <h3 style="margin: 0; padding: 20px 20px 30px 20px; font-weight: 600; font-size: 15px; color:#000000;">
               종료단계
              </h3>
              <ol style="margin-bottom: 40px;">
-              <li style="margin-bottom: 10px;">
+              <li style="margin-bottom: 20px;">
                검토결과 제출
                <ul>
                 <li style="margin: 10px 20px 10px -30px;">
@@ -5237,7 +5237,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 </li>
                </ul>
               </li>
-              <li style="margin-bottom: 10px;">
+              <li style="margin-bottom: 20px;">
                계약종료
               </li>
              </ol>

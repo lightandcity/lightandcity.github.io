@@ -2156,7 +2156,7 @@ select.form-control option {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: tahoma,"Helvetica Neue","Apple SD Gothic Neo",'-apple-system,맑은 고딕','Malgun Gothic',sans-serif !important;
+  font-family: tahoma,"Helvetica Neue","sans-serif",'-apple-system,맑은 고딕','Malgun Gothic',sans-serif !important;
 }
 .social-pay #naverPayWrap .npay_storebtn_bx .npay_btn_talk{
   width: 48px !important;
@@ -3418,7 +3418,7 @@ div[data-widget-type="shop_payment"] .btn.btn_start_payment {
 	margin-top: 20px;
 }
 .mypage .shop-table > tbody > tr > td .order_item:not(:last-child) {
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 .mypage .shop-table.regularly-table > tbody > tr > td.prod .d-flex {
   display: flex;
@@ -4998,7 +4998,7 @@ div[data-widget-type="shop_payment"] .btn.btn_start_payment {
 }
 .coupon-days {
 	color: #20252b;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 .coupon-days > div {
 	margin: 10px 0;
@@ -6709,7 +6709,7 @@ div.widget_text_wrap.inline_widget > div.e_toolbar {
 	color: #fff;
 	font-size: 11px;
 	margin-right: 5px;
-	font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'sans-serif', 'serif', 'Arial';
+	font-family: 'sans-serif', 'Malgun Gothic', 'sans-serif', 'serif', 'Arial';
 	line-height: 17px;
 }
 .booking .booking_list .booking_badge_wrap {
@@ -7351,7 +7351,7 @@ div.widget_text_wrap.inline_widget > div.e_toolbar {
 .site-form-group {
 	margin-right: -15px;
 	margin-left: -15px;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 	position: relative;
 }
 .site-form-group:before {
@@ -7655,7 +7655,7 @@ div.widget_text_wrap.inline_widget > div.e_toolbar {
 	margin-bottom: 0;
 }
 .order-name {
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 .order-name > small {
 	font-size: 13px;
@@ -7894,7 +7894,7 @@ div.widget_text_wrap.inline_widget > div.e_toolbar {
 	position: static;
 }
 .board_title_wrap {
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 .board_title_wrap .down-btn{
 	float: none;
@@ -8073,7 +8073,7 @@ _:-ms-input-placeholder, :root .visual_section .snowfall_container {
 }
 .exchange_warp h6 {
 	margin-top: 0;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 .exchange_pay_table {
 	margin-bottom: 30px;
@@ -8345,7 +8345,7 @@ ul.site_prod_nav li a .badge,
 }
 .unused_tab_hr {
 	width: 100%;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 	border-bottom: 1px solid rgba(33, 33, 33, 0.1);
 }
 .detail_detail_wrap {
@@ -8942,7 +8942,7 @@ ul.site_prod_nav li a .badge,
 	color: #999;
 }
 #myModalReview .item-head {
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 #myModalReview .item-foot {
 	margin-top: 20px;
@@ -11636,7 +11636,7 @@ a[data-toggle="popover"]:focus {
 	}
 	.goods_form .categorize-mobile .btn-group {
 		height : 45px;
-		margin-bottom: 20px;
+		margin-bottom: 30px;
 	}
 	.goods_form .categorize-mobile .scroll-to-fixed-fixed.btn-group,
 	.scroll-to-fixed-fixed.booking_btn_group {
@@ -12504,7 +12504,7 @@ a[data-toggle="popover"]:focus {
 		line-height : 2.6 !important;
 	}
 	.product_body,.product_body .comment_section {
-		margin-bottom: 20px;
+		margin-bottom: 30px;
 	}
 	.product_body .commet_list > .comment {
 		padding-top: 0;
@@ -14747,7 +14747,7 @@ a[data-toggle="popover"]:focus {
   list-style: none;
 }
 .limit_join_text {
-  font-family: Apple SD Gothic Neo;
+  font-family: sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;

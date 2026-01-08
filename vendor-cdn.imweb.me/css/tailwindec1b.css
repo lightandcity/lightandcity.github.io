@@ -718,7 +718,7 @@
 }
 .tw-my-\[20px\] {
   margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 .tw-my-\[24px\] {
   margin-top: 24px;
@@ -822,7 +822,7 @@
   margin-bottom: 16px;
 }
 .tw-mb-\[20px\] {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 .tw-mb-\[24px\] {
   margin-bottom: 24px;
@@ -4107,10 +4107,10 @@
   font-family: 'NanumSquareOTF';
 }
 .tw-font-apple-sd-gothic {
-  font-family: Apple SD Gothic Neo, Malgun Gothic, Sans-Serif;
+  font-family: sans-serif, Malgun Gothic, Sans-Serif;
 }
 .tw-font-bo-default {
-  font-family: Helvetica Neue, Helvetica, Apple SD Gothic Neo, Arial, Malgun Gothic, Noto Sans, sans-serif;
+  font-family: Helvetica Neue, Helvetica, sans-serif, Arial, Malgun Gothic, Noto Sans, sans-serif;
 }
 .tw-font-campton {
   font-family: campton;
@@ -4125,7 +4125,7 @@
   font-family: Montserrat, Noto Sans TC, Sans-Serif;
 }
 .tw-font-io-tw-mobile-default {
-  font-family: Montserrat, Raleway, Apple SD Gothic Neo, Malgun Gothic, Noto Sans, sans-serif;
+  font-family: Montserrat, Raleway, sans-serif, Malgun Gothic, Noto Sans, sans-serif;
 }
 .tw-font-montserrat {
   font-family: Montserrat, Noto Sans KR, Sans-Serif;
@@ -4134,7 +4134,7 @@
   font-family: Nexon Gothic, Malgun Gothic, Sans-Serif;
 }
 .tw-font-pretendard {
-  font-family: -apple-system, BlinkMacSystemFont, Apple SD Gothic Neo, Pretendard Variable, Pretendard, Roboto, Noto Sans KR, Segoe UI, Malgun Gothic, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif, Pretendard Variable, Pretendard, Roboto, Noto Sans KR, Segoe UI, Malgun Gothic, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif;
 }
 .\!tw-text-\[12px\] {
   font-size: 12px !important;
@@ -6142,7 +6142,7 @@
     margin-bottom: 16px;
   }
   .max-\[991px\]\:tw-mb-\[20px\] {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   .max-\[991px\]\:tw-mt-\[16px\] {
     margin-top: 16px;
@@ -6199,7 +6199,7 @@
     margin-bottom: 12px;
   }
   .max-md\:tw-mb-\[20px\] {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   .max-md\:tw-mb-\[4px\] {
     margin-bottom: 4px;
@@ -6609,7 +6609,7 @@
     margin-bottom: 12px;
   }
   .md\:tw-mb-\[20px\] {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   .md\:tw-mb-\[32px\] {
     margin-bottom: 32px;
@@ -6880,7 +6880,7 @@
 
 @media (min-width: 991px) {
   .min-\[991px\]\:tw-mb-\[20px\] {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   .min-\[991px\]\:tw-min-w-\[330px\] {
     min-width: 330px;

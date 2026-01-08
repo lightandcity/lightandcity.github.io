@@ -7,7 +7,7 @@
 	--unit-style-option_badge_color: none;
 	--unit-style-font_family: notosanskr ;
 	--unit-style-font_family_en: Helvetica;
-	--unit-style-h_font_family: scoredream;
+	--unit-style-h_font_family: sans-serif;
 	--unit-style-h_font_family_en: none;
 	--unit-style-body_color: #000000;
 	--unit-style-body_size: 16;
@@ -425,7 +425,7 @@
 	--unit-style-shop_view_price: Y;
 }
     :root {
-		--unit-style--font-family: 'helvetica','Noto Sans Korean','Apple SD Gothic Neo', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
+		--unit-style--font-family: 'sans-serif', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
 	}
 
 	*::-moz-selection {
@@ -437,8 +437,7 @@
 		color: #fff;
 	}
 	.doz_sys {
-		font-family             : 'helvetica','Noto Sans Korean','Apple SD Gothic Neo', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
-	;
+		font-family             : '';
 		color                   : #000000;
 		font-size               : 16px;
 		line-height             : 1.6;
@@ -449,7 +448,7 @@
 		-moz-osx-font-smoothing : grayscale;
 	}
 	.section-setting .preview-mode .fr-box.fr-basic .fr-element {
-		font-family : 'helvetica','Noto Sans Korean', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Nanum Gothic', 'Noto Sans', 'sans-serif';
+		font-family :  'sans-serif', 'Malgun Gothic', 'Nanum Gothic', 'Noto Sans', 'sans-serif';
 	}
 	.doz_sys .se-pre-con {
 		background        : #fff;
@@ -522,7 +521,7 @@
 		color: #9FA3AB;
 	}
 	.modal_preview_bg {
-		font-family             : 'helvetica','Noto Sans Korean','Apple SD Gothic Neo', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
+		font-family             : 'sans-serif', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
 	}
 	input[type="password"]:not(:placeholder-shown) {
 		font-family: 'Noto Sans', 'sans-serif' !important;
@@ -534,7 +533,7 @@
 	.section-setting .preview-mode .fr-box.fr-basic .fr-element h4,
 	.section-setting .preview-mode .fr-box.fr-basic .fr-element h5,
 	.section-setting .preview-mode .fr-box.fr-basic .fr-element h6 {
-		font-family             : 'helvetica','S-CoreDream-4Regular','Apple SD Gothic Neo', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
+		font-family             : 'sans-serif', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
 	}
 		.doz_sys h1, .doz_sys h2, .doz_sys h3, .doz_sys h4 {
 		font-weight: normal;
@@ -543,7 +542,7 @@
 		font-weight: normal;
 	}
 	.doz_sys .fc-toolbar h2,.doz_sys .lg-sub-html h4 {
-		font-family             : 'helvetica','Noto Sans Korean','Apple SD Gothic Neo', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
+		font-family             : 'sans-serif', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
 	}
 	.doz_sys a, .doz_sys a:hover {
 	;
@@ -1899,7 +1898,7 @@
 		padding: 20px 15px;
 	}
 	.adult_item_box .box_tit {
-		font-family : 'helvetica','Noto Sans Korean','Apple SD Gothic Neo', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
+		font-family : 'sans-serif', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
 		margin-top: 0;
 	}
 	.admin .img-btn-area .btn {
@@ -3681,7 +3680,7 @@
         }
         .doz_sys .grid_v_gutter_20 main .widget {
             margin-top: 20px;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
         .doz_sys .grid_gutter_20 main > .doz_row {
             margin : 0 -20px;

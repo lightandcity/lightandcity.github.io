@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Apple SD Gothic Neo';
+	src: url('https://vendor-cdn.imweb.me/fonts/subset/scdream/SCDream_subset.eot');
+	src: local(※), url('https://vendor-cdn.imweb.me/fonts/subset/scdream/SCDream_subset.eot?#iefix') format('embedded-opentype'),
+	url('https://vendor-cdn.imweb.me/fonts/subset/scdream/SCDream_subset.woff2') format('woff2'),
+	url('https://vendor-cdn.imweb.me/fonts/subset/scdream/SCDream_subset.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
