@@ -6,53 +6,37 @@ ROOT_DIR = r"C:\Users\user\Desktop\빛과도시\홈페이지\latest\lightandcity
 TARGET_EXTENSIONS = (".html", ".js", ".css")
 
 OLD_BLOCK = """
-            ADDRESS
-            <span style="letter-spacing: 5px;">
-            </span>
-            경기도 화성시 동탄중심상가1길 36, (반송동, 원영빌딩) 8층 801-J54호
-            <br/>
-            MAIL
-            <span style="letter-spacing: 5px;">
-            </span>
-            business@lightandcity.r-e.kr
-            <br/>
-            TEL
-            <span style="letter-spacing: 5px;">
-            </span>
-            070-5236-0730
-            <br/>
-            FAX
-            <span style="letter-spacing: 5px;">
-            </span>
-            0504-168-6073
-           </p>
+        <li class="depth-02" data-code="m20230323d6f698cbf5bb0" style="">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="61" href="61.html" onclick="" tabindex="-1">
+          <span class="plain_name" data-hover="">
+           의뢰사례
+          </span>
+          <span class="_toggle_btn toggle-btn">
+          </span>
+         </a>
+        </li>
+        <li class="depth-02" data-code="m20230323d6f698cbf5bb0" style="">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="61" href="61.html" onclick="" tabindex="-1">
+          <span class="plain_name" data-hover="">
+           의뢰사례
+          </span>
+          <span class="_toggle_btn toggle-btn">
+          </span>
+         </a>
+        </li>
+       </ul>
+      </li>
 """
 NEW_BLOCK = """
-            ADDRESS
-            <span style="letter-spacing: 5px;">
-            </span>
-            경기도 화성시 동탄중심상가1길 36, (반송동, 원영빌딩) 8층 801-J54호
-            <br/>
-            사업자등록번호
-            <span style="letter-spacing: 5px;">
-            </span>
-            645-86-04462 (공학연구개발업, 기타엔지니어링서비스업)
-            <br/>
-            MAIL
-            <span style="letter-spacing: 5px;">
-            </span>
-            business@lightandcity.r-e.kr
-            <br/>
-            TEL
-            <span style="letter-spacing: 5px;">
-            </span>
-            070-5236-0730
-            <br/>
-            FAX
-            <span style="letter-spacing: 5px;">
-            </span>
-            0504-168-6073
-           </p>
+        <li class="depth-02" data-code="m20230323d6f698cbf5bb0" style="">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="61" href="61.html" onclick="" tabindex="-1">
+          <span class="plain_name" data-hover="">
+           의뢰사례
+          </span>
+          <span class="_toggle_btn toggle-btn">
+          </span>
+         </a>
+        </li>
 """
 
 BACKUP = True
