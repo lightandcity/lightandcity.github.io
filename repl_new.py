@@ -5,8 +5,55 @@ import shutil
 ROOT_DIR = r"C:\Users\user\Desktop\빛과도시\홈페이지\latest\lightandcity.github.io"
 TARGET_EXTENSIONS = (".html", ".js", ".css")
 
-OLD_BLOCK = """E-MAIL"""
-NEW_BLOCK = """MAIL"""
+OLD_BLOCK = """
+            ADDRESS
+            <span style="letter-spacing: 5px;">
+            </span>
+            경기도 화성시 동탄중심상가1길 36, (반송동, 원영빌딩) 8층 801-J54호
+            <br/>
+            MAIL
+            <span style="letter-spacing: 5px;">
+            </span>
+            business@lightandcity.r-e.kr
+            <br/>
+            TEL
+            <span style="letter-spacing: 5px;">
+            </span>
+            070-5236-0730
+            <br/>
+            FAX
+            <span style="letter-spacing: 5px;">
+            </span>
+            0504-168-6073
+           </p>
+"""
+NEW_BLOCK = """
+            ADDRESS
+            <span style="letter-spacing: 5px;">
+            </span>
+            경기도 화성시 동탄중심상가1길 36, (반송동, 원영빌딩) 8층 801-J54호
+            <br/>
+            사업자등록번호
+            <span style="letter-spacing: 5px;">
+            </span>
+            645-86-04462 (공학연구개발업, 기타엔지니어링서비스업)
+            <br/>
+            MAIL
+            <span style="letter-spacing: 5px;">
+            </span>
+            business@lightandcity.r-e.kr
+            <br/>
+            TEL
+            <span style="letter-spacing: 5px;">
+            </span>
+            070-5236-0730
+            <br/>
+            FAX
+            <span style="letter-spacing: 5px;">
+            </span>
+            0504-168-6073
+           </p>
+"""
 
 BACKUP = True
 # =================
