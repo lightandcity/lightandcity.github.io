@@ -6,34 +6,9 @@ ROOT_DIR = r"C:\Users\user\Desktop\빛과도시\홈페이지\latest\lightandcity
 TARGET_EXTENSIONS = (".html", ".js", ".css")
 
 OLD_BLOCK = """
-        <li class="depth-02" data-code="m20230323d6f698cbf5bb0" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="41" href="41.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           업무실적
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>"""
+              Copyright ⓒ 2025 주식회사 빛과도시 All rights reserved."""
 NEW_BLOCK = """
-        <li class="depth-02" data-code="m20230323d6f698cbf5bb0" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="41" href="41.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           업무실적
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>        
-        <li class="depth-02" data-code="m20230323d6f698cbf5bb0" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="61" href="61.html" onclick="" tabindex="-1">
-          <span class="plain_name" data-hover="">
-           의뢰사례
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>"""
+              Copyright ⓒ 2026 주식회사 빛과도시 All rights reserved."""
 
 BACKUP = True
 # =================

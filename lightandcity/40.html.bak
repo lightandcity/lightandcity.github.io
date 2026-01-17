@@ -1,48 +1,47 @@
 <!DOCTYPE html>
-<html lang="ko">
- <meta content="text/html;charset=utf-8" http-equiv="content-type"/>
- <head>
-  <meta charset="utf-8"/>
-  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<html lang="ko" class=" js cssanimations"><head><meta content="text/html;charset=utf-8" http-equiv="content-type">
+ 
+  <meta charset="utf-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta content="#430000" name="theme-color">
-   <meta content="#430000" name="msapplication-navbutton-color"/>
-   <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/>
+   <meta content="#430000" name="msapplication-navbutton-color">
+   <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
    <meta content="18.html" property="og:url">
     <title>
      주식회사 빛과도시
     </title>
     <meta content="주식회사 빛과도시" name="application-name">
      <meta content="주식회사 빛과도시" name="msapplication-tooltip">
-      <meta content="주식회사 빛과도시" id="meta_og_title" property="og:title"/>
-      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 종합서비스를 제공합니다." name="description"/>
-      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." property="og:description"/>
-      <meta content="빛과도시, 기술평가, 기술자문, 기술컨설팅, 건설감정, 법원감정, 건축감정 하자감정 공사비감정 토목감정 특수감정인 안전진단, 안전점검, 건축물관리점검, 준공도서검토, 소음진동, 해체계획서,기술법인,빛과도시" name="keywords"/>
-      <link href="18.html" rel="canonical"/>
-      <meta content="website" property="og:type"/>
-      <meta content="width=device-width,viewport-fit=cover,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
-      <meta content="54785077e40988970c94e3b651beb1383359a24f" name="naver-site-verification"/>
-      <link href="../vendor-cdn.imweb.me/minify_css/vendor_blue_10fd67.css?1653367465" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/minify_css/vendor_red_10fd67.css?1653367465" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/im_componenta183.css?1698001225" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/site/alarm_menu1e8d.css?1678083003" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/function9092.css?1666824024" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/site/site708b.css?1754031372" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/site/site2dc10.css?1754286922" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/site/iefix27b18.css?1590627710" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/animate6c3e.css?1577682282" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/chosen4863.css?1617331870" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/chosenImage4e9c.css?1617331762" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/fonts/im-icon/style2cb4.css?1706507651" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/fonts/phosphor/style7e17.css?1744870776" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/ii28bd.css?1738631657" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/fonts/pretendard/web/variable/pretendardvariable3afe.css?1669875619" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/fonts/pretendard/web/static/pretendard3afe.css?1669875619" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/fonts/froala-emoji-tap/style9fbd.css?1669163161" rel="stylesheet" type="text/css"/>
-      <link href="css/custom5ed4.css?1762319263" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/tailwindec1b.css?1764209862" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/emoji9fbd.css?1669163161" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/font-awesome5.min6a29.css?1669163183" rel="stylesheet" type="text/css"/>
-      <link href="_/oms-customer-front-office/style.css" rel="stylesheet" type="text/css"/>
+      <meta content="주식회사 빛과도시" id="meta_og_title" property="og:title">
+      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 종합서비스를 제공합니다." name="description">
+      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." property="og:description">
+      <meta content="빛과도시, 기술평가, 기술자문, 기술컨설팅, 건설감정, 법원감정, 건축감정 하자감정 공사비감정 토목감정 특수감정인 안전진단, 안전점검, 건축물관리점검, 준공도서검토, 소음진동, 해체계획서,기술법인,빛과도시" name="keywords">
+      <link href="18.html" rel="canonical">
+      <meta content="website" property="og:type">
+      <meta content="width=device-width,viewport-fit=cover,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+      <meta content="54785077e40988970c94e3b651beb1383359a24f" name="naver-site-verification">
+      <link href="../vendor-cdn.imweb.me/minify_css/vendor_blue_10fd67.css?1653367465" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/minify_css/vendor_red_10fd67.css?1653367465" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/im_componenta183.css?1698001225" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/site/alarm_menu1e8d.css?1678083003" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/function9092.css?1666824024" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/site/site708b.css?1754031372" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/site/site2dc10.css?1754286922" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/site/iefix27b18.css?1590627710" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/animate6c3e.css?1577682282" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/chosen4863.css?1617331870" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/chosenImage4e9c.css?1617331762" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/fonts/im-icon/style2cb4.css?1706507651" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/fonts/phosphor/style7e17.css?1744870776" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/ii28bd.css?1738631657" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/fonts/pretendard/web/variable/pretendardvariable3afe.css?1669875619" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/fonts/pretendard/web/static/pretendard3afe.css?1669875619" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/fonts/froala-emoji-tap/style9fbd.css?1669163161" rel="stylesheet" type="text/css">
+      <link href="css/custom5ed4.css?1762319263" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/tailwindec1b.css?1764209862" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/emoji9fbd.css?1669163161" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/font-awesome5.min6a29.css?1669163183" rel="stylesheet" type="text/css">
+      <link href="_/oms-customer-front-office/style.css" rel="stylesheet" type="text/css">
       <style>
        @import url("../vendor-cdn.imweb.me/css/score_dream.css"); @import url("../vendor-cdn.imweb.me/css/montserrat.css");
 		.doz_sys #logo_w2022120910446350271af.logo .logo_title a {
@@ -3328,12 +3327,12 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     }
 }
       </script>
-     </meta>
-    </meta>
-   </meta>
-  </meta>
- </head>
- <body class="page_ready doz_sys _body_menu_m202212081efd34ea40b2c page fixed-menu-on new_fixed_menu_on new_header_site" id="doz_body" style=";">
+     
+    
+   
+  
+ <script type="text/javascript" async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js"></script></head>
+ <body class="doz_sys _body_menu_m202212081efd34ea40b2c page fixed-menu-on new_fixed_menu_on new_header_site" id="doz_body" style=";">
   <div class="notification-canvas-container" id="site_alarm_slidemenu_container">
    <div class="notification-canvas-backdrop" id="site_alarm_slidemenu_backdrop" style="display: none">
    </div>
@@ -3394,7 +3393,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                <div class="check">
                 <div class="checkbox checkbox-styled">
                  <label>
-                  <input title="내 글 반응" type="checkbox" value="ok"/>
+                  <input title="내 글 반응" type="checkbox" value="ok">
                   <span>
                   </span>
                  </label>
@@ -3413,7 +3412,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                <div class="check">
                 <div class="checkbox checkbox-styled">
                  <label>
-                  <input title="공지사항" type="checkbox" value="ok"/>
+                  <input title="공지사항" type="checkbox" value="ok">
                   <span>
                   </span>
                  </label>
@@ -3445,7 +3444,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     </a>
     <span class="profile-info">
      <div onclick="SITE_MEMBER.editProfile()">
-      <img alt="프로필 정보수정" class="img-circle dropdown-avatar-big _profile_img" src="common/img/default_profile.png"/>
+      <img alt="프로필 정보수정" class="img-circle dropdown-avatar-big _profile_img" src="common/img/default_profile.png">
      </div>
      <div class="sm-padding no-padding-bottom">
      </div>
@@ -3465,14 +3464,14 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     <ul class="nav navbar-nav navbar-right">
      <div class="viewport-nav mobile _menu_wrap" style="position:relative">
       <li class="depth-01" data-code="m20221201f9696fab3c649" style="">
-       <a class="" data-has_child="Y" data-is_folder_menu="Y" data-url="17" href="javascript:void(0)" onclick="">
+       <a class="has_child" data-has_child="Y" data-is_folder_menu="Y" data-url="17" href="javascript:void(0)" onclick="">
         <span class="plain_name" data-hover="">
          회사소개
         </span>
         <span class="_toggle_btn toggle-btn">
         </span>
        </a>
-       <ul>
+       <ul data-index="0" style="height: 0px;">
         <li class="depth-02" data-code="m20221213a16ffb6038a7b" style="">
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="34" href="34.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
@@ -3494,14 +3493,14 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        </ul>
       </li>
       <li class="depth-01" data-code="m202212081efd34ea40b2c" style="">
-       <a class="" data-has_child="Y" data-is_folder_menu="Y" data-url="18" href="javascript:void(0)" onclick="">
+       <a class="has_child" data-has_child="Y" data-is_folder_menu="Y" data-url="18" href="javascript:void(0)" onclick="">
         <span class="plain_name" data-hover="">
          사업분야
         </span>
         <span class="_toggle_btn toggle-btn">
         </span>
        </a>
-       <ul>
+       <ul data-index="3" style="height: 0px;">
         <li class="depth-02" data-code="m20221209690efd15e7457" style="">
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="23" href="51.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
@@ -3532,14 +3531,14 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        </ul>
       </li>
       <li class="depth-01" data-code="m20221208233f5e8286bd6" style="">
-       <a class="" data-has_child="Y" data-is_folder_menu="Y" data-url="19" href="javascript:void(0)" onclick="">
+       <a class="has_child" data-has_child="Y" data-is_folder_menu="Y" data-url="19" href="javascript:void(0)" onclick="">
         <span class="plain_name" data-hover="">
          업무상세
         </span>
         <span class="_toggle_btn toggle-btn">
         </span>
        </a>
-       <ul>
+       <ul data-index="7" style="height: 0px;">
         <li class="depth-02" data-code="m20230323185825dbb4178" style="">
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="40" href="40.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
@@ -3553,6 +3552,15 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="41" href="41.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
            업무실적
+          </span>
+          <span class="_toggle_btn toggle-btn">
+          </span>
+         </a>
+        </li>        
+        <li class="depth-02" data-code="m20230323d6f698cbf5bb0" style="">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="61" href="61.html" onclick="" tabindex="-1">
+          <span class="plain_name" data-hover="">
+           의뢰사례
           </span>
           <span class="_toggle_btn toggle-btn">
           </span>
@@ -3728,8 +3736,8 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 <span class="sr-only">
                  주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667"/>
-                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667">
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667">
                </a>
               </div>
              </div>
@@ -3742,7 +3750,123 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
            <div class="inline-widget" data-type="widget" id="w20221209f6e56a9081615">
             <div class="_widget_data" data-widget-type="inline_menu">
              <ul class="nav navbar-nav _inline_menu_container" style="visibility: visible;">
-              <div class="viewport-nav desktop _main_menu">
+              <div class="viewport-nav desktop _main_menu"><li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
+                 <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
+                  회사소개
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
+                  <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    소장 인사
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
+                  <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    소개 자료
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
+                 <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
+                  사업분야
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
+                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    일조·채광·조망 분석
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
+                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    인허가·심의 대응 환경검토
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
+                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    법원감정·분쟁 기술자문
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
+                 <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
+                  업무상세
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20230323185825dbb4178" data-code="m20230323185825dbb4178" style="">
+                  <a class="_txt_m20230323185825dbb4178 _fade_link" data-url="40" href="40.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    업무절차
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
+                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="41" href="41.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    업무실적
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
+                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="61" href="61.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    의뢰사례
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
+                 <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
+                  상담문의
+                 </span>
+                </a>
+               </li></div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px; display: none;">
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
+              </div>
+             <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;"><div class="viewport-nav desktop _main_clone_menu main_clone_menu">
                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
@@ -3833,128 +3957,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  </span>
                 </a>
                </li>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px; display: none;">
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop main_clone_menu">
-                <li class="dropdown _more_menu">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
-                  <i aria-hidden="true" class="icon-options vertical-middle">
-                  </i>
-                 </a>
-                 <ul class="dropdown-menu more_list _more_list">
-                 </ul>
-                </li>
-               </div>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop _main_clone_menu main_clone_menu">
-                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
-                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
-                   회사소개
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
-                   <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     소장 인사
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
-                   <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     소개 자료
-                    </span>
-                   </a>
-                  </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
-                  <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
-                   사업분야
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
-                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     일조·채광·조망 분석
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
-                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     인허가·심의 대응 환경검토
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
-                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     법원감정·분쟁 기술자문
-                    </span>
-                   </a>
-                  </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
-                  <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
-                   업무상세
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20230323185825dbb4178" data-code="m20230323185825dbb4178" style="">
-                   <a class="_txt_m20230323185825dbb4178 _fade_link" data-url="40" href="40.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     업무절차
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
-                   <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="41" href="41.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     업무실적
-                    </span>
-                   </a>
-                  </li>
-                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
-                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="61" href="61.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    의뢰사례
-                   </span>
-                  </a>
-                 </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
-                  <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
-                   상담문의
-                  </span>
-                 </a>
-                </li>
-               </div>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop main_clone_menu">
-                <li class="dropdown _more_menu">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
-                  <i aria-hidden="true" class="icon-options vertical-middle">
-                  </i>
-                 </a>
-                 <ul class="dropdown-menu more_list _more_list">
-                 </ul>
-                </li>
-               </div>
-              </div>
-             </ul>
+              </div></div><div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;"><div class="viewport-nav desktop main_clone_menu"><li class="dropdown _more_menu"><a data-toggle="dropdown" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" aria-expanded="false"><i class="icon-options vertical-middle" aria-hidden="true"></i></a><ul class="dropdown-menu more_list _more_list"></ul></li></div></div></ul>
             </div>
            </div>
           </div>
@@ -3983,8 +3986,8 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 <span class="sr-only">
                  주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="204.166666667"/>
-                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="204.166666667"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="204.166666667">
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="204.166666667">
                </a>
               </div>
              </div>
@@ -3997,7 +4000,123 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
            <div class="inline-widget" data-type="widget" id="w20221209f0e5de754997c">
             <div class="_widget_data" data-widget-type="inline_menu">
              <ul class="nav navbar-nav _inline_menu_container" style="visibility: visible;">
-              <div class="viewport-nav desktop _main_menu">
+              <div class="viewport-nav desktop _main_menu"><li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
+                 <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
+                  회사소개
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
+                  <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    소장 인사
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
+                  <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    소개 자료
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
+                 <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
+                  사업분야
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
+                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    일조·채광·조망 분석
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
+                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    인허가·심의 대응 환경검토
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
+                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    법원감정·분쟁 기술자문
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
+                 <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
+                  업무상세
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20230323185825dbb4178" data-code="m20230323185825dbb4178" style="">
+                  <a class="_txt_m20230323185825dbb4178 _fade_link" data-url="40" href="40.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    업무절차
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
+                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="41" href="41.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    업무실적
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
+                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="61" href="61.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    의뢰사례
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
+                 <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
+                  상담문의
+                 </span>
+                </a>
+               </li></div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px; display: none;">
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
+              </div>
+             <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;"><div class="viewport-nav desktop _main_clone_menu main_clone_menu">
                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
@@ -4088,179 +4207,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  </span>
                 </a>
                </li>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px; display: none;">
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop main_clone_menu">
-                <li class="dropdown _more_menu">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
-                  <i aria-hidden="true" class="icon-options vertical-middle">
-                  </i>
-                 </a>
-                 <ul class="dropdown-menu more_list _more_list">
-                 </ul>
-                </li>
-               </div>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop _main_clone_menu main_clone_menu">
-                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
-                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
-                   회사소개
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
-                   <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     소장 인사
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
-                   <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     소개 자료
-                    </span>
-                   </a>
-                  </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
-                  <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
-                   사업분야
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
-                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     일조·채광·조망 분석
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
-                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     인허가·심의 대응 환경검토
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
-                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     법원감정·분쟁 기술자문
-                    </span>
-                   </a>
-                  </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
-                  <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
-                   업무상세
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20230323185825dbb4178" data-code="m20230323185825dbb4178" style="">
-                   <a class="_txt_m20230323185825dbb4178 _fade_link" data-url="40" href="40.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     업무절차
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
-                   <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="41" href="41.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     업무실적
-                    </span>
-                   </a>
-                  </li>
-                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
-                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="61" href="61.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    의뢰사례
-                   </span>
-                  </a>
-                 </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m20221208931c197d1ca23" data-code="m20221208931c197d1ca23" id="dropdown_m20221208931c197d1ca23" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="20" href="-.html">
-                  <span class="_txt_m20221208931c197d1ca23 plain_name" data-hover="">
-                   연구개발
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m202212131bef3b675a3e7" data-code="m202212131bef3b675a3e7" style="">
-                   <a class="_txt_m202212131bef3b675a3e7 _fade_link" data-url="29" href="-.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     건축주택연구
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212135511c166dba27" data-code="m202212135511c166dba27" style="">
-                   <a class="_txt_m202212135511c166dba27 _fade_link" data-url="30" href="-.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     스마트건설
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212135d3b9c03651b7" data-code="m202212135d3b9c03651b7" style="">
-                   <a class="_txt_m202212135d3b9c03651b7" data-url="31" href="javascript:void(0);" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     층간소음
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m2022121376e679bec36a9" data-code="m2022121376e679bec36a9" style="">
-                   <a class="_txt_m2022121376e679bec36a9" data-url="32" href="javascript:void(0);" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     건설안전
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m2022121326b5fdea252a4" data-code="m2022121326b5fdea252a4" style="">
-                   <a class="_txt_m2022121326b5fdea252a4" data-url="33" href="javascript:void(0);" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     분쟁조정연구
-                    </span>
-                   </a>
-                  </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
-                  <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
-                   상담문의
-                  </span>
-                 </a>
-                </li>
-                <li class="dropdown _show_m20230316e19923af12450" data-code="m20230316e19923af12450" id="dropdown_m20230316e19923af12450" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="39" href="-.html">
-                  <span class="_txt_m20230316e19923af12450 plain_name" data-hover="">
-                   인재채용
-                  </span>
-                 </a>
-                </li>
-               </div>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop main_clone_menu">
-                <li class="dropdown _more_menu">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
-                  <i aria-hidden="true" class="icon-options vertical-middle">
-                  </i>
-                 </a>
-                 <ul class="dropdown-menu more_list _more_list">
-                 </ul>
-                </li>
-               </div>
-              </div>
-             </ul>
+              </div></div><div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;"><div class="viewport-nav desktop main_clone_menu"><li class="dropdown _more_menu"><a data-toggle="dropdown" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" aria-expanded="false"><i class="icon-options vertical-middle" aria-hidden="true"></i></a><ul class="dropdown-menu more_list _more_list"></ul></li></div></div></ul>
             </div>
            </div>
           </div>
@@ -4287,8 +4234,8 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 <span class="sr-only">
                  주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white.png" style="max-width: 100%;height: auto; " width="179.166666667"/>
-                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white.png" style="max-width: 100%;height: auto; " width="179.166666667"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white.png" style="max-width: 100%;height: auto; " width="179.166666667">
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white.png" style="max-width: 100%;height: auto; " width="179.166666667">
                </a>
               </div>
              </div>
@@ -4347,9 +4294,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
           <div class="text-table">
            <div>
             <div style="margin: 0 30px;">
-             <p style="font-family: 'sans-serif'; font-weight: 500; font-size: 12px; color: #ffffff; margin-bottom: -15px;">
-              사업소개
-             </p>
+             <p style="font-family: 'sans-serif'; font-weight: 500; font-size: 12px; color: #ffffff; margin-bottom: -15px;">업무상세</p>
              <h1 style="color:#fff; font-weight: 600; font-size: 22px;">
               업무절차
              </h1>
@@ -4575,17 +4520,17 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
             <span style="letter-spacing: 5px;">
             </span>
             경기도 화성시 동탄중심상가1길 36, (반송동, 원영빌딩) 8층 801-J54호
-            <br/>
+            <br>
             E-MAIL
             <span style="letter-spacing: 5px;">
             </span>
             business@lightandcity.r-e.kr
-            <br/>
+            <br>
             TEL
             <span style="letter-spacing: 5px;">
             </span>
             070-5236-0730
-            <br/>
+            <br>
             FAX
             <span style="letter-spacing: 5px;">
             </span>
@@ -5264,7 +5209,15 @@ LOCALIZE.타이틀_알림설정 = function(){ return LOCALIZE.convArguments("알
   <script src="../vendor-cdn.imweb.me/js/classie98f3.js?1577682292">
   </script>
   <script src="../vendor-cdn.imweb.me/js/jquery.exif98f3.js?1577682292">
-  </script>
+  </script><script type="text/vbscript">
+Function IEBinary_getByteAt(strBinary, iOffset)
+	IEBinary_getByteAt = AscB(MidB(strBinary,iOffset+1,1))
+End Function
+Function IEBinary_getLength(strBinary)
+	IEBinary_getLength = LenB(strBinary)
+End Function
+</script>
+
   <script src="../vendor-cdn.imweb.me/js/jquery.canvasResize98f3.js?1577682292">
   </script>
   <script src="../vendor-cdn.imweb.me/js/autosize98f3.js?1577682292">
@@ -5284,7 +5237,7 @@ LOCALIZE.타이틀_알림설정 = function(){ return LOCALIZE.convArguments("알
   <script src="js/sns_share6943.js?1742362225">
   </script>
   <script src="js/android_image_upload9fbd.js?1669163161">
-  </script>
+  </script><ul id="image_list" style="display: none"></ul>
   <script src="js/alarm_menu1712.js?1683615433">
   </script>
   <script src="js/alarm_badge01f7.js?1602469334">
@@ -5704,5 +5657,6 @@ $("#text_w202303238e62e70385ade").find("._table_responsive").addClass("table").w
 		if(LOCAL_STORAGE.getLocalStorage('AUTO_LOGOUT_TIME')) LOCAL_STORAGE.deleteLocalStorage('AUTO_LOGOUT_TIME');
 		if(LOCAL_STORAGE.getLocalStorage('IS_AUTO_LOGOUT')) LOCAL_STORAGE.deleteLocalStorage('IS_AUTO_LOGOUT');
   </script>
- </body>
-</html>
+ 
+
+</body></html>
