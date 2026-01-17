@@ -5,10 +5,8 @@ import shutil
 ROOT_DIR = r"C:\Users\user\Desktop\빛과도시\홈페이지\latest\lightandcity.github.io"
 TARGET_EXTENSIONS = (".html", ".js", ".css")
 
-OLD_BLOCK = """
-              Copyright ⓒ 2025 주식회사 빛과도시 All rights reserved."""
-NEW_BLOCK = """
-              Copyright ⓒ 2026 주식회사 빛과도시 All rights reserved."""
+OLD_BLOCK = """E-MAIL"""
+NEW_BLOCK = """MAIL"""
 
 BACKUP = True
 # =================
