@@ -14,7 +14,7 @@
     <meta content="주식회사 빛과도시" name="application-name">
      <meta content="주식회사 빛과도시" name="msapplication-tooltip">
       <meta content="주식회사 빛과도시" id="meta_og_title" property="og:title"/>
-      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." name="description"/>
+      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 종합서비스를 제공합니다." name="description"/>
       <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." property="og:description"/>
       <meta content="빛과도시, 기술평가, 기술자문, 기술컨설팅, 건설감정, 법원감정, 건축감정 하자감정 공사비감정 토목감정 특수감정인 안전진단, 안전점검, 건축물관리점검, 준공도서검토, 소음진동, 해체계획서,기술법인,빛과도시" name="keywords"/>
       <link href="30.html" rel="canonical"/>
@@ -3510,7 +3510,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
          </a>
         </li>
         <li class="depth-02" data-code="m202212092369e6a80aa00" style="">
-         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="25" href="25.html" onclick="" tabindex="-1">
+         <a class="" data-has_child="N" data-is_folder_menu="N" data-url="25" href="53.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
            기술감정
           </span>
@@ -4380,6 +4380,11 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
             <span style="letter-spacing: 5px;">
             </span>
             business@lightandcity.r-e.kr
+            <br/>
+            TEL
+            <span style="letter-spacing: 5px;">
+            </span>
+            070-5236-0730
             <br/>
             FAX
             <span style="letter-spacing: 5px;">
