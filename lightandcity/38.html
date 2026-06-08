@@ -4362,56 +4362,72 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
  <span style="color: #666; font-size: 11px;">기호로 표시됩니다.</span>
 
 </div>
-     <form action="https://formspree.io/f/mvzgjygo" method="POST" style="margin: 0;">
-      
-      <div style="margin-bottom: 16px;">
-       <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
-        의뢰자 성함 <span style="color: #e53935;">●</span>
-       </label>
-       <input type="text" name="name" required style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none;">
-      </div>
+<form action="https://formspree.io/f/mvzgjygo" method="POST" style="margin: 0;">
+ 
+ <div style="margin-bottom: 16px;">
+  <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
+   의뢰자 성함 <span style="color: #e53935;">●</span>
+  </label>
+  <input type="text" name="name" required placeholder="예) 김빛나" style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none;">
+ </div>
 
-      <div style="margin-bottom: 16px;">
-       <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
-        의뢰자 소속 <span style="color: #e53935;">●</span>
-       </label>
-       <input type="text" name="organization" required style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none;">
-      </div>
+ <div style="margin-bottom: 16px;">
+  <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
+   의뢰자 소속 <span style="color: #e53935;">●</span>
+  </label>
+  <input type="text" name="organization" required placeholder="예) 주식회사 빛과도시" style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none;">
+ </div>
 
-      <div style="margin-bottom: 16px;">
-       <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
-        전화번호 <span style="color: #e53935;">●</span>
-       </label>
-       <input type="tel" name="phone" required style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none;">
-      </div>
+ <div style="margin-bottom: 16px;">
+  <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
+   전화번호 <span style="color: #e53935;">●</span>
+  </label>
+  <input type="tel" name="phone" required placeholder="예) 010-1234-5678" style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none;">
+ </div>
 
-      <div style="margin-bottom: 16px;">
-       <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
-        이메일 <span style="color: #e53935;">●</span>
-       </label>
-       <input type="email" name="email" required style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none;">
-       <span style="font-size: 10px; color: #999;">회신 가능한 이메일을 작성해 주십시오</span>
-      </div>
+ <div style="margin-bottom: 16px;">
+  <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
+   이메일 <span style="color: #e53935;">●</span>
+  </label>
+  <input type="email" name="email" required placeholder="예) example@email.com" style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none;">
+ </div>
 
-      <div style="margin-bottom: 16px;">
-       <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
-        분석 주소
-       </label>
-       <input type="text" name="location" style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none;">
-      </div>
+ <!-- 분석 분야 (드롭박스, 필수) -->
+ <div style="margin-bottom: 16px;">
+  <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
+   분석 분야 <span style="color: #e53935;">●</span>
+  </label>
+  <select name="field" required style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none; cursor: pointer;">
+   <option value="" selected disabled>분석 분야를 선택해 주세요</option>
+   <option value="일조·채광·조망권 침해검토">일조·채광·조망권 침해검토</option>
+   <option value="태양광 발전 사업검토">태양광 발전 사업검토</option>
+   <option value="조경식재·미기후 환경검토">조경식재·미기후 환경검토</option>
+   <option value="이외 분야">이외 분야 (요청 내용에 기재)</option>
+  </select>
+ </div>
 
-      <div style="margin-bottom: 24px;">
-       <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
-        분석 요청 내용
-       </label>
-       <textarea name="message" rows="3" style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none; resize: vertical;"></textarea>
-      </div>
+ <div style="margin-bottom: 16px;">
+  <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
+   분석 대상지 주소
+  </label>
+  <input type="text" name="location" placeholder="예) 서울시 강남구 역삼동 123-4" style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none;">
+ </div>
+
+ <div style="margin-bottom: 24px;">
+  <label style="display: block; color: #430000; font-weight: 500; margin-bottom: 4px; font-size: 12px;">
+   상세 분석 요청 내용
+  </label>
+  <textarea name="message" rows="3" placeholder="예) 신축 건물 일조 영향 확인, 태양광 발전 타당성 검토, 조경식재 음영 분석 등" style="width: 100%; padding: 6px 0; border: none; border-bottom: 1px solid #ddd; font-size: 14px; color: #333; background: #fff; outline: none; resize: vertical;"></textarea>
+ </div>
+
+ <!-- 나머지 폼 내용 (개인정보 동의, 버튼 등) 이어짐 -->
 
 <div style="margin-bottom: 25px;">
  <div style="margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center;">
   <label for="privacyAgreement" style="color: #430000; font-weight: 500; font-size: 12px; cursor: pointer;">
-   개인정보 수집 및 이용 동의 (우측 체크박스를 클릭해주세요) <span style="color: #e53935;">●</span>
+   개인정보 수집 및 이용 동의<span style="color: #e53935;">●</span>
   </label>
+ <span style="color: #666; font-size: 12px; display: inline-block; width: 160px;">아래 내용에 동의합니다</span>
   <input type="checkbox" id="privacyAgreement" name="privacyAgreement" required style="width: 18px; height: 18px; cursor: pointer;">
  </div>
  <div style="background: #f8f8f8; padding: 12px; max-height: 130px; overflow-y: auto; font-size: 10px; color: #555; line-height: 1.5;">
