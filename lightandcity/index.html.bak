@@ -2904,7 +2904,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     "@type": "Organization",
     "name": "주식회사 빛과도시",
     "url": "https://lightandcity.github.io/",
-    "logo": "https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png",
+    "logo": "https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png",
     "address": {
         "@type": "PostalAddress",
         "addressCountry": "KR"
@@ -3311,8 +3311,8 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 <span class="sr-only">
                  주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667"/>
-                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180"/>
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180"/>
                </a>
               </div>
              </div>
@@ -3870,8 +3870,8 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 <span class="sr-only">
                  주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white.png" style="max-width: 100%;height: auto; " width="179.166666667"/>
-                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white.png" style="max-width: 100%;height: auto; " width="179.166666667"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; " width="179.166666667"/>
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; " width="179.166666667"/>
                </a>
               </div>
              </div>
@@ -3926,11 +3926,11 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               </span>
              </h1>
              <h1 style="margin-top: 30px; line-height: 1.8; text-align: center; font-family: 'sans-serif'; font-weight: 300; font-size: 20px;">
-              일조·채광·조망 분석
+              일조·채광·조망권 침해 및 영향 검토
               <br/>
-              인허가·심의 대응 환경검토
+              태양광 발전량·음영·경제성 평가
               <br/>
-              법원감정·분쟁 기술자문
+              조경식재 열환경 및 미기후 분석
              </h1>
             </div>
            </div>
