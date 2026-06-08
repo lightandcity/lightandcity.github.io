@@ -2,34 +2,16 @@ import os
 import shutil
 
 # ===== 설정부 =====
-ROOT_DIR = r"C:\Users\user\Desktop\빛과도시\홈페이지\latest\lightandcity.github.io"
+ROOT_DIR = r"C:\Users\Kwon\Desktop\real_github\lightandcity.github.io"
 TARGET_EXTENSIONS = (".html", ".js", ".css")
 
 OLD_BLOCK = """
-           의뢰사례
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-      <li class="depth-01" data-code="m202303160c80d2783d540" style="">
-       <a class="" data-has_child="N" data-is_folder_menu="N" data-url="38" href="38.html" onclick="">
-        <span class="plain_name" data-hover="">
-         상담문의
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667"/>
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="216.666666667"/>
 """
 NEW_BLOCK = """
-           의뢰사례
-          </span>
-          <span class="_toggle_btn toggle-btn">
-          </span>
-         </a>
-        </li>
-       </ul>
-      </li>
-      <li class="depth-01" data-code="m202303160c80d2783d540" style="">
-       <a class="" data-has_child="N" data-is_folder_menu="N" data-url="38" href="38.html" onclick="">
-        <span class="plain_name" data-hover="">
-         상담문의
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180"/>
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180"/>
 """
 
 BACKUP = True
