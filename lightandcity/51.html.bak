@@ -4287,8 +4287,8 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 <span class="sr-only">
                  주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; " width="179.166666667"/>
-                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; " width="179.166666667"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; " width="150"/>
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; " width="150"/>
                </a>
               </div>
              </div>
@@ -4360,10 +4360,10 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
               사업분야
              </p>
              <h1 style="color:#fff; font-weight: 600; font-size: 22px;">
-              일조·채광·조망 분석
+             일조·채광·조망권 침해/영향 검토
              </h1>
              <p style="color:#fff; display:inline-box; font-size: 14px;">
-              인접 개발로 인한 일조·채광·조망 변화를 분석하여 <br>환경 영향을 검토하기 위한 기초 자료를 제공합니다.
+             인접 개발로 인한 일조·채광·조망 변화를 정량적으로 분석하여 <br>영향 검토, 분쟁 시 기술 지원, 인허가 대응에 도움을 드립니다.
              </p>
             </div>
            </div>
@@ -4434,16 +4434,16 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
           <div class="text-table">
            <div>
             <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    [1] 인접 건축물 소유자 및 관리주체 (공동주택 관리소 등)
+                    [1] 건축주, 토지 개발자, 인접 건축물 소유자 및 관리주체 (공동주택 관리소 등)
             </p>
             <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    [2] 개인 건축주, 소규모 토지 개발자
+                    [2] 건축사 및 기술사 사무소, 건설사 및 부동산 개발사, 재건축·재개발 조합
             </p>
             <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    [3] 대학, 연구소, 환경 검토 수행 기관
+                    [3] 환경 검토 수행 기관 (대학, 연구소 등), 환경분쟁 소송 대리 주체 (법무법인 등)
             </p>
             <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    [4] 기타 환경 영향에 대한 사실 확인이 필요한 모든 분
+                    [4] 기타 빛 환경 영향에 대한 사실 확인이 필요한 모든 분
             </p>
            </div>
           </div>
@@ -4506,24 +4506,26 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
          <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w20221212dfc304e15eeec">
           <div class="text-table">
            <div>
-                <table style="margin-top:10px;
-  margin-left: 25px; border: none;">
-                    <tbody>
-                        <tr>
-                            <td style="width:20%; border: none; padding: 15px 20px; background-color: #f9f9f9;">사실 확인 및 입증</td>
-                            <td style="width:60%; border: none; padding: 15px 20px;">신축·증축 또는 인접 개발로 인해 일조·조망 등 주거 환경이 얼마나 변화하는지 정량적 데이터와 시뮬레이션으로 객관적으로 입증합니다.</td>
-                        </tr>
-                        <tr>
-                            <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">연구 및 정책 지원</td>
-                            <td style="border: none; padding: 15px 20px;">도시 환경 연구, 친환경 건축 기준 개발, 지역 정책 수립 등에 활용할 수 있는 정확한 기초 데이터와 분석 방법론을 제공합니다.</td>
-                        </tr>
-                        <tr>
-                            <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">의사결정 지원</td>
-                            <td style="border: none; padding: 15px 20px;">토지 매입, 건축 계획 수립, 연구 과제 수행 등에 필요한 기초 환경 데이터를 과학적으로 확보하도록 도와드립니다.</td>
-                        </tr>
-                    </tbody>
-                </table>
-
+            <table style="margin-top:10px; margin-left: 25px; border: none;">
+                <tbody>
+                    <tr>
+                        <td style="width:20%; border: none; padding: 15px 20px; background-color: #f9f9f9;">사실 확인 및<br> 관계 입증</td>
+                        <td style="width:80%; border: none; padding: 15px 20px;">신축·증축 또는 인접 개발로 인해 일조·조망 등 주거 환경이 얼마나 변화하는지 정량적 데이터와 시뮬레이션으로 객관적으로 입증합니다.</td>
+                    </tr>
+                    <tr>
+                        <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">인허가 및 <br> 심의 대응</td>
+                        <td style="border: none; padding: 15px 20px;">건축법, 지자체 조례 및 심의 기준에 맞춘 분석 자료를 제작하여 인허가 반려 및 사업 지연 리스크를 최소화합니다.</td>
+                    </tr>
+                    <tr>
+                        <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">설계 최적화 및  <br>리스크 관리</td>
+                        <td style="border: none; padding: 15px 20px;">다양한 설계 대안에 대한 환경 영향을 사전 비교하여 최적의 설계 방향을 설정하고, 발생 가능한 민원을 사전 차단합니다.</td>
+                    </tr>
+                    <tr>
+                        <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">침해 분쟁  <br>기술 지원</td>
+                        <td style="border: none; padding: 15px 20px;">일조·채광·조망권 침해 관련 분쟁 발생 시 기술적 쟁점 분석 및 객관적 근거 자료를 제공하여 합의 또는 법적 대응을 지원합니다.</td>
+                    </tr>
+                </tbody>
+            </table>
            </div>
           </div>
          </div>
@@ -4536,32 +4538,29 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        <div doz_type="widget" id="w2022121225c63db076d0e">
         <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
          <div class="widget padding" data-height="30" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w2022121225c63db076d0e" style="width:100%; min-height:1px; height:30px; ">
+          <div id="padding_w2022121225c63db076d0e" style="width:100%; min-height:1px; height:30px;">
           </div>
          </div>
         </div>
        </div>
       </div>
      </div>
-    </div>   
-
-
-   <main>
+    </div>
+   </main>
   </div>
-  <div class="section_wrap pc_section side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s2023032454b7d6f3d623e" style="; ; background-color:#ffffff;;">
-   <div class="section_bg _section_bg _interactive_bg" style="   background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
+  <div class="section_wrap pc_section side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s2023032454b7d6f3d6240" style="; ; background-color:#ffffff;;">
+   <div class="section_bg _section_bg _interactive_bg" style="background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
    </div>
-   <div class="section_bg_color _section_bg_color" style="background-color:#ffffff;  position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
+   <div class="section_bg_color _section_bg_color" style="background-color:#ffffff; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
    </div>
-   <main>
    <main>
     <div class="inside" doz_type="inside">
      <div class="doz_row" doz_grid="12" doz_type="row">
       <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
-       <div doz_type="widget" id="w202212125683569ccd1a1">
+       <div doz_type="widget" id="w202212125683569ccd1a2">
         <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
-         <div class="widget padding" data-height="60" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w202212125683569ccd1a1" style="width:100%; min-height:1px; height:60px; ">
+         <div class="widget padding" data-height="30" style="margin-top:px; margin-bottom:px;">
+          <div id="padding_w202212125683569ccd1a2" style="width:100%; min-height:1px; height:30px;">
           </div>
          </div>
         </div>
@@ -4570,16 +4569,12 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
      </div>
      <div class="doz_row" doz_grid="12" doz_type="row">
       <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
-       <div doz_type="widget" id="w202212122e56aaa47ac18">
+       <div doz_type="widget" id="w202212122e56aaa47ac19">
         <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
-         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w202212122e56aaa47ac18">
+         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w202212122e56aaa47ac19">
           <div class="text-table">
            <div>
-            <h2 style="font-weight: 600;
-	font-size: 16px;
-	border-top: 1px solid #000000;
-	margin: 10px 25px 10px 25px;
-	padding-top: 20px;">
+            <h2 style="font-weight: 600; font-size: 16px; border-top: 1px solid #000000; margin: 10px 25px 10px 25px; padding-top: 20px;">
              제공 결과물 목록
             </h2>
            </div>
@@ -4589,22 +4584,25 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        </div>
       </div>
       <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
-       <div doz_type="widget" id="w20221212dfc304e15eeec">
+       <div doz_type="widget" id="w20221212dfc304e15eeed">
         <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
-         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w20221212dfc304e15eeec">
+         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w20221212dfc304e15eeed">
           <div class="text-table">
            <div>
             <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
                     [1] 종합 분석 보고서 (현황 vs. 개발 후 비교)
             </p>
             <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    [2] 계절별, 시간대별 일조 영향도 이미지
+                    [2] 계절별·시간대별 일조 영향도 이미지 (동짓날·춘추분·하짓날 기준)
             </p>
             <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
                     [3] 주요 조망 지점의 가시권 분석 도면
             </p>
             <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    [4] 정량 데이터 테이블 (일조시간, 채광량 등)
+                    [4] 정량 데이터 테이블 (일조시간, 채광량, 조망 차폐율 등)
+            </p>
+            <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
+                    [5] 분쟁 대응 기술 자문서 및 전문가 의견서
             </p>
            </div>
           </div>
@@ -4615,10 +4613,10 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
      </div>
      <div class="doz_row" doz_grid="12" doz_type="row">
       <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
-       <div doz_type="widget" id="w2022121225c63db076d0e">
+       <div doz_type="widget" id="w2022121225c63db076d0f">
         <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
-         <div class="widget padding" data-height="30" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w2022121225c63db076d0e" style="width:100%; min-height:1px; height:100px; ">
+         <div class="widget padding" data-height="100" style="margin-top:px; margin-bottom:px;">
+          <div id="padding_w2022121225c63db076d0f" style="width:100%; min-height:1px; height:100px;">
           </div>
          </div>
         </div>
@@ -4627,7 +4625,6 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
      </div>
     </div>
    </main>
-
   </div>
   <footer id="doz_footer_wrap">
    <div id="doz_footer">
