@@ -4770,7 +4770,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     "@type": "Organization",
     "name": "주식회사 빛과 도시",
     "url": "https://lightandcity.github.io",
-    "logo": "https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_white_low.png",
+    "logo": "https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png",
     "address": {
         "@type": "PostalAddress",
         "addressCountry": "KR"
