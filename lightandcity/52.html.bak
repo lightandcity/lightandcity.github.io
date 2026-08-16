@@ -1,48 +1,47 @@
 <!DOCTYPE html>
-<html lang="ko">
- <meta content="text/html;charset=utf-8" http-equiv="content-type"/>
- <head>
-  <meta charset="utf-8"/>
-  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<html lang="ko" class=" js cssanimations"><head><meta content="text/html;charset=utf-8" http-equiv="content-type">
+ 
+  <meta charset="utf-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta content="#430000" name="theme-color">
-   <meta content="#430000" name="msapplication-navbutton-color"/>
-   <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/>
+   <meta content="#430000" name="msapplication-navbutton-color">
+   <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
    <meta content="18.html" property="og:url">
     <title>
      주식회사 빛과도시
     </title>
     <meta content="주식회사 빛과도시" name="application-name">
      <meta content="주식회사 빛과도시" name="msapplication-tooltip">
-      <meta content="주식회사 빛과도시" id="meta_og_title" property="og:title"/>
-      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 종합서비스를 제공합니다." name="description"/>
-      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." property="og:description"/>
-      <meta content="빛과도시, 기술평가, 기술자문, 기술컨설팅, 건설감정, 법원감정, 건축감정 하자감정 공사비감정 토목감정 특수감정인 안전진단, 안전점검, 건축물관리점검, 준공도서검토, 소음진동, 해체계획서,기술법인,빛과도시" name="keywords"/>
-      <link href="18.html" rel="canonical"/>
-      <meta content="website" property="og:type"/>
-      <meta content="width=device-width,viewport-fit=cover,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
-      <meta content="54785077e40988970c94e3b651beb1383359a24f" name="naver-site-verification"/>
-      <link href="../vendor-cdn.imweb.me/minify_css/vendor_blue_10fd67.css?1653367465" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/minify_css/vendor_red_10fd67.css?1653367465" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/im_componenta183.css?1698001225" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/site/alarm_menu1e8d.css?1678083003" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/function9092.css?1666824024" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/site/site708b.css?1754031372" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/site/site2dc10.css?1754286922" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/site/iefix27b18.css?1590627710" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/animate6c3e.css?1577682282" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/chosen4863.css?1617331870" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/chosenImage4e9c.css?1617331762" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/fonts/im-icon/style2cb4.css?1706507651" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/fonts/phosphor/style7e17.css?1744870776" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/ii28bd.css?1738631657" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/fonts/pretendard/web/variable/pretendardvariable3afe.css?1669875619" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/fonts/pretendard/web/static/pretendard3afe.css?1669875619" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/fonts/froala-emoji-tap/style9fbd.css?1669163161" rel="stylesheet" type="text/css"/>
-      <link href="css/custom5ed4.css?1762319263" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/tailwindec1b.css?1764209862" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/emoji9fbd.css?1669163161" rel="stylesheet" type="text/css"/>
-      <link href="../vendor-cdn.imweb.me/css/font-awesome5.min6a29.css?1669163183" rel="stylesheet" type="text/css"/>
-      <link href="_/oms-customer-front-office/style.css" rel="stylesheet" type="text/css"/>
+      <meta content="주식회사 빛과도시" id="meta_og_title" property="og:title">
+      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 종합서비스를 제공합니다." name="description">
+      <meta content="주식회사 빛과도시는 기술평가, 기술자문, 건설감정, 기술서비스, 안전진단, 건설엔지니어링 등 기술사 종합서비스를 제공합니다." property="og:description">
+      <meta content="빛과도시, 기술평가, 기술자문, 기술컨설팅, 건설감정, 법원감정, 건축감정 하자감정 공사비감정 토목감정 특수감정인 안전진단, 안전점검, 건축물관리점검, 준공도서검토, 소음진동, 해체계획서,기술법인,빛과도시" name="keywords">
+      <link href="18.html" rel="canonical">
+      <meta content="website" property="og:type">
+      <meta content="width=device-width,viewport-fit=cover,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+      <meta content="54785077e40988970c94e3b651beb1383359a24f" name="naver-site-verification">
+      <link href="../vendor-cdn.imweb.me/minify_css/vendor_blue_10fd67.css?1653367465" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/minify_css/vendor_red_10fd67.css?1653367465" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/im_componenta183.css?1698001225" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/site/alarm_menu1e8d.css?1678083003" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/function9092.css?1666824024" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/site/site708b.css?1754031372" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/site/site2dc10.css?1754286922" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/site/iefix27b18.css?1590627710" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/animate6c3e.css?1577682282" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/chosen4863.css?1617331870" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/chosenImage4e9c.css?1617331762" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/fonts/im-icon/style2cb4.css?1706507651" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/fonts/phosphor/style7e17.css?1744870776" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/ii28bd.css?1738631657" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/fonts/pretendard/web/variable/pretendardvariable3afe.css?1669875619" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/fonts/pretendard/web/static/pretendard3afe.css?1669875619" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/fonts/froala-emoji-tap/style9fbd.css?1669163161" rel="stylesheet" type="text/css">
+      <link href="css/custom5ed4.css?1762319263" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/tailwindec1b.css?1764209862" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/emoji9fbd.css?1669163161" rel="stylesheet" type="text/css">
+      <link href="../vendor-cdn.imweb.me/css/font-awesome5.min6a29.css?1669163183" rel="stylesheet" type="text/css">
+      <link href="_/oms-customer-front-office/style.css" rel="stylesheet" type="text/css">
       <style>
        @import url("../vendor-cdn.imweb.me/css/score_dream.css"); @import url("../vendor-cdn.imweb.me/css/montserrat.css");
 		.doz_sys #logo_w2022120910446350271af.logo .logo_title a {
@@ -3328,12 +3327,12 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     }
 }
       </script>
-     </meta>
-    </meta>
-   </meta>
-  </meta>
- </head>
- <body class="page_ready doz_sys _body_menu_m202212081efd34ea40b2c page fixed-menu-on new_fixed_menu_on new_header_site" id="doz_body" style=";">
+     
+    
+   
+  
+ <script type="text/javascript" async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js"></script></head>
+ <body class="doz_sys _body_menu_m202212081efd34ea40b2c page fixed-menu-on new_fixed_menu_on new_header_site" id="doz_body" style=";">
   <div class="notification-canvas-container" id="site_alarm_slidemenu_container">
    <div class="notification-canvas-backdrop" id="site_alarm_slidemenu_backdrop" style="display: none">
    </div>
@@ -3394,7 +3393,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                <div class="check">
                 <div class="checkbox checkbox-styled">
                  <label>
-                  <input title="내 글 반응" type="checkbox" value="ok"/>
+                  <input title="내 글 반응" type="checkbox" value="ok">
                   <span>
                   </span>
                  </label>
@@ -3413,7 +3412,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                <div class="check">
                 <div class="checkbox checkbox-styled">
                  <label>
-                  <input title="공지사항" type="checkbox" value="ok"/>
+                  <input title="공지사항" type="checkbox" value="ok">
                   <span>
                   </span>
                  </label>
@@ -3445,7 +3444,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     </a>
     <span class="profile-info">
      <div onclick="SITE_MEMBER.editProfile()">
-      <img alt="프로필 정보수정" class="img-circle dropdown-avatar-big _profile_img" src="common/img/default_profile.png"/>
+      <img alt="프로필 정보수정" class="img-circle dropdown-avatar-big _profile_img" src="common/img/default_profile.png">
      </div>
      <div class="sm-padding no-padding-bottom">
      </div>
@@ -3465,14 +3464,14 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     <ul class="nav navbar-nav navbar-right">
      <div class="viewport-nav mobile _menu_wrap" style="position:relative">
       <li class="depth-01" data-code="m20221201f9696fab3c649" style="">
-       <a class="" data-has_child="Y" data-is_folder_menu="Y" data-url="17" href="javascript:void(0)" onclick="">
+       <a class="has_child" data-has_child="Y" data-is_folder_menu="Y" data-url="17" href="javascript:void(0)" onclick="">
         <span class="plain_name" data-hover="">
          법인소개
         </span>
         <span class="_toggle_btn toggle-btn">
         </span>
        </a>
-       <ul>
+       <ul data-index="0" style="height: 0px;">
         <li class="depth-02" data-code="m20221213a16ffb6038a7b" style="">
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="34" href="34.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
@@ -3494,14 +3493,14 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        </ul>
       </li>
       <li class="depth-01" data-code="m202212081efd34ea40b2c" style="">
-       <a class="" data-has_child="Y" data-is_folder_menu="Y" data-url="18" href="javascript:void(0)" onclick="">
+       <a class="has_child" data-has_child="Y" data-is_folder_menu="Y" data-url="18" href="javascript:void(0)" onclick="">
         <span class="plain_name" data-hover="">
          사업분야
         </span>
         <span class="_toggle_btn toggle-btn">
         </span>
        </a>
-       <ul>
+       <ul data-index="3" style="height: 0px;">
         <li class="depth-02" data-code="m20221209690efd15e7457" style="">
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="23" href="51.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
@@ -3514,7 +3513,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
         <li class="depth-02" data-code="m2022120939401292beeda" style="">
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="24" href="52.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
-           태양광 발전 사업검토
+           국내외 규제 및 인허가 검토·대응
           </span>
           <span class="_toggle_btn toggle-btn">
           </span>
@@ -3532,14 +3531,14 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
        </ul>
       </li>
       <li class="depth-01" data-code="m20221208233f5e8286bd6" style="">
-       <a class="" data-has_child="Y" data-is_folder_menu="Y" data-url="19" href="javascript:void(0)" onclick="">
+       <a class="has_child" data-has_child="Y" data-is_folder_menu="Y" data-url="19" href="javascript:void(0)" onclick="">
         <span class="plain_name" data-hover="">
-         정보공개
+         공개정보
         </span>
         <span class="_toggle_btn toggle-btn">
         </span>
        </a>
-       <ul>
+       <ul data-index="7" style="height: 0px;">
         <li class="depth-02" data-code="m20230323185825dbb4178" style="">
          <a class="" data-has_child="N" data-is_folder_menu="N" data-url="40" href="40.html" onclick="" tabindex="-1">
           <span class="plain_name" data-hover="">
@@ -3728,8 +3727,8 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 <span class="sr-only">
                  주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180"/>
-                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180">
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180">
                </a>
               </div>
              </div>
@@ -3742,7 +3741,123 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
            <div class="inline-widget" data-type="widget" id="w20221209f6e56a9081615">
             <div class="_widget_data" data-widget-type="inline_menu">
              <ul class="nav navbar-nav _inline_menu_container" style="visibility: visible;">
-              <div class="viewport-nav desktop _main_menu">
+              <div class="viewport-nav desktop _main_menu"><li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
+                 <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
+                  법인소개
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
+                  <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    소장 인사
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
+                  <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    소개 자료
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
+                 <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
+                  사업분야
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
+                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    일조·채광·조망권 침해검토
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
+                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    국내외 규제 및 인허가 검토·대응
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
+                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    조경식재·미기후 환경검토
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
+                 <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
+                  공개정보
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20230323185825dbb4178" data-code="m20230323185825dbb4178" style="">
+                  <a class="_txt_m20230323185825dbb4178 _fade_link" data-url="40" href="40.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    업무절차
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
+                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="41" href="41.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    사회공헌
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
+                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="61" href="61.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    법인소식
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
+                 <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
+                  상담문의
+                 </span>
+                </a>
+               </li></div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px; display: none;">
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
+              </div>
+             <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;"><div class="viewport-nav desktop _main_clone_menu main_clone_menu">
                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
@@ -3783,7 +3898,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    태양광 발전 사업검토
+                    국내외 규제 및 인허가 검토·대응
                    </span>
                   </a>
                  </li>
@@ -3799,7 +3914,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                <li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
                  <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
-                  정보공개
+                  공개정보
                  </span>
                 </a>
                 <ul class="dropdown-menu" role="menu">
@@ -3833,128 +3948,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  </span>
                 </a>
                </li>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px; display: none;">
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop main_clone_menu">
-                <li class="dropdown _more_menu">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
-                  <i aria-hidden="true" class="icon-options vertical-middle">
-                  </i>
-                 </a>
-                 <ul class="dropdown-menu more_list _more_list">
-                 </ul>
-                </li>
-               </div>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop _main_clone_menu main_clone_menu">
-                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
-                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
-                   법인소개
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
-                   <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     소장 인사
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
-                   <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     소개 자료
-                    </span>
-                   </a>
-                  </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
-                  <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
-                   사업분야
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
-                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     일조·채광·조망권 침해검토
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
-                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     태양광 발전 사업검토
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
-                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     조경식재·미기후 환경검토
-                    </span>
-                   </a>
-                  </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
-                  <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
-                   정보공개
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20230323185825dbb4178" data-code="m20230323185825dbb4178" style="">
-                   <a class="_txt_m20230323185825dbb4178 _fade_link" data-url="40" href="40.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     업무절차
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
-                   <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="41" href="41.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     사회공헌
-                    </span>
-                   </a>
-                  </li>
-                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
-                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="61" href="61.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    법인소식
-                   </span>
-                  </a>
-                 </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
-                  <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
-                   상담문의
-                  </span>
-                 </a>
-                </li>
-               </div>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop main_clone_menu">
-                <li class="dropdown _more_menu">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
-                  <i aria-hidden="true" class="icon-options vertical-middle">
-                  </i>
-                 </a>
-                 <ul class="dropdown-menu more_list _more_list">
-                 </ul>
-                </li>
-               </div>
-              </div>
-             </ul>
+              </div></div><div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;"><div class="viewport-nav desktop main_clone_menu"><li class="dropdown _more_menu"><a data-toggle="dropdown" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" aria-expanded="false"><i class="icon-options vertical-middle" aria-hidden="true"></i></a><ul class="dropdown-menu more_list _more_list"></ul></li></div></div></ul>
             </div>
            </div>
           </div>
@@ -3983,8 +3977,8 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 <span class="sr-only">
                  주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180"/>
-                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180">
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; image-rendering: -webkit-optimize-contrast;" width="180">
                </a>
               </div>
              </div>
@@ -3997,7 +3991,123 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
            <div class="inline-widget" data-type="widget" id="w20221209f0e5de754997c">
             <div class="_widget_data" data-widget-type="inline_menu">
              <ul class="nav navbar-nav _inline_menu_container" style="visibility: visible;">
-              <div class="viewport-nav desktop _main_menu">
+              <div class="viewport-nav desktop _main_menu"><li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
+                 <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
+                  법인소개
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
+                  <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    소장 인사
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
+                  <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    소개 자료
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
+                 <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
+                  사업분야
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
+                  <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    일조·채광·조망권 침해검토
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
+                  <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    국내외 규제 및 인허가 검토·대응
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
+                  <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    조경식재·미기후 환경검토
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
+                 <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
+                  공개정보
+                 </span>
+                </a>
+                <ul class="dropdown-menu" role="menu">
+                 <li class="dropdown-submenu _show_m20230323185825dbb4178" data-code="m20230323185825dbb4178" style="">
+                  <a class="_txt_m20230323185825dbb4178 _fade_link" data-url="40" href="40.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    업무절차
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
+                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="41" href="41.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    사회공헌
+                   </span>
+                  </a>
+                 </li>
+                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
+                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="61" href="61.html" tabindex="-1">
+                   <span class="plain_name" data-hover="">
+                    법인소식
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </li><li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
+                <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
+                 <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
+                  상담문의
+                 </span>
+                </a>
+               </li></div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px; display: none;">
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               
+              </div>
+              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
+               <div class="viewport-nav desktop main_clone_menu">
+                <li class="dropdown _more_menu">
+                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
+                  <i aria-hidden="true" class="icon-options vertical-middle">
+                  </i>
+                 </a>
+                 <ul class="dropdown-menu more_list _more_list">
+                 </ul>
+                </li>
+               </div>
+              </div>
+             <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;"><div class="viewport-nav desktop _main_clone_menu main_clone_menu">
                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
@@ -4038,7 +4148,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
                    <span class="plain_name" data-hover="">
-                    태양광 발전 사업검토
+                    국내외 규제 및 인허가 검토·대응
                    </span>
                   </a>
                  </li>
@@ -4054,7 +4164,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                <li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
                  <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
-                  정보공개
+                  공개정보
                  </span>
                 </a>
                 <ul class="dropdown-menu" role="menu">
@@ -4088,179 +4198,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                  </span>
                 </a>
                </li>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px; display: none;">
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop main_clone_menu">
-                <li class="dropdown _more_menu">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
-                  <i aria-hidden="true" class="icon-options vertical-middle">
-                  </i>
-                 </a>
-                 <ul class="dropdown-menu more_list _more_list">
-                 </ul>
-                </li>
-               </div>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop _main_clone_menu main_clone_menu">
-                <li class="dropdown _show_m20221201f9696fab3c649" data-code="m20221201f9696fab3c649" id="dropdown_m20221201f9696fab3c649" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="17" href="javascript:void(0)">
-                  <span class="_txt_m20221201f9696fab3c649 plain_name" data-hover="">
-                   법인소개
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20221213a16ffb6038a7b" data-code="m20221213a16ffb6038a7b" style="">
-                   <a class="_txt_m20221213a16ffb6038a7b _fade_link" data-url="34" href="34.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     소장 인사
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212133e4cc5cf9cc2b" data-code="m202212133e4cc5cf9cc2b" style="">
-                   <a class="_txt_m202212133e4cc5cf9cc2b _fade_link" data-url="37" href="18.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     소개 자료
-                    </span>
-                   </a>
-                  </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m202212081efd34ea40b2c" data-code="m202212081efd34ea40b2c" id="dropdown_m202212081efd34ea40b2c" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="18" href="javascript:void(0)">
-                  <span class="_txt_m202212081efd34ea40b2c plain_name" data-hover="">
-                   사업분야
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20221209690efd15e7457" data-code="m20221209690efd15e7457" style="">
-                   <a class="_txt_m20221209690efd15e7457 _fade_link" data-url="23" href="51.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     일조·채광·조망권 침해검토
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m2022120939401292beeda" data-code="m2022120939401292beeda" style="">
-                   <a class="_txt_m2022120939401292beeda _fade_link" data-url="24" href="52.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     태양광 발전 사업검토
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212092369e6a80aa00" data-code="m202212092369e6a80aa00" style="">
-                   <a class="_txt_m202212092369e6a80aa00 _fade_link" data-url="25" href="53.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     조경식재·미기후 환경검토
-                    </span>
-                   </a>
-                  </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m20221208233f5e8286bd6" data-code="m20221208233f5e8286bd6" id="dropdown_m20221208233f5e8286bd6" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="19" href="javascript:void(0)">
-                  <span class="_txt_m20221208233f5e8286bd6 plain_name" data-hover="">
-                   정보공개
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m20230323185825dbb4178" data-code="m20230323185825dbb4178" style="">
-                   <a class="_txt_m20230323185825dbb4178 _fade_link" data-url="40" href="40.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     업무절차
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
-                   <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="41" href="41.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     사회공헌
-                    </span>
-                   </a>
-                  </li>
-                 <li class="dropdown-submenu _show_m20230323d6f698cbf5bb0" data-code="m20230323d6f698cbf5bb0" style="">
-                  <a class="_txt_m20230323d6f698cbf5bb0 _fade_link" data-url="61" href="61.html" tabindex="-1">
-                   <span class="plain_name" data-hover="">
-                    법인소식
-                   </span>
-                  </a>
-                 </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m20221208931c197d1ca23" data-code="m20221208931c197d1ca23" id="dropdown_m20221208931c197d1ca23" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="20" href="-.html">
-                  <span class="_txt_m20221208931c197d1ca23 plain_name" data-hover="">
-                   연구개발
-                  </span>
-                 </a>
-                 <ul class="dropdown-menu" role="menu">
-                  <li class="dropdown-submenu _show_m202212131bef3b675a3e7" data-code="m202212131bef3b675a3e7" style="">
-                   <a class="_txt_m202212131bef3b675a3e7 _fade_link" data-url="29" href="-.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     건축주택연구
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212135511c166dba27" data-code="m202212135511c166dba27" style="">
-                   <a class="_txt_m202212135511c166dba27 _fade_link" data-url="30" href="-.html" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     스마트건설
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m202212135d3b9c03651b7" data-code="m202212135d3b9c03651b7" style="">
-                   <a class="_txt_m202212135d3b9c03651b7" data-url="31" href="javascript:void(0);" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     층간소음
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m2022121376e679bec36a9" data-code="m2022121376e679bec36a9" style="">
-                   <a class="_txt_m2022121376e679bec36a9" data-url="32" href="javascript:void(0);" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     건설안전
-                    </span>
-                   </a>
-                  </li>
-                  <li class="dropdown-submenu _show_m2022121326b5fdea252a4" data-code="m2022121326b5fdea252a4" style="">
-                   <a class="_txt_m2022121326b5fdea252a4" data-url="33" href="javascript:void(0);" tabindex="-1">
-                    <span class="plain_name" data-hover="">
-                     분쟁조정연구
-                    </span>
-                   </a>
-                  </li>
-                 </ul>
-                </li>
-                <li class="dropdown _show_m202303160c80d2783d540" data-code="m202303160c80d2783d540" id="dropdown_m202303160c80d2783d540" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="38" href="38.html">
-                  <span class="_txt_m202303160c80d2783d540 plain_name" data-hover="">
-                   상담문의
-                  </span>
-                 </a>
-                </li>
-                <li class="dropdown _show_m20230316e19923af12450" data-code="m20230316e19923af12450" id="dropdown_m20230316e19923af12450" style="">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled _header_dropdown _fade_link" data-toggle="dropdown" data-url="39" href="-.html">
-                  <span class="_txt_m20230316e19923af12450 plain_name" data-hover="">
-                   인재채용
-                  </span>
-                 </a>
-                </li>
-               </div>
-              </div>
-              <div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;">
-               <div class="viewport-nav desktop main_clone_menu">
-                <li class="dropdown _more_menu">
-                 <a aria-expanded="false" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" data-toggle="dropdown">
-                  <i aria-hidden="true" class="icon-options vertical-middle">
-                  </i>
-                 </a>
-                 <ul class="dropdown-menu more_list _more_list">
-                 </ul>
-                </li>
-               </div>
-              </div>
-             </ul>
+              </div></div><div class="_main_clone_menu_wrap" style="position: absolute; top: -9999px; left: -9999px;"><div class="viewport-nav desktop main_clone_menu"><li class="dropdown _more_menu"><a data-toggle="dropdown" class="fixed_transform dropdown-toggle disabled dropdown-more _header_dropdown" aria-expanded="false"><i class="icon-options vertical-middle" aria-hidden="true"></i></a><ul class="dropdown-menu more_list _more_list"></ul></li></div></div></ul>
             </div>
            </div>
           </div>
@@ -4287,8 +4225,8 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
                 <span class="sr-only">
                  주식회사 빛과도시
                 </span>
-                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; " width="150"/>
-                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; " width="150"/>
+                <img alt="주식회사 빛과도시" class="normal_logo _front_img" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; " width="150">
+                <img alt="주식회사 빛과도시" class="scroll_logo fixed_transform" src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/refs/heads/main/logo/%EB%B9%9B%EA%B3%BC%EB%8F%84%EC%8B%9C_%EA%B0%80%EB%A1%9C%EB%A1%9C%EA%B3%A0_20260608_Image(2).png" style="max-width: 100%;height: auto; " width="150">
                </a>
               </div>
              </div>
@@ -4328,7 +4266,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
 
 
 
-  </header>
+  
   <div class="section_wrap pc_section section_first _section_first mobile_section_first side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s20221212104763a45cc27" style="; ; background-color:#430000;;">
    <div class="section_bg _section_bg _interactive_bg" style="background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
    </div>
@@ -4359,11 +4297,10 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
              <p style="font-family: 'sans-serif'; font-weight: 500; font-size: 12px; color: #ffffff; margin-bottom: -15px;">
               사업분야
              </p>
-             <h1 style="color:#fff; font-weight: 600; font-size: 22px;">
-              태양광 발전 사업검토
-             </h1>
+             <h1 style="color:#fff; font-weight: 600; font-size: 22px;">국내외 규제 및 인허가 검토·대응</h1>
              <p style="color:#fff; display:inline-box; font-size: 14px;">
-              태양광 발전량·음영·경제성 평가부터 부지 타당성, 설계 배치 최적화까지 <br>금융권 제출용 Bankable 리포트를 제공합니다.
+    건축·토목·에너지 사업의 법령·조례·기준을 데이터화하고<br>
+    사업조건에 따른 규제 검토와 인허가 대응을 지원합니다.
              </p>
             </div>
            </div>
@@ -4388,236 +4325,1078 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
     </div>
    </main>
   </div>
-  <div class="section_wrap pc_section side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s20221212dc59913285779" style="; ; background-color:#ffffff;;">
-   <div class="section_bg _section_bg _interactive_bg" style="background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
-   </div>
-   <div class="section_bg_color _section_bg_color" style="background-color:#ffffff; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
-   </div>
-   <main>
-    <div class="inside" doz_type="inside">
-     <div class="doz_row" doz_grid="12" doz_type="row">
-      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
-       <div doz_type="widget" id="w202212125683569ccd1a1">
-        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
-         <div class="widget padding" data-height="60" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w202212125683569ccd1a1" style="width:100%; min-height:1px; height:60px;">
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="doz_row" doz_grid="12" doz_type="row">
-      <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
-       <div doz_type="widget" id="w202212122e56aaa47ac18">
-        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
-         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w202212122e56aaa47ac18">
-          <div class="text-table">
-           <div>
-            <h2 style="font-weight: 600; font-size: 16px; border-top: 1px solid #000000; margin: 10px 25px 10px 25px; padding-top: 20px;">
-             주요 의뢰주체
-            </h2>
-           </div>
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-      <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
-       <div doz_type="widget" id="w20221212dfc304e15eeec">
-        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
-         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w20221212dfc304e15eeec">
-          <div class="text-table">
-           <div>
-            <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    [1] 개인 건축주, 소규모 토지주, 농민, 태양광 발전 지원기관 (지자체, 공공기관)
-            </p>
-            <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    [2] 사회적경제기업 (협동조합, 영농법인, 사회적기업)
-            </p>
-            <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    [3] 중소 건설사, 시행사, EPC 업체
-            </p>
-            <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    [4] 금융기관 (농협·수협·신협 등)
-            </p>
-           </div>
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="doz_row" doz_grid="12" doz_type="row">
-      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
-       <div doz_type="widget" id="w2022121225c63db076d0e">
-        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
-         <div class="widget padding" data-height="30" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w2022121225c63db076d0e" style="width:100%; min-height:1px; height:30px;">
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-    </div>
-   </main>
-   <div class="inside" doz_type="inside">
-    <div class="doz_row" doz_grid="12" doz_type="row">
-     <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
-      <div doz_type="widget" id="w202212125683569ccd1a2">
-       <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
-        <div class="widget padding" data-height="60" style="margin-top:px; margin-bottom:px;">
-         <div id="padding_w202212125683569ccd1a2" style="width:100%; min-height:1px; height:60px;">
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-    </div>
-    <div class="doz_row" doz_grid="12" doz_type="row">
-     <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
-      <div doz_type="widget" id="w202212122e56aaa47ac19">
-       <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
-        <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w202212122e56aaa47ac19">
-         <div class="text-table">
-          <div>
-           <h2 style="font-weight: 600; font-size: 16px; border-top: 1px solid #000000; margin: 10px 25px 10px 25px; padding-top: 20px;">
-            분석 목적 개괄
-           </h2>
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
-      <div doz_type="widget" id="w20221212dfc304e15eeed">
-       <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
-        <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w20221212dfc304e15eeed">
-         <div class="text-table">
-          <div>
-           <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    태양광 발전 사업의 성공은 부지 선정부터 설계, 금융, 인허가까지 각 단계의 정밀한 검토에 달려 있습니다.
-           </p>
-           <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    특히 사회적경제 주체(협동조합, 영농법인, 사회적기업)는 자본력과 기술 접근성의 한계로 인해 고가의 분석 도구나 전문 인력을 활용하기 어려운 현실입니다.
-           </p>
-           <p style="border-top: 1px solid #ffffff; color:#000000; display:inline-box; margin: 5px 25px 10px 25px; padding-top: 0px;">
-                    빛과도시는 업계 표준 도구와 자체 자동화 스크립트를 기반으로, 정밀한 태양광 사업 검토를 합리적인 비용으로 제공합니다. 발전량 예측, 음영 분석, 경제성 평가, 금융권 제출용 Bankable 리포트까지 원스톱으로 지원합니다.
-           </p>
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-    </div>
-    <div class="doz_row" doz_grid="12" doz_type="row">
-     <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
-      <div doz_type="widget" id="w2022121225c63db076d0f">
-       <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
-        <div class="widget padding" data-height="30" style="margin-top:px; margin-bottom:px;">
-         <div id="padding_w2022121225c63db076d0f" style="width:100%; min-height:1px; height:30px;">
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-    </div>
-   </main>
-  </div>
-  <div class="section_wrap pc_section side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s2023032454b7d6f3d623e" style="; ; background-color:#ffffff;;">
-   <div class="section_bg _section_bg _interactive_bg" style="background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
-   </div>
-   <div class="section_bg_color _section_bg_color" style="background-color:#ffffff; position: absolute;left: 0;top: 0;right: 0; bottom: 0;">
-   </div>
-   <main>
-    <div class="inside" doz_type="inside">
-     <div class="doz_row" doz_grid="12" doz_type="row">
-      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
-       <div doz_type="widget" id="w202212125683569ccd1a3">
-        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
-         <div class="widget padding" data-height="60" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w202212125683569ccd1a3" style="width:100%; min-height:1px; height:60px;">
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="doz_row" doz_grid="12" doz_type="row">
-      <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
-       <div doz_type="widget" id="w202212122e56aaa47ac20">
-        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
-         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w202212122e56aaa47ac20">
-          <div class="text-table">
-           <div>
-            <h2 style="font-weight: 600; font-size: 16px; border-top: 1px solid #000000; margin: 10px 25px 10px 25px; padding-top: 20px;">
-             주요 지원 내용
-            </h2>
-           </div>
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-      <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
-       <div doz_type="widget" id="w20221212dfc304e15eeee">
-        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
-         <div class="widget _text_wrap widget_text_wrap fr-view default_padding" doz_type="text" id="text_w20221212dfc304e15eeee">
-          <div class="text-table">
-           <div>
-            <table style="margin-top:10px; margin-left:25px; margin-right:25px; border: none;">
-                <tbody>
-                    <tr>
-                        <td style="width:25%; border: none; padding: 15px 20px; background-color: #f9f9f9;">부지 타당성 분석</td>
-                        <td style="width:75%; border: none; padding: 15px 20px;">입지 분석, 음영 시뮬레이션, 발전량 예측, 지자체 조례 자동 검토</td>
-                    </tr>
-                    <tr>
-                        <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">발전소 설계 최적화</td>
-                        <td style="border: none; padding: 15px 20px;">패널 각도·간격·배치 최적화, BIM 기반 설계 도면 제공</td>
-                    </tr>
-                    <tr>
-                        <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">경제성 평가</td>
-                        <td style="border: none; padding: 15px 20px;">IRR, NPV, BEP 분석, REC 가중치 반영 수익 모델링</td>
-                    </tr>
-                    <tr>
-                        <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">금융 검증 <br> (Bankable 리포트)</td>
-                        <td style="border: none; padding: 15px 20px;">P50/P90 발전량 분석, 금융권 제출용 검증 자료 제공</td>
-                    </tr>
-                    <tr>
-                        <td style="border: none; padding: 15px 20px; background-color: #f9f9f9;">인허가·환경 <br> 갈등 대응</td>
-                        <td style="border: none; padding: 15px 20px;">주변 주민 일조·조망 영향 분석, 민원 사전 차단 기술 자료</td>
-                    </tr>
-                </tbody>
-            </table>
-           </div>
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="doz_row" doz_grid="12" doz_type="row">
-      <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
-       <div doz_type="widget" id="w2022121225c63db076d10">
-        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
-         <div class="widget padding" data-height="100" style="margin-top:px; margin-bottom:px;">
-          <div id="padding_w2022121225c63db076d10" style="width:100%; min-height:1px; height:100px;">
-          </div>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-    </div>
-   </main>
-  </div>
-  
-   </main>
+  <div class="section_wrap pc_section side_basic lr_margin_none" doz_aside="N" doz_category="default" doz_change_mobile="N" doz_extend="N" doz_footer_repeat="N" doz_header_repeat="N" doz_mobile_hide="N" doz_mobile_section="N" doz_side_margin="0" doz_side_width="230" doz_type="section" id="s20221212dc59913285779" style="background-color:#ffffff;">
 
-  </div>
+    <div class="section_bg _section_bg _interactive_bg" style="background-size:cover; background-repeat:no-repeat; position:absolute;left:0;top:0;right:0;bottom:0;">
+    </div>
+
+    <div class="section_bg_color _section_bg_color" style="background-color:#ffffff; position:absolute;left:0;top:0;right:0;bottom:0;">
+    </div>
+
+    <main>
+
+        <!-- 상단 여백 -->
+        <div class="inside" doz_type="inside">
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+                <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+
+                    <div doz_type="widget">
+                        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+
+                            <div class="widget padding" data-height="60">
+                                <div style="width:100%; min-height:1px; height:60px;"></div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+
+        <!-- =====================================================
+             주요 의뢰주체
+        ====================================================== -->
+
+        <div class="inside" doz_type="inside">
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <h2 style="
+                                            font-weight:600;
+                                            font-size:16px;
+                                            border-top:1px solid #000000;
+                                            margin:10px 25px 10px 25px;
+                                            padding-top:20px;
+                                        ">
+                                            주요 의뢰주체
+                                        </h2>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <p style="
+                                            border-top:1px solid #ffffff;
+                                            color:#000000;
+                                            display:inline-box;
+                                            margin:5px 25px 10px 25px;
+                                            padding-top:0px;
+                                        ">
+                                            [1] 건축주·시행사·토지 개발자 등 개발사업의 사업조건과 추진방향을 결정하는 주체
+                                        </p>
+
+                                        <p style="
+                                            border-top:1px solid #ffffff;
+                                            color:#000000;
+                                            display:inline-box;
+                                            margin:5px 25px 10px 25px;
+                                            padding-top:0px;
+                                        ">
+                                            [2] 건축사사무소·엔지니어링사·건설사 등 사업계획 및 인허가 업무를 수행하는 기술 주체
+                                        </p>
+
+                                        <p style="
+                                            border-top:1px solid #ffffff;
+                                            color:#000000;
+                                            display:inline-box;
+                                            margin:5px 25px 10px 25px;
+                                            padding-top:0px;
+                                        ">
+                                            [3] 재개발·재건축 조합 및 부동산 개발사업 관계자
+                                        </p>
+
+                                        <p style="
+                                            border-top:1px solid #ffffff;
+                                            color:#000000;
+                                            display:inline-box;
+                                            margin:5px 25px 10px 25px;
+                                            padding-top:0px;
+                                        ">
+                                            [4] 기업·공공기관의 내부 사업검토 및 업무자동화 시스템 구축이 필요한 주체
+                                        </p>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+
+                            <div class="widget padding" data-height="30">
+                                <div style="width:100%; min-height:1px; height:30px;"></div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- =====================================================
+             업무의 기본 구조
+        ====================================================== -->
+
+        <div class="inside" doz_type="inside">
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <h2 style="
+                                            font-weight:600;
+                                            font-size:16px;
+                                            border-top:1px solid #000000;
+                                            margin:10px 25px 10px 25px;
+                                            padding-top:20px;
+                                        ">
+                                            업무의 기본 구조
+                                        </h2>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <p style="
+                                            border-top:1px solid #ffffff;
+                                            color:#000000;
+                                            display:inline-box;
+                                            margin:5px 25px 10px 25px;
+                                            padding-top:0px;
+                                        ">
+                                            발주처 또는 전문가가 정한 사업조건·판단기준을 입력받아 데이터, 계산식 및 업무절차를 시스템으로 구현합니다.
+                                        </p>
+
+                                        <p style="
+                                            border-top:1px solid #ffffff;
+                                            color:#000000;
+                                            display:inline-box;
+                                            margin:5px 25px 10px 25px;
+                                            padding-top:0px;
+                                        ">
+                                            법령·조례 등의 정보를 구조화하고, 지정된 규칙에 따라 계산·비교·시각화할 수 있도록 자동화합니다.
+                                        </p>
+
+                                        <p style="
+                                            border-top:1px solid #ffffff;
+                                            color:#000000;
+                                            display:inline-box;
+                                            margin:5px 25px 10px 25px;
+                                            padding-top:0px;
+                                        ">
+                                            최종적인 건축·토목·법률·인허가 판단을 대신하지 않으며, 전문가와 발주처의 검토 및 의사결정을 빠르고 일관되게 수행할 수 있도록 기술적인 지원을 제공합니다.
+                                        </p>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+
+                            <div class="widget padding" data-height="30">
+                                <div style="width:100%; min-height:1px; height:30px;"></div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- =====================================================
+             주요 구축 범위
+        ====================================================== -->
+
+        <div class="inside" doz_type="inside">
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <h2 style="
+                                            font-weight:600;
+                                            font-size:16px;
+                                            border-top:1px solid #000000;
+                                            margin:10px 25px 10px 25px;
+                                            padding-top:20px;
+                                        ">
+                                            주요 구축 범위
+                                        </h2>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <table style="
+                                            margin-top:10px;
+                                            margin-left:25px;
+                                            width:calc(100% - 25px);
+                                            border:none;
+                                        ">
+
+                                            <tbody>
+
+                                                <tr>
+                                                    <td style="
+                                                        width:24%;
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        규제·기준 데이터
+                                                    </td>
+
+                                                    <td style="
+                                                        width:76%;
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        법령·조례·공공데이터·사업기준 등 발주처가 지정한 검토자료를 수집·정리하고 시스템에서 활용할 수 있는 데이터 구조로 구성합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        계산·분석 자동화
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        건폐율·용적률·높이·면적 등 정해진 산식과 검토규칙을 프로그램으로 구현하여 반복적인 계산과 비교 업무를 자동화합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        GIS·BIM·CAD 연계
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        GIS·BIM·CAD 등 기존 공간 및 설계 데이터를 분석 시스템에 연결하고, 필요한 형태로 변환·가공합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        시나리오 비교
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        발주처가 설정한 복수의 사업조건을 자동으로 계산·비교하여 규모·계획조건 및 주요 검토결과의 차이를 확인할 수 있도록 구성합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        결과 시각화
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        분석 결과를 표·도면·지도·그래프 등의 형태로 정리하여 담당자가 검토 결과를 빠르게 확인할 수 있도록 합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        업무 프로세스 자동화
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        반복적으로 수행되는 데이터 입력·계산·검토·결과정리·보고서 작성 과정을 하나의 업무 흐름으로 연결합니다.
+                                                    </td>
+                                                </tr>
+
+                                            </tbody>
+
+                                        </table>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+
+                            <div class="widget padding" data-height="30">
+                                <div style="width:100%; min-height:1px; height:30px;"></div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- =====================================================
+             분석 및 자동화의 대상
+        ====================================================== -->
+
+        <div class="inside" doz_type="inside">
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <h2 style="
+                                            font-weight:600;
+                                            font-size:16px;
+                                            border-top:1px solid #000000;
+                                            margin:10px 25px 10px 25px;
+                                            padding-top:20px;
+                                        ">
+                                            분석 및 자동화의 대상
+                                        </h2>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <table style="
+                                            margin-top:10px;
+                                            margin-left:25px;
+                                            width:calc(100% - 25px);
+                                            border:none;
+                                        ">
+
+                                            <tbody>
+
+                                                <tr>
+                                                    <td style="
+                                                        width:24%;
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        사업조건
+                                                    </td>
+
+                                                    <td style="
+                                                        width:76%;
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        대상지, 용도, 규모, 층수, 면적, 높이 등 발주처가 지정한 사업조건을 입력·관리하고 분석에 활용합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        적용 규칙
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        발주처 또는 관련 전문가가 지정한 산식·조건·판단기준을 시스템에 반영하여 동일한 기준으로 반복 검토할 수 있도록 합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        공간정보
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        토지·건축물·도로·지형 등 공간정보를 활용하여 대상지와 주변 환경을 분석하고 필요한 결과를 시각화합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        기존 업무자료
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        Excel·CAD·BIM·GIS·문서 등 기존 업무에서 사용하는 데이터를 연결하여 반복적인 수작업을 줄입니다.
+                                                    </td>
+                                                </tr>
+
+                                            </tbody>
+
+                                        </table>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+
+                            <div class="widget padding" data-height="30">
+                                <div style="width:100%; min-height:1px; height:30px;"></div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- =====================================================
+             제공 방식
+        ====================================================== -->
+
+        <div class="inside" doz_type="inside">
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <h2 style="
+                                            font-weight:600;
+                                            font-size:16px;
+                                            border-top:1px solid #000000;
+                                            margin:10px 25px 10px 25px;
+                                            padding-top:20px;
+                                        ">
+                                            제공 방식
+                                        </h2>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <table style="
+                                            margin-top:10px;
+                                            margin-left:25px;
+                                            width:calc(100% - 25px);
+                                            border:none;
+                                        ">
+
+                                            <tbody>
+
+                                                <tr>
+                                                    <td style="
+                                                        width:24%;
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        시스템 구축
+                                                    </td>
+
+                                                    <td style="
+                                                        width:76%;
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        기업 또는 기관의 기존 검토업무를 분석하여 데이터 구조, 계산 로직, 화면 및 결과물 생성 기능을 갖춘 내부 업무 시스템으로 구축합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        분석 도구 개발
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        특정 사업 또는 반복 업무에 필요한 계산·검색·분석 기능을 개별 도구로 개발하여 기존 업무환경에서 사용할 수 있도록 구성합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        기존 시스템 연계
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        기존 데이터베이스·업무시스템·CAD·BIM·GIS·Excel 등의 자료와 연결하여 데이터 입력과 결과 전달을 자동화합니다.
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                        background-color:#f9f9f9;
+                                                    ">
+                                                        검토지원 자료
+                                                    </td>
+
+                                                    <td style="
+                                                        border:none;
+                                                        padding:15px 20px;
+                                                    ">
+                                                        시스템에서 산출된 계산·분석 결과를 표·도면·그래프·문서 등의 형태로 정리하여 담당자의 전문적 검토를 지원합니다.
+                                                    </td>
+                                                </tr>
+
+                                            </tbody>
+
+                                        </table>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+
+                            <div class="widget padding" data-height="30">
+                                <div style="width:100%; min-height:1px; height:30px;"></div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- =====================================================
+             성과품
+        ====================================================== -->
+
+        <div class="inside" doz_type="inside">
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <h2 style="
+                                            font-weight:600;
+                                            font-size:16px;
+                                            border-top:1px solid #000000;
+                                            margin:10px 25px 10px 25px;
+                                            padding-top:20px;
+                                        ">
+                                            성과품
+                                        </h2>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
+
+    <div doz_type="widget">
+
+        <div class="_widget_data" data-widget-anim="none" data-widget-anim-delay="0" data-widget-anim-duration="0.7" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                <div class="text-table">
+                    <div>
+
+                        <p style="border-top:1px solid #ffffff; color:#000000; display:inline-box; margin:5px 25px 10px 25px; padding-top:0px;">
+                            [1] 규제·기준 데이터셋 : 법령·조례·공공데이터·기준자료 정리
+                        </p>
+
+                        <p style="border-top:1px solid #ffffff; color:#000000; display:inline-box; margin:5px 25px 10px 25px; padding-top:0px;">
+                            [2] 자동 계산·분석 모듈 : 지정된 산식과 검토규칙의 자동화
+                        </p>
+
+                        <p style="border-top:1px solid #ffffff; color:#000000; display:inline-box; margin:5px 25px 10px 25px; padding-top:0px;">
+                            [3] 사업조건 분석표 : 대상지와 사업계획의 주요 조건 및 분석값 정리
+                        </p>
+
+                        <p style="border-top:1px solid #ffffff; color:#000000; display:inline-box; margin:5px 25px 10px 25px; padding-top:0px;">
+                            [4] 시나리오 비교자료 : 사업조건별 분석결과와 대안 비교
+                        </p>
+
+                        <p style="border-top:1px solid #ffffff; color:#000000; display:inline-box; margin:5px 25px 10px 25px; padding-top:0px;">
+                            [5] GIS·BIM·CAD 분석자료 : 공간정보·도면·모델 데이터 분석 및 변환
+                        </p>
+
+                        <p style="border-top:1px solid #ffffff; color:#000000; display:inline-box; margin:5px 25px 10px 25px; padding-top:0px;">
+                            [6] 업무 자동화 시스템 : 데이터 입력·계산·분석·결과정리 자동화
+                        </p>
+
+                        <p style="border-top:1px solid #ffffff; color:#000000; display:inline-box; margin:5px 25px 10px 25px; padding-top:0px;">
+                            [7] 검토지원 보고자료 : 분석결과·도면·그래프·비교자료 정리
+                        </p>
+
+                        <p style="border-top:1px solid #ffffff; color:#000000; display:inline-box; margin:5px 25px 10px 25px; padding-top:0px;">
+                            [8] 사용자·관리자 문서 : 시스템 사용법·데이터 구조·운영방법 정리
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+            </div>
+
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+
+                            <div class="widget padding" data-height="30">
+                                <div style="width:100%; min-height:1px; height:30px;"></div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- =====================================================
+             업무 범위의 한계
+        ====================================================== -->
+
+        <div class="inside" doz_type="inside">
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-4" doz_grid="4" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <h2 style="
+                                            font-weight:600;
+                                            font-size:16px;
+                                            border-top:1px solid #000000;
+                                            margin:10px 25px 10px 25px;
+                                            padding-top:20px;
+                                        ">
+                                            업무 범위의 한계
+                                        </h2>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-dz col-dz-8" doz_grid="8" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data" data-widget-anim="none" data-widget-name="텍스트" data-widget-parent-is-mobile="N" data-widget-type="text">
+
+                            <div class="widget _text_wrap widget_text_wrap fr-view default_padding">
+
+                                <div class="text-table">
+                                    <div>
+
+                                        <p style="
+                                            border-top:1px solid #ffffff;
+                                            color:#000000;
+                                            display:inline-box;
+                                            margin:5px 25px 10px 25px;
+                                            padding-top:0px;
+                                        ">
+                                            본 업무는 발주처 또는 관련 전문가가 정한 사업조건·산식·검토기준을 데이터와 소프트웨어로 구현하고, 그 결과를 검토지원 자료로 제공하는 것을 기본으로 합니다.
+                                        </p>
+
+                                        <p style="
+                                            border-top:1px solid #ffffff;
+                                            color:#000000;
+                                            display:inline-box;
+                                            margin:5px 25px 10px 25px;
+                                            padding-top:0px;
+                                        ">
+                                            건축설계, 공사감리, 법률자문 등 별도의 자격·등록·신고가 요구되는 전문업무의 최종 판단을 대신하지 않으며, 필요한 경우 해당 분야 전문가의 검토를 전제로 결과를 제공합니다.
+                                        </p>
+
+                                        <p style="
+                                            border-top:1px solid #ffffff;
+                                            color:#000000;
+                                            display:inline-box;
+                                            margin:5px 25px 10px 25px;
+                                            padding-top:0px;
+                                        ">
+                                            시스템에서 산출되는 결과는 입력된 데이터와 적용된 기준 및 계산규칙에 따른 분석결과이며, 실제 사업 적용 여부와 최종 의사결정은 발주처 및 해당 전문분야의 책임 있는 검토를 통해 결정됩니다.
+                                        </p>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="doz_row" doz_grid="12" doz_type="row">
+
+                <div class="col-dz col-dz-12" doz_grid="12" doz_type="grid">
+
+                    <div doz_type="widget">
+
+                        <div class="_widget_data _ds_animated_except" data-widget-name="여백" data-widget-parent-is-mobile="N" data-widget-type="padding">
+
+                            <div class="widget padding" data-height="60">
+                                <div style="width:100%; min-height:1px; height:60px;"></div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+</div>
   <footer id="doz_footer_wrap">
    <div id="doz_footer">
     <div class="footer-section footer-type05 _footer_font_preview footer_align_center footer_align_right">
@@ -4632,22 +5411,22 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
             <span style="letter-spacing: 5px;">
             </span>
             경기도 양주시 덕계로 140(덕계동 925-3번지) 진산메디프라자 5층
-            <br/>
+            <br>
             사업자등록번호
             <span style="letter-spacing: 5px;">
             </span>
             645-86-04462 (공학연구개발업, 기타엔지니어링서비스업)
-            <br/>
+            <br>
             MAIL
             <span style="letter-spacing: 5px;">
             </span>
             business@lightandcity.r-e.kr
-            <br/>
+            <br>
             TEL
             <span style="letter-spacing: 5px;">
             </span>
             070-5236-0730
-            <br/>
+            <br>
             FAX
             <span style="letter-spacing: 5px;">
             </span>
@@ -5326,7 +6105,14 @@ LOCALIZE.타이틀_알림설정 = function(){ return LOCALIZE.convArguments("알
   <script src="../vendor-cdn.imweb.me/js/classie98f3.js?1577682292">
   </script>
   <script src="../vendor-cdn.imweb.me/js/jquery.exif98f3.js?1577682292">
-  </script>
+  </script><script type="text/vbscript">
+Function IEBinary_getByteAt(strBinary, iOffset)
+	IEBinary_getByteAt = AscB(MidB(strBinary,iOffset+1,1))
+End Function
+Function IEBinary_getLength(strBinary)
+	IEBinary_getLength = LenB(strBinary)
+End Function
+</script>
   <script src="../vendor-cdn.imweb.me/js/jquery.canvasResize98f3.js?1577682292">
   </script>
   <script src="../vendor-cdn.imweb.me/js/autosize98f3.js?1577682292">
@@ -5766,5 +6552,6 @@ $("#text_w202303238e62e70385ade").find("._table_responsive").addClass("table").w
 		if(LOCAL_STORAGE.getLocalStorage('AUTO_LOGOUT_TIME')) LOCAL_STORAGE.deleteLocalStorage('AUTO_LOGOUT_TIME');
 		if(LOCAL_STORAGE.getLocalStorage('IS_AUTO_LOGOUT')) LOCAL_STORAGE.deleteLocalStorage('IS_AUTO_LOGOUT');
   </script>
- </body>
-</html>
+ 
+
+</div><ul id="image_list" style="display: none"></ul></body></html>
