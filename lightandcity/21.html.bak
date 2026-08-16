@@ -1,5 +1,5 @@
-<html class="js cssanimations js cssanimations js cssanimations" lang="ko"><head>
-  <script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/4918c89a/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script async="" src="//static.imweb.me/brand-scope/bs.esm.js" type="module">
+<html class="js cssanimations js cssanimations js cssanimations js cssanimations js cssanimations js cssanimations" lang="ko"><head>
+  <script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/b0d2d49a/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/b0d2d49a/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/b0d2d49a/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/4918c89a/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script async="" src="//static.imweb.me/brand-scope/bs.esm.js" type="module">
   </script>
   <script async="" id="www-widgetapi-script" src="https://www.youtube.com/s/player/4e11051b/www-widgetapi.vflset/www-widgetapi.js" type="text/javascript">
   </script>
@@ -2914,7 +2914,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
   </script>
   <script async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js" type="text/javascript">
   </script>
- <script type="text/javascript" async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js"></script></head>
+ <script type="text/javascript" async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js"></script><script type="text/javascript" async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js"></script><script type="text/javascript" async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js"></script><script type="text/javascript" async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js"></script></head>
  <body class="doz_sys _body_menu_m202212082cee2b7f156f8 new_header_overlay page fixed-menu-on new_fixed_menu_on new_header_site" id="doz_body" style="overflow-y: auto;">
   <div class="notification-canvas-container" id="site_alarm_slidemenu_container">
    <div class="notification-canvas-backdrop" id="site_alarm_slidemenu_backdrop" style="display: none">
@@ -3928,15 +3928,242 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
 
     <div class="op _op" style="position:relative; z-index:2;">
         <div class="header-content _visual_height m_ratio">
-            <div style="
-                display:flex;
-                justify-content:center;
-                align-items:center;
-                height:100%;
+    <style>
+@media (max-width: 768px) {
+
+    .lc-main {
+        height: auto !important;
+        min-height: 90%;
+        padding: 200px 20px 150px 20px !important;
+        box-sizing: border-box;
+    }
+
+    .lc-main-title {
+        font-size: 34px !important;
+        line-height: 1.3 !important;
+        margin-left: 0 !important;
+    }
+
+    .lc-main-company {
+        font-size: 18px !important;
+    }
+
+    .lc-main-desc {
+        font-size: 16px !important;
+        line-height: 1.7 !important;
+        margin-top: 18px !important;
+    }
+
+    /* 사업 박스 */
+    .lc-business {
+        flex-direction: column !important;
+        gap: 10px !important;
+        margin-top: 26px !important;
+        width: 100% !important;
+    }
+
+    .lc-business-box {
+        width: 100% !important;
+        min-height: 0 !important;
+        height: 82px !important;
+        padding: 14px 18px !important;
+        box-sizing: border-box !important;
+    }
+
+    .lc-business-title {
+        font-size: 16px !important;
+        line-height: 1.3 !important;
+        margin-bottom: 5px !important;
+    }
+
+    .lc-business-desc {
+        font-size: 12px !important;
+        line-height: 1.45 !important;
+    }
+
+}
+</style>
+
+
+<div class="lc-main" style="
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:flex-start;
+    height:80%;
+    text-align:left;
+    color:#fff;
+">
+
+    <div class="lc-main-company" style="
+        font-size:22px;
+        font-weight:500;
+        letter-spacing:0.05em;
+        margin-bottom:15px;
+        color:#fff;
+    ">
+        주식회사 빛과도시
+    </div>
+
+
+    <h1 class="lc-main-title" style="
+        margin:0 0 0 -7px;
+        font-size:48px;
+        line-height:1.2;
+        font-weight:600;
+        color:#fff;
+    ">
+        공간환경 분석기술 전문법인
+    </h1>
+
+
+    <p class="lc-main-desc" style="
+        margin:22px 0 0 0;
+        font-size:20px;
+        line-height:1.6;
+        color:#fff;
+    ">
+        - 빛 · 에너지 · 미기후 시뮬레이션<br>
+        - 국내외 규제 및 인허가 검토·대응<br>
+        - 환경갈등 · 분쟁 · 규명 기술자문
+    </p>
+
+
+    <div class="lc-business" style="
+        display:flex;
+        flex-direction:row;
+        gap:10px;
+        margin-top:20px;
+        width:100%;
+        max-width:680px;
+    ">
+
+
+        <!-- BOX 01 -->
+        <div class="lc-business-box" style="
+            flex:1;
+            min-height:120px;
+            padding:24px 26px;
+            box-sizing:border-box;
+            border:1px solid rgba(255,255,255,0.45);
+            background:rgba(0,0,0,0.16);
+            text-align:left;
+        ">
+
+            <div class="lc-business-title" style="
+                font-size:21px;
+                font-weight:500;
+                line-height:1.4;
+                color:#fff;
+                margin-bottom:12px;
             ">
-                <img src="https://raw.githubusercontent.com/lightandcity/lightandcity.github.io/main/logo/%EC%82%AC%EC%97%85%EB%B6%84%EC%95%BC.png" alt="사업분야" style="max-width:700px; width:100%; height:auto; transform:translateY(-30px);">
+                규제를 검토 중이신가요?
             </div>
+
+            <div class="lc-business-desc" style="
+                font-size:14px;
+                line-height:1.6;
+                color:rgba(255,255,255,0.75);
+            ">
+                건축, 토목, 에너지 사업의 규제 조건 내<br>
+                사업성 향상을 돕습니다
+            </div>
+
+            <a href="https://www.lightandcity.r-e.kr/lightandcity/52.html" style="
+                display:inline-block;
+                margin-top:16px;
+                font-size:13px;
+                color:#fff;
+                text-decoration:none;
+                border-bottom:1px solid rgba(255,255,255,0.55);
+                padding-bottom:2px;
+            ">
+                자세히 알아보기
+            </a>
+
         </div>
+
+
+        <!-- BOX 02 -->
+        <div class="lc-business-box" style="
+            flex:1;
+            min-height:50px;
+            padding:24px 26px;
+            box-sizing:border-box;
+            border:1px solid rgba(255,255,255,0.45);
+            background:rgba(0,0,0,0.16);
+            text-align:left;
+        ">
+
+            <div class="lc-business-title" style="
+                font-size:21px;
+                font-weight:500;
+                line-height:1.4;
+                color:#fff;
+                margin-bottom:12px;
+            ">
+                분쟁을 방어 중이신가요?
+            </div>
+
+            <div class="lc-business-desc" style="
+                font-size:14px;
+                line-height:1.6;
+                color:rgba(255,255,255,0.75);
+            ">
+                조례, 법규, 기타 환경조건 상 갈등에 대한<br>
+                규명과 방어를 돕습니다
+            </div>
+
+            <a href="https://www.lightandcity.r-e.kr/lightandcity/53.html" style="
+                display:inline-block;
+                margin-top:16px;
+                font-size:13px;
+                color:#fff;
+                text-decoration:none;
+                border-bottom:1px solid rgba(255,255,255,0.55);
+                padding-bottom:2px;
+            ">
+                자세히 알아보기
+            </a>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<style>
+@media (max-width:768px) {
+
+    /* 전체 영역 */
+    .header-content._visual_height.m_ratio > div {
+        height:65% !important;
+    }
+
+    /* 주식회사 빛과도시 */
+    .header-content._visual_height.m_ratio > div > div:first-child {
+        font-size:16px !important;
+        margin-bottom:10px !important;
+    }
+
+    /* 메인 제목 */
+    .header-content._visual_height.m_ratio h1 {
+        font-size:30px !important;
+        line-height:1.25 !important;
+        margin-left:0 !important;
+    }
+
+    /* 설명 */
+    .header-content._visual_height.m_ratio p {
+        font-size:14px !important;
+        line-height:1.6 !important;
+        margin-top:14px !important;
+    }
+
+}
+</style>
+</div>
     </div>
 
 </div>
@@ -3954,7 +4181,7 @@ ol.organizational-chart > li > ol > li > ol > li > ol > li > div {
              ADDRESS
              <span style="letter-spacing: 5px;">
              </span>
-             경기도 화성시 동탄중심상가1길 36, (반송동, 원영빌딩) 8층 801-J54호
+             경기도 양주시 덕계로 140(덕계동 925-3번지) 진산메디프라자 5층
              <br>
              사업자등록번호
              <span style="letter-spacing: 5px;">
@@ -4650,6 +4877,30 @@ LOCALIZE.타이틀_알림설정 = function(){ return LOCALIZE.convArguments("알
    </script>
    <script src="../vendor-cdn.imweb.me/js/jquery.exif98f3.js?1577682292">
    </script><script type="text/vbscript">
+Function IEBinary_getByteAt(strBinary, iOffset)
+	IEBinary_getByteAt = AscB(MidB(strBinary,iOffset+1,1))
+End Function
+Function IEBinary_getLength(strBinary)
+	IEBinary_getLength = LenB(strBinary)
+End Function
+</script>
+<script type="text/vbscript">
+Function IEBinary_getByteAt(strBinary, iOffset)
+	IEBinary_getByteAt = AscB(MidB(strBinary,iOffset+1,1))
+End Function
+Function IEBinary_getLength(strBinary)
+	IEBinary_getLength = LenB(strBinary)
+End Function
+</script>
+<script type="text/vbscript">
+Function IEBinary_getByteAt(strBinary, iOffset)
+	IEBinary_getByteAt = AscB(MidB(strBinary,iOffset+1,1))
+End Function
+Function IEBinary_getLength(strBinary)
+	IEBinary_getLength = LenB(strBinary)
+End Function
+</script>
+<script type="text/vbscript">
 Function IEBinary_getByteAt(strBinary, iOffset)
 	IEBinary_getByteAt = AscB(MidB(strBinary,iOffset+1,1))
 End Function
@@ -5544,7 +5795,7 @@ var carouselResize = function(){
 		if(LOCAL_STORAGE.getLocalStorage('AUTO_LOGOUT_TIME')) LOCAL_STORAGE.deleteLocalStorage('AUTO_LOGOUT_TIME');
 		if(LOCAL_STORAGE.getLocalStorage('IS_AUTO_LOGOUT')) LOCAL_STORAGE.deleteLocalStorage('IS_AUTO_LOGOUT');
    </script>
-  </div><ul id="image_list" style="display: none"></ul>
+  </div><ul id="image_list" style="display: none"></ul><ul id="image_list" style="display: none"></ul><ul id="image_list" style="display: none"></ul><ul id="image_list" style="display: none"></ul>
  
 
 </body></html>

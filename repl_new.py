@@ -5,8 +5,8 @@ import shutil
 ROOT_DIR = r"C:\Users\Kwon\Desktop\git\lightandcity.github.io\lightandcity"
 TARGET_EXTENSIONS = (".html", ".js", ".css")
 
-OLD_BLOCK = """경기도 화성시 동탄중심상가1길 36, (반송동, 원영빌딩) 8층 801-J54호"""
-NEW_BLOCK = """경기도 양주시 덕계로 140(덕계동 925-3번지) 진산메디프라자 5층"""
+OLD_BLOCK = """회사소개"""
+NEW_BLOCK = """법인소개"""
 
 BACKUP = True
 # =================
