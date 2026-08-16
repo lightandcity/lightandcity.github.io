@@ -5,8 +5,8 @@ import shutil
 ROOT_DIR = r"C:\Users\Kwon\Desktop\git\lightandcity.github.io\lightandcity"
 TARGET_EXTENSIONS = (".html", ".js", ".css")
 
-OLD_BLOCK = """조경식재·미기후 환경검토"""
-NEW_BLOCK = """환경갈등 · 분쟁 · 규명 기술자문"""
+OLD_BLOCK = """일조·채광·조망권 침해검토"""
+NEW_BLOCK = """빛 · 에너지 · 미기후 공학해석"""
 
 BACKUP = True
 # =================
