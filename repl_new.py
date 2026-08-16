@@ -5,8 +5,8 @@ import shutil
 ROOT_DIR = r"C:\Users\Kwon\Desktop\git\lightandcity.github.io\lightandcity"
 TARGET_EXTENSIONS = (".html", ".js", ".css")
 
-OLD_BLOCK = """회사소개"""
-NEW_BLOCK = """법인소개"""
+OLD_BLOCK = """의뢰사례"""
+NEW_BLOCK = """법인소식"""
 
 BACKUP = True
 # =================
